@@ -55,9 +55,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: hourly data refresh [skip ci]"
-          # Includes the dotfile Binance symbol snapshot alongside the public
-          # *.json files -- "data/*.json" alone would not match a dotfile,
-          # but the snapshot must persist across runs to detect new listings.
-          file_pattern: "data/*.json data/.*.json"
+          file_pattern: |
+            data/*.json
+            data/.*.json
           commit_user_name: "mahikshu-bot"
           commit_user_email: "actions@github.com"
