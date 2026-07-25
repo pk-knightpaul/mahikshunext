@@ -1,0 +1,63 @@
+name: Update Mahikshu Data
+
+on:
+  schedule:
+    # Runs at the top of every hour (UTC)
+    - cron: "0 * * * *"
+  workflow_dispatch: {}  # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: pip install -r requirements.txt
+
+      - name: Fetch Binance listings
+        working-directory: scripts
+        run: python fetch_binance.py
+
+      - name: Fetch CoinGecko trending
+        working-directory: scripts
+        run: python fetch_coingecko.py
+
+      - name: Fetch DexScreener boosts
+        working-directory: scripts
+        run: python fetch_dexscreener.py
+
+      - name: Fetch crypto news
+        working-directory: scripts
+        run: python fetch_news.py
+
+      - name: Update meta.json
+        working-directory: scripts
+        run: python update_meta.py
+
+      - name: Commit and push data changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: hourly data refresh [skip ci]"
+          # Includes the dotfile Binance symbol snapshot alongside the public
+          # *.json files -- "data/*.json" alone would not match a dotfile,
+          # but the snapshot must persist across runs to detect new listings.
+          file_pattern: "data/*.json data/.*.json"
+          commit_user_name: "mahikshu-bot"
+          commit_user_email: "actions@github.com"
