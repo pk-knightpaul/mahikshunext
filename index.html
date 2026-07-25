@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mahikshu — Crypto Content Opportunity Dashboard</title>
+  <meta name="description" content="Discover crypto content opportunities across listings, trending coins, DEX activity, and news — updated hourly." />
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-left">
+      <img src="assets/logo.svg" alt="Mahikshu logo" class="logo" />
+      <div class="title-block">
+        <h1>Mahikshu</h1>
+        <p class="tagline">Swiftly survey the crypto earth.</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <button id="ai-setup-btn" class="btn btn-secondary" type="button">AI Setup</button>
+      <button id="dark-mode-toggle" class="btn btn-icon" type="button" aria-label="Toggle dark mode">
+        <span id="theme-icon">🌙</span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="filters-bar" aria-label="Filters">
+      <div class="filter-group">
+        <label for="filter-platform">Platform</label>
+        <select id="filter-platform">
+          <option value="all">All</option>
+          <option value="binance">Binance</option>
+          <option value="coingecko">CoinGecko</option>
+          <option value="dexscreener">DexScreener</option>
+          <option value="news">News</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filter-time">Time Range</label>
+        <select id="filter-time">
+          <option value="now">Right now</option>
+          <option value="today">Today</option>
+          <option value="24h" selected>Last 24h</option>
+          <option value="week">This week</option>
+          <option value="month">This month</option>
+          <option value="all">All time</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filter-sort">Sort</label>
+        <select id="filter-sort">
+          <option value="newest">Newest</option>
+          <option value="engagement">Highest Engagement</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="status-bar" aria-live="polite">
+      <span id="last-updated">Last updated: —</span>
+      <span id="opportunity-count">0 opportunities found</span>
+    </section>
+
+    <section id="cards-grid" class="cards-grid" aria-label="Content opportunities">
+      <!-- Cards are rendered here by js/app.js -->
+    </section>
+
+    <p id="empty-state" class="empty-state" hidden>No opportunities match your filters right now. Try widening the time range.</p>
+  </main>
+
+  <dialog id="ai-setup-dialog">
+    <form method="dialog" id="ai-setup-form">
+      <h2>AI Setup (BYOK)</h2>
+      <p class="dialog-hint">
+        Your API key is stored only in this browser's session storage. It is never sent anywhere except directly to your chosen AI provider, and it's cleared when you close this tab.
+      </p>
+      <label for="ai-provider">Provider</label>
+      <select id="ai-provider">
+        <option value="anthropic">Anthropic (Claude)</option>
+        <option value="openai">OpenAI</option>
+      </select>
+      <label for="ai-api-key">API Key</label>
+      <input id="ai-api-key" type="password" autocomplete="off" placeholder="sk-..." />
+      <div class="dialog-actions">
+        <button type="button" id="ai-clear-btn" class="btn btn-secondary">Clear Key</button>
+        <button type="submit" id="ai-save-btn" class="btn btn-primary">Save</button>
+      </div>
+    </form>
+  </dialog>
+
+  <footer class="site-footer">
+    <p>Mahikshu is a static, $0-cost dashboard. Data refreshes hourly via GitHub Actions.</p>
+  </footer>
+
+  <script type="module" src="js/storage.js"></script>
+  <script type="module" src="js/ai.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

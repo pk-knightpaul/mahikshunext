@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://dexscreener.com/solana/7xkxtg2cw87d97txjsdpbd5jbkheTqA83TZRuJosgAsU",
+    "chainId": "solana",
+    "tokenAddress": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+    "amount": 500,
+    "totalAmount": 1500,
+    "description": "A newly boosted token pair seeing rapid liquidity growth."
+  },
+  {
+    "url": "https://dexscreener.com/base/0xabc123",
+    "chainId": "base",
+    "tokenAddress": "0xabc123",
+    "amount": 100,
+    "totalAmount": 100
+  },
+  {
+    "chainId": "ethereum",
+    "tokenAddress": "",
+    "amount": 50
+  }
+]

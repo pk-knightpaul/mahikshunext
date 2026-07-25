@@ -1,0 +1,30 @@
+{
+  "timezone": "UTC",
+  "serverTime": 1753430400000,
+  "symbols": [
+    {
+      "symbol": "BTCUSDT",
+      "status": "TRADING",
+      "baseAsset": "BTC",
+      "quoteAsset": "USDT"
+    },
+    {
+      "symbol": "ETHUSDT",
+      "status": "TRADING",
+      "baseAsset": "ETH",
+      "quoteAsset": "USDT"
+    },
+    {
+      "symbol": "NEWCOINUSDT",
+      "status": "TRADING",
+      "baseAsset": "NEWCOIN",
+      "quoteAsset": "USDT"
+    },
+    {
+      "symbol": "HALTEDUSDT",
+      "status": "HALT",
+      "baseAsset": "HALTED",
+      "quoteAsset": "USDT"
+    }
+  ]
+}

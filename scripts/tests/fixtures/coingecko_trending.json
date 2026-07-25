@@ -1,0 +1,31 @@
+{
+  "coins": [
+    {
+      "item": {
+        "id": "pepe2",
+        "name": "Pepe 2.0",
+        "symbol": "pepe2",
+        "market_cap_rank": 412,
+        "score": 0
+      }
+    },
+    {
+      "item": {
+        "id": "some-dog-coin",
+        "name": "Some Dog Coin",
+        "symbol": "sdc",
+        "market_cap_rank": null,
+        "score": 1
+      }
+    },
+    {
+      "item": {
+        "id": "no-name-coin",
+        "name": "",
+        "symbol": "nnc",
+        "market_cap_rank": 900,
+        "score": 2
+      }
+    }
+  ]
+}
