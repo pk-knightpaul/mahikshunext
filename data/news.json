@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_642be482befc3854",
+    "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
+    "published_at": "2026-07-27T20:09:57Z",
+    "engagement": 0,
+    "summary": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3b8bfc1a085da77f",
+    "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+    "published_at": "2026-07-27T19:55:45Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_84f9e8642218818f",
+    "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets",
+    "published_at": "2026-07-27T19:45:31Z",
+    "engagement": 0,
+    "summary": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_fb004d74cbc2a0aa",
+    "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T19:22:59Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitmine keeps buying Ether as ETH outperforms Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdin",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_f6530af0a45fed30",
+    "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
+    "published_at": "2026-07-27T19:01:04Z",
+    "engagement": 0,
+    "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T18:51:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c29c605c52954788",
+    "title": "Securitize Capital becomes SEC-registered investment adviser",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-27T18:41:30Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Securitize Capital becomes SEC-registered investment adviser\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-crypto-deriv-could-change-the-industry-stablecoin.png\" />",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_7f7d3fe5148906ca",
+    "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
+    "published_at": "2026-07-27T18:24:29Z",
+    "engagement": 0,
+    "summary": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing—and someone already saved 11,241 of those messages to GitHub.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_f51cb55a513634d9",
     "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
     "platform": "news",
@@ -420,20 +532,6 @@
     ]
   },
   {
-    "id": "news_c758d2baf19d052e",
-    "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
-    "published_at": "2026-07-27T11:15:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_96242644318dec79",
     "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
     "platform": "news",
@@ -518,48 +616,6 @@
     ]
   },
   {
-    "id": "news_c966d29a06997f60",
-    "title": "BitMart withdrawals appear to slow following wind-down announcement",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T04:34:44Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BitMart withdrawals appear to slow following wind-down announcement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bancor-excludes-users-1.jpg\" /> </p> <p>Users reported",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_4948f7d9fd26745d",
-    "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T01:58:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Garden Finance disables app as Blockaid reports $450,000 exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bithumb-hack-what-is-known.jpg\" /> </p> <p>Garden Finance",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a9707e7bca5fdad9",
-    "title": "Storj files for bankruptcy, explores equity path for tokenholders",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-27T01:01:43Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Storj files for bankruptcy, explores equity path for tokenholders \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/data-storage-system-2.jpg\" /> </p> <p>The decentralized st",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_e56dfbf7d5ee5cf4",
     "title": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-07-26T14:01:03Z",
     "engagement": 0,
     "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_de5505ef6b49acc5",
-    "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
-    "published_at": "2026-07-25T14:01:03Z",
-    "engagement": 0,
-    "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_56526fc68f108559",
-    "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-    "published_at": "2026-07-24T22:03:16Z",
-    "engagement": 0,
-    "summary": "For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_cd2943ff6a95ee8a",
-    "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-    "published_at": "2026-07-24T19:30:01Z",
-    "engagement": 0,
-    "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b10c807ff2c87aad",
-    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-    "published_at": "2026-07-24T18:28:43Z",
-    "engagement": 0,
-    "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
     "tags": [
       "news",
       "decrypt"
