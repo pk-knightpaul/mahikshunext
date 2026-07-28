@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_39fed5dcdb1dd63b",
+    "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+    "published_at": "2026-07-28T17:23:35Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_38f882f788e7ff8d",
+    "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
+    "published_at": "2026-07-28T16:54:11Z",
+    "engagement": 0,
+    "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9a553215c2817b6c",
+    "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T16:27:46Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-126255-openai-semiconductor-chip-enti",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_6087a770a15834bc",
+    "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
+    "published_at": "2026-07-28T16:22:18Z",
+    "engagement": 0,
+    "summary": "The Bitcoin bounce looked promising. The charts now say it wasn't.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b9b1a7be7424ed31",
+    "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T16:20:57Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-an-ipo-a-beginn",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_752f1305b064789e",
+    "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
+    "published_at": "2026-07-28T16:08:19Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f2cd650c0dd1528e",
+    "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T15:47:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-code-ai-bitcoin.jpg\" /> </p> <p>Core ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_451d68c5daf38c74",
+    "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
+    "published_at": "2026-07-28T15:46:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_243b5ca16c3aa2ec",
     "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
     "platform": "news",
@@ -140,11 +252,11 @@
     ]
   },
   {
-    "id": "news_a0f44c5d81460e65",
+    "id": "news_aad689b50c90d83a",
     "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
     "platform": "news",
     "content_type": "article",
-    "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-07-28T12:07:51Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"PayPal expands stablecoin push as crypto assets factor into Q2 results\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/paypal.jpg\" /> </p> <p>PayPal highlighted growth of st",
@@ -378,48 +490,6 @@
     ]
   },
   {
-    "id": "news_6a1fe2cc387e62dd",
-    "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
-    "published_at": "2026-07-28T08:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_578f2b285b2514e1",
-    "title": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
-    "published_at": "2026-07-28T07:55:41Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_62c52da489a872a9",
-    "title": "Live updates: Bitcoin falls back to $63,000 as Nasdaq nears correction territory",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
-    "published_at": "2026-07-28T07:46:22Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_50e8d7dbc387616c",
     "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
     "platform": "news",
@@ -456,48 +526,6 @@
     "published_at": "2026-07-28T04:28:10Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US judge temporarily blocks Minnesota prediction market ban \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news-1.png\" /> </p> <p>The preliminary in",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_896f3520653d5428",
-    "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T03:17:10Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Zimbabwe admits 7 fintech projects to regulatory sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg\" /> </p> <p>Sandbox participation permits supervised",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7a7ead2195b571fe",
-    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T02:21:04Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Hong Kong prepares banks for quantum threats amid tokenization push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-trea",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_3dcba6a2ffc2fe4b",
-    "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T01:23:07Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance phishes its own staff monthly, India censors BitChat code: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg\" /> </p> <p>Binance has be",
     "tags": [
       "news",
       "cointelegraph"
@@ -596,34 +624,6 @@
     "published_at": "2026-07-27T19:01:04Z",
     "engagement": 0,
     "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7f7d3fe5148906ca",
-    "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
-    "published_at": "2026-07-27T18:24:29Z",
-    "engagement": 0,
-    "summary": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing—and someone already saved 11,241 of those messages to GitHub.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_d01f29969e68785e",
-    "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
-    "published_at": "2026-07-27T17:58:46Z",
-    "engagement": 0,
-    "summary": "More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.",
     "tags": [
       "news",
       "decrypt"
