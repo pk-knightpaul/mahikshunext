@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_75f68cd34356f525",
+    "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
+    "published_at": "2026-07-28T19:14:14Z",
+    "engagement": 0,
+    "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b54e2b38a0d86f9b",
+    "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T18:47:26Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"AmericanFortress proposes quantum-safe crypto wallet protection without fund migration\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-yea",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_2d0ca42764728172",
+    "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
+    "published_at": "2026-07-28T18:35:37Z",
+    "engagement": 0,
+    "summary": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b80c513f18fdcafd",
+    "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
+    "published_at": "2026-07-28T18:24:19Z",
+    "engagement": 0,
+    "summary": "The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T18:15:25Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b2de9ecbea4696e4",
+    "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T18:08:32Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Galaxy, MARA Holdings deepen Texas expansion with land acquisitions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-texas.jpg\" /> </p> <p>The cr",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_1432711acaebde59",
+    "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
+    "published_at": "2026-07-28T18:04:00Z",
+    "engagement": 0,
+    "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_39fed5dcdb1dd63b",
     "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
     "platform": "news",
@@ -165,20 +263,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T13:42:17Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -504,34 +588,6 @@
     ]
   },
   {
-    "id": "news_d9a36e8c5471d283",
-    "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T06:00:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance co-founder CZ backs crypto license passporting across ASEAN \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cz-vs-eu.png\" /> </p> <p>Binance co-founder CZ backed",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_ba48832811caf99d",
-    "title": "US judge temporarily blocks Minnesota prediction market ban",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T04:28:10Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US judge temporarily blocks Minnesota prediction market ban \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news-1.png\" /> </p> <p>The preliminary in",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_2fb1650307e178db",
     "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-07-27T21:05:05Z",
     "engagement": 0,
     "summary": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_5eedf86ef0928e59",
-    "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
-    "published_at": "2026-07-27T20:43:16Z",
-    "engagement": 0,
-    "summary": "Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_642be482befc3854",
-    "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
-    "published_at": "2026-07-27T20:09:57Z",
-    "engagement": 0,
-    "summary": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_84f9e8642218818f",
-    "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets",
-    "published_at": "2026-07-27T19:45:31Z",
-    "engagement": 0,
-    "summary": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f6530af0a45fed30",
-    "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
-    "published_at": "2026-07-27T19:01:04Z",
-    "engagement": 0,
-    "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
     "tags": [
       "news",
       "decrypt"
