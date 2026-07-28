@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_dce48a576b0c83e1",
+    "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+    "published_at": "2026-07-28T20:45:38Z",
+    "engagement": 0,
+    "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7e90351c193a11b7",
+    "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+    "published_at": "2026-07-28T20:23:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_2bb1cff6541adedf",
+    "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-28T20:10:46Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Morgan Stanley expands crypto lineup with Ether, Solana ETPs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bankcman-morgan-stanley.png\" /> </p> <p>The new exchange-traded ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_034bdbde1a50dd1b",
+    "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
+    "published_at": "2026-07-28T20:08:48Z",
+    "engagement": 0,
+    "summary": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f1fcccec590bfd2b",
+    "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
+    "published_at": "2026-07-28T19:44:26Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_997c1346e715c8dd",
+    "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
+    "published_at": "2026-07-28T19:36:03Z",
+    "engagement": 0,
+    "summary": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_75f68cd34356f525",
     "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
     "platform": "news",
@@ -504,34 +588,6 @@
     ]
   },
   {
-    "id": "news_01f987efbfc49e29",
-    "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
-    "published_at": "2026-07-28T10:05:43Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_ecf443747ab4048a",
-    "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
-    "published_at": "2026-07-28T09:36:01Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_b245ab91a606c498",
     "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-07-28T09:04:19Z",
     "engagement": 0,
     "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_50e8d7dbc387616c",
-    "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-28T07:40:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ledger-and-monero2.jpg\" /> </p> <p>Three users allege a f",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_2fb1650307e178db",
-    "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-    "published_at": "2026-07-27T23:00:04Z",
-    "engagement": 0,
-    "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f3dc45e61c620dc9",
-    "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-    "published_at": "2026-07-27T22:31:03Z",
-    "engagement": 0,
-    "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_978cc6a2070b3080",
-    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
-    "published_at": "2026-07-27T21:05:05Z",
-    "engagement": 0,
-    "summary": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
     "tags": [
       "news",
       "decrypt"
