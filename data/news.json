@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_a4d17bea732f5d0c",
+    "title": "Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
+    "published_at": "2026-07-29T23:12:04Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_d652eb155a059670",
+    "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
+    "published_at": "2026-07-29T22:31:03Z",
+    "engagement": 0,
+    "summary": "A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1c0133c280073bae",
+    "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
+    "published_at": "2026-07-29T22:01:24Z",
+    "engagement": 0,
+    "summary": "Robinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_fb2412592fb7cd89",
     "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
     "platform": "news",
@@ -560,20 +602,6 @@
     ]
   },
   {
-    "id": "news_0a4f6b5a0f254415",
-    "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
-    "published_at": "2026-07-29T10:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_e8d69eeda0ea29cd",
     "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-07-29T09:34:35Z",
     "engagement": 0,
     "summary": "Durov has previously called Russia’s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bf11ee739d4e9fe0",
-    "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-    "published_at": "2026-07-28T22:46:03Z",
-    "engagement": 0,
-    "summary": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_da630dda1f7a6917",
-    "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-    "published_at": "2026-07-28T22:08:04Z",
-    "engagement": 0,
-    "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
     "tags": [
       "news",
       "decrypt"
