@@ -1,5 +1,131 @@
 [
   {
+    "id": "news_79037f9c3ab2fb6d",
+    "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/resources/zcash",
+    "published_at": "2026-07-29T16:43:52Z",
+    "engagement": 0,
+    "summary": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_268783a87f35842e",
+    "title": "AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots",
+    "published_at": "2026-07-29T16:38:25Z",
+    "engagement": 0,
+    "summary": "AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_78fed23228a0c9fe",
+    "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T16:20:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-are-trading-crypto-now-but",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_73290fca40127c6f",
+    "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
+    "published_at": "2026-07-29T16:16:43Z",
+    "engagement": 0,
+    "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_790c09f739c366dd",
+    "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+    "published_at": "2026-07-29T16:09:34Z",
+    "engagement": 0,
+    "summary": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8759149a06d78209",
+    "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
+    "published_at": "2026-07-29T16:09:32Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_47c41cf8335e03b8",
+    "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T16:04:22Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Cost to insure AI debt reaches record high amid Asian semiconductor tumble\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg\" /> </p> <p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_2ed702165d4d5c36",
+    "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+    "published_at": "2026-07-29T15:27:30Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1f8ab6c883f41a95",
+    "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+    "published_at": "2026-07-29T15:15:08Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_587c631351f25c25",
     "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
     "platform": "news",
@@ -364,48 +490,6 @@
     ]
   },
   {
-    "id": "news_591faa84a7fbb305",
-    "title": "Live updates: Bitcoin attempts to hold $64,000 ahead of Fed as AI favorites fall again",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
-    "published_at": "2026-07-29T06:25:21Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_7fbcd9536e4f76b0",
-    "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-    "published_at": "2026-07-29T06:03:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_0fc29dbe31d915ba",
-    "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
-    "published_at": "2026-07-29T05:37:38Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_585ca7b2dac4d3e4",
     "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
     "platform": "news",
@@ -442,34 +526,6 @@
     "published_at": "2026-07-29T03:43:05Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korea plans stablecoin rules as opposition pushes crypto tax repeal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-cris",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_d7387c70fbd4b573",
-    "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T03:26:44Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ebang-goes-for-nasdaq-whos-next-and-why-only-mining-f",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_c11a677b3c89b778",
-    "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T02:50:51Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tether signs tokenization deal with Nairobi Securities Exchange\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bank-building-hall-entrance-revolving-doorsthreetether.jpg\" /",
     "tags": [
       "news",
       "cointelegraph"
@@ -568,62 +624,6 @@
     "published_at": "2026-07-28T18:35:37Z",
     "engagement": 0,
     "summary": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b80c513f18fdcafd",
-    "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
-    "published_at": "2026-07-28T18:24:19Z",
-    "engagement": 0,
-    "summary": "The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_1432711acaebde59",
-    "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
-    "published_at": "2026-07-28T18:04:00Z",
-    "engagement": 0,
-    "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_38f882f788e7ff8d",
-    "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
-    "published_at": "2026-07-28T16:54:11Z",
-    "engagement": 0,
-    "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6087a770a15834bc",
-    "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
-    "published_at": "2026-07-28T16:22:18Z",
-    "engagement": 0,
-    "summary": "The Bitcoin bounce looked promising. The charts now say it wasn't.",
     "tags": [
       "news",
       "decrypt"
