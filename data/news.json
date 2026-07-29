@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_bfc7fc3af38c277d",
+    "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
+    "published_at": "2026-07-29T20:46:03Z",
+    "engagement": 0,
+    "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_585a6e77ffc131d2",
+    "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+    "published_at": "2026-07-29T20:40:43Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_5a04eee0f0fb8114",
+    "title": "Crypto entering biggest consolidation phase in history, says ARK analyst",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T20:40:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto entering biggest consolidation phase in history, says ARK analyst\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c72a6665dd348d80",
+    "title": "Tennessee county passes another ban on crypto operations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T20:11:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tennessee county passes another ban on crypto operations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-5-biggest-bitcoin-mining-farms-tn.jpg\" /> </p> <p>A group of ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_311d16034be1c318",
+    "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+    "published_at": "2026-07-29T20:01:03Z",
+    "engagement": 0,
+    "summary": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_642aae875650b07d",
+    "title": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T19:43:29Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US prosecutors propose changes to CLARITY as voting window narrows: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-semen-lot-of-papers-clarity-act.jpg\" />",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_fc2f230b9e0712d1",
+    "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
+    "published_at": "2026-07-29T19:31:03Z",
+    "engagement": 0,
+    "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_0235a25a07c31c8d",
     "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
     "platform": "news",
@@ -476,20 +574,6 @@
     ]
   },
   {
-    "id": "news_e118924d3367cf02",
-    "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
-    "published_at": "2026-07-29T09:22:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_e69063a298eb5286",
     "title": "Hungary repeals crypto checks as first MiCA license is granted",
     "platform": "news",
@@ -518,48 +602,6 @@
     ]
   },
   {
-    "id": "news_f7829877f65b5906",
-    "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T07:16:47Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs extend outflow streak as BTC fails to hold $65K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-exchange-executive-digital-currency-as-the-basis-of-t",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_bb096acb89a542fc",
-    "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T07:11:27Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"UK policy sprint finds cross-border payments are stablecoins’ top use case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2.jpg\" /> </p> <p>Industry partic",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_585ca7b2dac4d3e4",
-    "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T05:29:48Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid-1.jpg\" /> </p> <p>Trade.x",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_bf11ee739d4e9fe0",
     "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
     "platform": "news",
@@ -582,48 +624,6 @@
     "published_at": "2026-07-28T22:08:04Z",
     "engagement": 0,
     "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_dce48a576b0c83e1",
-    "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
-    "published_at": "2026-07-28T20:45:38Z",
-    "engagement": 0,
-    "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_034bdbde1a50dd1b",
-    "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
-    "published_at": "2026-07-28T20:08:48Z",
-    "engagement": 0,
-    "summary": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_997c1346e715c8dd",
-    "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
-    "published_at": "2026-07-28T19:36:03Z",
-    "engagement": 0,
-    "summary": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
     "tags": [
       "news",
       "decrypt"
