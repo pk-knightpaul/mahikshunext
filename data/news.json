@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_0235a25a07c31c8d",
+    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+    "published_at": "2026-07-29T18:43:45Z",
+    "engagement": 0,
+    "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_848eaae4472454f7",
+    "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
+    "published_at": "2026-07-29T18:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_129821d811975703",
+    "title": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/29/fomc-hold-fed-holds-rates-steady-extending-pause-as-markets-await-warsh-s-policy-roadmap",
+    "published_at": "2026-07-29T17:58:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_45fcb2cc159010c2",
+    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
+    "published_at": "2026-07-29T17:18:49Z",
+    "engagement": 0,
+    "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a27ad12d379b5117",
+    "title": "Binance launches regulated gold, silver options through ADGM exchange",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T17:09:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance launches regulated gold, silver options through ADGM exchange\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/twin-peaks-price-falling-down-red-new.png\" /> </p> <p>N",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_30a274d25bf1919f",
+    "title": "Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-29T17:06:55Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-116994-bitcoin-price-fomc-mt-go",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_79037f9c3ab2fb6d",
     "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
     "platform": "news",
@@ -420,20 +504,6 @@
     ]
   },
   {
-    "id": "news_a16425ba90d8b02c",
-    "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
-    "published_at": "2026-07-29T09:10:54Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_8a357906980cb930",
     "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
     "platform": "news",
@@ -445,20 +515,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_04047d2c5fc02992",
-    "title": "SpaceX is a battleground Solana must win",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
-    "published_at": "2026-07-29T08:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -498,34 +554,6 @@
     "published_at": "2026-07-29T05:29:48Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid-1.jpg\" /> </p> <p>Trade.x",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_1b58ff460c285fd6",
-    "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T05:02:07Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Uniswap founder rejects claims v4 fees reduce LP earnings\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-paying-with-uniswap-a-beginners-guide-on-how-to-buy-with-uniswap",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_37465716003a553e",
-    "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T03:43:05Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korea plans stablecoin rules as opposition pushes crypto tax repeal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-cris",
     "tags": [
       "news",
       "cointelegraph"
@@ -596,34 +624,6 @@
     "published_at": "2026-07-28T19:36:03Z",
     "engagement": 0,
     "summary": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_75f68cd34356f525",
-    "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-    "published_at": "2026-07-28T19:14:14Z",
-    "engagement": 0,
-    "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2d0ca42764728172",
-    "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
-    "published_at": "2026-07-28T18:35:37Z",
-    "engagement": 0,
-    "summary": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
     "tags": [
       "news",
       "decrypt"
