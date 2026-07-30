@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_7ce3a5d03ac47c8a",
+    "title": "Researchers Tried Letting AI Do Science. It Failed",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
+    "published_at": "2026-07-30T19:13:46Z",
+    "engagement": 0,
+    "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_61e95e6ab391d776",
+    "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T17:38:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Aviva Investors launches tokenized fund after Central Bank of Ireland approval\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ripple-vs-xrp-vs-xrp-ledger-2.png\" /> </p> <p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_6fd6bae41762f921",
+    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+    "published_at": "2026-07-30T17:36:03Z",
+    "engagement": 0,
+    "summary": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4848471e25288abd",
+    "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+    "published_at": "2026-07-30T17:34:03Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_1f8475bc21c50001",
     "title": "Canadian crypto ownership increases to 25%: Ontario survey",
     "platform": "news",
@@ -434,20 +490,6 @@
     ]
   },
   {
-    "id": "news_3d85bd9561c15229",
-    "title": "Live updates: Bitcoin rises above $64,000 as Microsoft's AI payoff lifts stocks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
-    "published_at": "2026-07-30T09:01:13Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_47ab8840781ae381",
     "title": "Australia sues Telegram over alleged failures to remove terror content",
     "platform": "news",
@@ -518,20 +560,6 @@
     ]
   },
   {
-    "id": "news_f876ade053735f72",
-    "title": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T04:13:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-box-1.jp",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_d652eb155a059670",
     "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-07-29T19:31:03Z",
     "engagement": 0,
     "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_0235a25a07c31c8d",
-    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
-    "published_at": "2026-07-29T18:43:45Z",
-    "engagement": 0,
-    "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_45fcb2cc159010c2",
-    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-    "published_at": "2026-07-29T17:18:49Z",
-    "engagement": 0,
-    "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
     "tags": [
       "news",
       "decrypt"
