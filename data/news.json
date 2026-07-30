@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_89dce120825fe147",
+    "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T15:48:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tokenized gold passes DeFi stress test, but less than 2% is used as collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gold-coin.jpg\" /> </p> <p>A RedStone report fo",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_da10b4db6fc03adb",
+    "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
+    "published_at": "2026-07-30T15:42:17Z",
+    "engagement": 0,
+    "summary": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal—and wants a federal court to stop it before Saturday.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7a7332e6c44f8e37",
+    "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
+    "published_at": "2026-07-30T15:22:50Z",
+    "engagement": 0,
+    "summary": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_930db6ea1797a599",
+    "title": "Crypto for Advisors: Is the Clarity Act dead?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
+    "published_at": "2026-07-30T15:00:49Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f39365280baec16c",
+    "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
+    "published_at": "2026-07-30T14:33:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_275fabf55ca59fc4",
+    "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
+    "published_at": "2026-07-30T14:25:41Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_48cbc411a3174056",
+    "title": "South Korean crypto trading surges amid stock market plunge",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-30T14:10:31Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korean crypto trading surges amid stock market plunge\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_ac9b553f4de0d744",
+    "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+    "published_at": "2026-07-30T14:06:14Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_fc173f33cf15f097",
     "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
     "platform": "news",
@@ -39,6 +151,20 @@
     "tags": [
       "news",
       "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_10f11658286d9515",
+    "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
+    "published_at": "2026-07-30T13:35:51Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
     ]
   },
   {
@@ -294,34 +420,6 @@
     ]
   },
   {
-    "id": "news_51bd534455014233",
-    "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
-    "published_at": "2026-07-30T06:59:10Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_bc327d68d8a2d6c4",
-    "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
-    "published_at": "2026-07-30T06:28:58Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_6e5a6bc09ea2e7cc",
     "title": "South Korea report proposes stablecoin rules before crypto law",
     "platform": "news",
@@ -347,34 +445,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a07e5721d6c5bbff",
-    "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
-    "published_at": "2026-07-30T05:19:47Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_643d8d64c61f0798",
-    "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-    "published_at": "2026-07-30T04:16:30Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -434,20 +504,6 @@
     ]
   },
   {
-    "id": "news_a4d17bea732f5d0c",
-    "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
-    "published_at": "2026-07-29T23:12:04Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d652eb155a059670",
     "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
     "platform": "news",
@@ -473,34 +529,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_84f03868a6061043",
-    "title": "Robinhood posts record quarter as crypto revenue slides 38%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T21:53:35Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Robinhood posts record quarter as crypto revenue slides 38%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/robinhood.jpg\" /> </p> <p>The online brokerage continued expandin",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_73f908a363179859",
-    "title": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-29T21:52:27Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc.jpg\" /> </p> ",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -596,34 +624,6 @@
     "published_at": "2026-07-29T16:38:25Z",
     "engagement": 0,
     "summary": "AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_73290fca40127c6f",
-    "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
-    "published_at": "2026-07-29T16:16:43Z",
-    "engagement": 0,
-    "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_790c09f739c366dd",
-    "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
-    "published_at": "2026-07-29T16:09:34Z",
-    "engagement": 0,
-    "summary": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
     "tags": [
       "news",
       "decrypt"
