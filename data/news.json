@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_02d03b04b5fa31f1",
+    "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
+    "published_at": "2026-07-31T05:43:39Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_7ba264c4f6c10ef5",
+    "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+    "published_at": "2026-07-31T05:12:55Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_7c0b3efc76462b32",
+    "title": "Crypto’s next altseason may have fewer winners: Wintermute",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T04:46:14Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto’s next altseason may have fewer winners: Wintermute\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-has-the-new-altseason-begun-1.jpg\" /> </p> <p>Institutional inv",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a20aa2c9579b7426",
+    "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T02:38:09Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.jpg\" /> </p> <p>Coinkite urged Coldcar",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_a9fd2f903da90f6e",
     "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
     "platform": "news",
@@ -15,13 +71,13 @@
   },
   {
     "id": "news_9179308495c49615",
-    "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+    "title": "US senators sent revised ethics rules to White House for CLARITY Act: Report",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-07-30T21:54:38Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US Senators sent revised ethics rules to White House for CLARITY Act: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg\" /> </p> <p>The window t",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US senators sent revised ethics rules to White House for CLARITY Act: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg\" /> </p> <p>The window t",
     "tags": [
       "news",
       "cointelegraph"
@@ -392,20 +448,6 @@
     ]
   },
   {
-    "id": "news_48cbc411a3174056",
-    "title": "South Korean crypto trading surges amid stock market plunge",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T14:10:31Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korean crypto trading surges amid stock market plunge\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_ac9b553f4de0d744",
     "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
     "platform": "news",
@@ -459,20 +501,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_6d687356f433eb84",
-    "title": "BitRiver founder charged in Russia over alleged $8M fraud",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T13:26:06Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BitRiver founder charged in Russia over alleged $8M fraud\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-oracle-attack.jpg\" /> </p> <p>Russian authorities charged BitRiv",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -543,34 +571,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_fcb8e057b3cf2afd",
-    "title": "Bitcoin ETFs on track for the smallest monthly inflows ever",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
-    "published_at": "2026-07-30T11:18:34Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_4ebab97b36724855",
-    "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-    "published_at": "2026-07-30T11:17:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
