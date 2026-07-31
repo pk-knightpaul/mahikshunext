@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_14756f500e473216",
+    "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+    "published_at": "2026-07-31T09:02:01Z",
+    "engagement": 0,
+    "summary": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_94be46ded8355738",
+    "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T08:57:53Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-aave-survived-845b-in-withdrawals-but-the-ris",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_8d1aae33c244586a",
+    "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+    "published_at": "2026-07-31T08:57:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_2022d798bfee642d",
+    "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+    "published_at": "2026-07-31T08:30:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e5fd3e300519e92d",
+    "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T08:29:51Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-tokenize-real-world-assets-on-bitcoin-1.jpg\" /> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_60f41ea768d2c67a",
+    "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
+    "published_at": "2026-07-31T07:46:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_901f87e3f103cedb",
+    "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-07-31T06:46:23Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs post $233M inflows, pushing week back into the green\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-etf-waiting-2.png\" /> </p> <p>BlackRock’s IBIT led $233",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_02d03b04b5fa31f1",
     "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
     "platform": "news",
@@ -322,20 +420,6 @@
     ]
   },
   {
-    "id": "news_45d4e513492efde7",
-    "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T16:17:29Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-bitcoin-a-hedge-against-inflation.jpg\" />",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_ac143d943faa464d",
     "title": "Ondo Finance weighs acquisition worth up to $500 million",
     "platform": "news",
@@ -347,34 +431,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_e67deade985a5497",
-    "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T15:53:16Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Hyperscale Data sells 100 BTC to fund Michigan AI data center\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-rise-of-major-institutions-is-inevitable-data-centers-re",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_89dce120825fe147",
-    "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-07-30T15:48:37Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tokenized gold passes DeFi stress test, but less than 2% is used as collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gold-coin.jpg\" /> </p> <p>A RedStone report fo",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -490,20 +546,6 @@
     ]
   },
   {
-    "id": "news_10f11658286d9515",
-    "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
-    "published_at": "2026-07-30T13:35:51Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_ca221194bab7d7df",
     "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
     "platform": "news",
@@ -515,34 +557,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_baac349ff48e1fb5",
-    "title": "Everything is becoming a perp",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
-    "published_at": "2026-07-30T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_bb49bff39b3d0789",
-    "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
-    "published_at": "2026-07-30T12:09:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -610,20 +624,6 @@
     "published_at": "2026-07-29T22:01:24Z",
     "engagement": 0,
     "summary": "Robinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bfc7fc3af38c277d",
-    "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
-    "published_at": "2026-07-29T20:46:03Z",
-    "engagement": 0,
-    "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
     "tags": [
       "news",
       "decrypt"
