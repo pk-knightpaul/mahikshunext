@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_016c1bf409db4dce",
+    "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+    "published_at": "2026-08-02T15:01:03Z",
+    "engagement": 0,
+    "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_ee2cdb60ccf8aa79",
     "title": "The reverse bridge: Crypto meets Wall Street using perps",
     "platform": "news",
@@ -47,7 +61,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-02T11:20:06Z",
+    "published_at": "2026-08-02T11:24:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BNB Chain pursues legal action after ex-employee’s memecoin launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-social-engineering-attack-bnb-chain.jpg\" /> <",
     "tags": [
@@ -61,7 +75,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-02T09:29:15Z",
+    "published_at": "2026-08-02T09:31:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg\" /> </p> <p>Trump Media transferred a",
     "tags": [
@@ -75,7 +89,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-02T08:04:56Z",
+    "published_at": "2026-08-02T08:07:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-segwit-explained2-1.jpg\" /> </p> <p>Bitcoin use",
     "tags": [
@@ -131,7 +145,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-01T18:07:17Z",
+    "published_at": "2026-08-01T18:09:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-atm-ban.png\" /> </p> <p>State officials reporte",
     "tags": [
@@ -610,20 +624,6 @@
     "published_at": "2026-07-31T10:12:16Z",
     "engagement": 0,
     "summary": "The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_14756f500e473216",
-    "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-    "published_at": "2026-07-31T09:02:01Z",
-    "engagement": 0,
-    "summary": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
     "tags": [
       "news",
       "decrypt"
