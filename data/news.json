@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_c18a9cfdf6b1d8b3",
+    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+    "published_at": "2026-08-03T19:17:37Z",
+    "engagement": 0,
+    "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b6e797476d35c8e0",
+    "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+    "published_at": "2026-08-03T17:51:03Z",
+    "engagement": 0,
+    "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3dce820cb1673051",
+    "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
+    "published_at": "2026-08-03T17:31:03Z",
+    "engagement": 0,
+    "summary": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9d55ede242909217",
+    "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
+    "published_at": "2026-08-03T17:12:08Z",
+    "engagement": 0,
+    "summary": "CKPool's developer put the winner's hashrate at a “wildly variable” peak of 100 PH, noting that it was probably rented.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_d5f21c87b4b51216",
     "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-07-31T20:32:50Z",
     "engagement": 0,
     "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_32d08f393bfcf0e5",
-    "title": "AI Music Company Suno Loses Copyright Case in Germany",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-    "published_at": "2026-07-31T20:03:22Z",
-    "engagement": 0,
-    "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f8d1a3acf82a2d83",
-    "title": "US Is Banning Foreign Robots—Even Roombas",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-    "published_at": "2026-07-31T19:43:24Z",
-    "engagement": 0,
-    "summary": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f46bb8948f77aef7",
-    "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-    "published_at": "2026-07-31T17:10:49Z",
-    "engagement": 0,
-    "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_5e7349f0c11aec9a",
-    "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-    "published_at": "2026-07-31T15:32:02Z",
-    "engagement": 0,
-    "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
     "tags": [
       "news",
       "decrypt"
