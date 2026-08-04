@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_eef5ed97c45942d7",
+    "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+    "published_at": "2026-08-04T21:46:03Z",
+    "engagement": 0,
+    "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_e7c61258939bbab8",
+    "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+    "published_at": "2026-08-04T21:16:03Z",
+    "engagement": 0,
+    "summary": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bd371c9b33bae4e7",
+    "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+    "published_at": "2026-08-04T20:45:18Z",
+    "engagement": 0,
+    "summary": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_48a782e324c8987f",
+    "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+    "published_at": "2026-08-04T20:30:52Z",
+    "engagement": 0,
+    "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_887ba5724c437ad0",
+    "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+    "published_at": "2026-08-04T20:26:21Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -462,20 +532,6 @@
     ]
   },
   {
-    "id": "news_70f4b319342c7b81",
-    "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-    "published_at": "2026-08-04T10:51:11Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d657cedaad286708",
     "title": "Former FBI supervisor admits guilt in $1M crypto theft",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-08-03T21:17:06Z",
     "engagement": 0,
     "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8034cd50bc438bdc",
-    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-    "published_at": "2026-08-03T20:39:33Z",
-    "engagement": 0,
-    "summary": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they're not immune from threats.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c18a9cfdf6b1d8b3",
-    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-    "published_at": "2026-08-03T19:17:37Z",
-    "engagement": 0,
-    "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b6e797476d35c8e0",
-    "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-    "published_at": "2026-08-03T17:51:03Z",
-    "engagement": 0,
-    "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3dce820cb1673051",
-    "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
-    "published_at": "2026-08-03T17:31:03Z",
-    "engagement": 0,
-    "summary": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
     "tags": [
       "news",
       "decrypt"
