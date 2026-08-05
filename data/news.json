@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_92a599df48d8f1eb",
+    "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+    "published_at": "2026-08-05T21:40:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6b48fd78b586110d",
+    "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
+    "published_at": "2026-08-05T21:24:06Z",
+    "engagement": 0,
+    "summary": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_90c421cb14565bcc",
+    "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-05T21:15:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Senator Warren questions US AI chip policy after Trump crypto investment: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-chip-maker-crypto-company.png\" /> </p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_8ba7025bd0fedfaf",
     "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
     "platform": "news",
@@ -546,20 +588,6 @@
     ]
   },
   {
-    "id": "news_be547cf6c79f5f9a",
-    "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-    "published_at": "2026-08-05T09:55:32Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_a42a995a140b52f1",
     "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
     "platform": "news",
@@ -571,20 +599,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_f4ea23c47cf10f7e",
-    "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-05T09:40:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-66799-bitcoin-dominance-cyc",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -610,20 +624,6 @@
     "published_at": "2026-08-04T22:16:03Z",
     "engagement": 0,
     "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_eef5ed97c45942d7",
-    "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-    "published_at": "2026-08-04T21:46:03Z",
-    "engagement": 0,
-    "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
     "tags": [
       "news",
       "decrypt"
