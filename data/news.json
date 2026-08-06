@@ -1,11 +1,109 @@
 [
   {
+    "id": "news_699f6715fe53c9de",
+    "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
+    "published_at": "2026-08-06T09:43:34Z",
+    "engagement": 0,
+    "summary": "A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7cbefe0191160c07",
+    "title": "Russian president signs crypto law, core rules take effect in 2026",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-06T09:38:54Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Russian president signs crypto law, core rules take effect in 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/putin2.jpg\" /> </p> <p>Russian President Vladimir Putin si",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_02f9b7fc38d5aee6",
+    "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-06T09:28:20Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-harmless-for-now-dangerous-in-the-future-heres-what-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_fde17df1d36a90f2",
+    "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
+    "published_at": "2026-08-06T09:19:03Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_eefdc97bc35113ad",
+    "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-06T08:44:43Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Yen stablecoin issuer JPYC’s Series B reaches $38M \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/truck.png\" /> </p> <p>JPYC said it plans to use the new capital to expand",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_729a5da29ba10abc",
+    "title": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-06T07:56:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-1.jpg\" /> </p> <p>Nasdaq-listed PowerCompute ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_cd588aa24fc9c90f",
-    "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+    "title": "Live updates: Coinbase lets UK users trade U.S. equities. BTC trades near $65,000",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
     "published_at": "2026-08-06T07:26:23Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f596b06acd82e2c9",
+    "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+    "published_at": "2026-08-06T07:14:11Z",
     "engagement": 0,
     "summary": "",
     "tags": [
@@ -322,20 +420,6 @@
     ]
   },
   {
-    "id": "news_f3dc5ead0440954c",
-    "title": "Marex invests in Digital Prime to expand institutional crypto lending",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/marex-digital-prime-tokenet-institutional-crypto-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-05T18:53:47Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Marex invests in Digital Prime to expand institutional crypto lending\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-ada-lending-copy.png\" /> </p> <p>The undisclos",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_d92d355137926554",
     "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
     "platform": "news",
@@ -375,34 +459,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_a5f4c1ba4fdd0498",
-    "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-05T16:51:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto-backed Michigan House incumbent loses primary despite $2M PAC support\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-cr",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_ba1efd756bc31ca7",
-    "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-05T16:30:56Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Western Union brings stablecoin remittances to Visa network with Stablecard\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-defi-stack-stablecoins-exchanges-synthetic",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -462,20 +518,6 @@
     ]
   },
   {
-    "id": "news_0de483aefad98003",
-    "title": "Gold hits 6-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-05T15:02:16Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Gold hits 6-week highs on China demand as Bitcoin ignores fresh S&amp;P 500 record\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazinechina-gold.png\" /> </p> <p>Gold an",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_c4617e4d92629a2e",
     "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
     "platform": "news",
@@ -518,20 +560,6 @@
     ]
   },
   {
-    "id": "news_971c0d67752702b1",
-    "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
-    "published_at": "2026-08-05T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_24764c62463b8d05",
     "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
     "platform": "news",
@@ -543,20 +571,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_ab13cfe4075c862d",
-    "title": "Galaxy Digital shares slip 5% after second-quarter results",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-    "published_at": "2026-08-05T12:42:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -610,20 +624,6 @@
     "published_at": "2026-08-04T22:46:03Z",
     "engagement": 0,
     "summary": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6363d398863de5f5",
-    "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
-    "published_at": "2026-08-04T22:16:03Z",
-    "engagement": 0,
-    "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
     "tags": [
       "news",
       "decrypt"
