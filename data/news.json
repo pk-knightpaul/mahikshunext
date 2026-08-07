@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_6b75e643034733be",
+    "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+    "published_at": "2026-08-07T12:37:14Z",
+    "engagement": 0,
+    "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_68ac2716a089b039",
+    "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+    "published_at": "2026-08-07T12:31:51Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b941e7d6a00456a2",
+    "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-07T12:28:41Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Russia cracks down on 9 crypto exchanges in Moscow City\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg\" /> </p> <p>Russia has ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_ce8e26c3255af80c",
+    "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-07T12:13:40Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CEX perpetual futures volume falls to $4T, lowest since late 2023\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-trader-breaking-news.jpg\" /> </p> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_95265200eca33a6d",
+    "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
+    "published_at": "2026-08-07T12:00:35Z",
+    "engagement": 0,
+    "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_2cfddb6040a75bf1",
+    "title": "After a Clarity Act funeral, the crypto world would keep turning",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+    "published_at": "2026-08-07T12:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_eccb5fb2637d5477",
+    "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+    "published_at": "2026-08-07T11:45:49Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_6fce88928455a0f5",
     "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
     "platform": "news",
@@ -169,7 +267,7 @@
   },
   {
     "id": "news_a052defd18f68710",
-    "title": "Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data",
+    "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
@@ -462,20 +560,6 @@
     ]
   },
   {
-    "id": "news_eada6c2433f0745c",
-    "title": "Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-06T18:17:57Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETF inflows surge after Coldcard hack, but link is unclear: Bloomberg analyst\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-etf-hack-hacking-falling-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_9db16f39faaf04f6",
     "title": "XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?",
     "platform": "news",
@@ -501,20 +585,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_cdd306a17a5059d0",
-    "title": "US appellate court mandate affirms Sam Bankman-Fried conviction",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-06T17:17:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US appellate court mandate affirms Sam Bankman-Fried conviction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-118439-sam-bankman-fried-trial-telling-story-c",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -546,34 +616,6 @@
     ]
   },
   {
-    "id": "news_44625621d5324673",
-    "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-    "published_at": "2026-08-06T16:10:04Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_6c1efef3a812ef96",
-    "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-    "published_at": "2026-08-06T15:07:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_c73c3ca3d622b1be",
     "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
     "platform": "news",
@@ -582,48 +624,6 @@
     "published_at": "2026-08-06T13:34:07Z",
     "engagement": 0,
     "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_912c8e9b27533ab3",
-    "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-    "published_at": "2026-08-06T12:46:42Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_74eaeb5d042bd48e",
-    "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
-    "published_at": "2026-08-06T12:46:19Z",
-    "engagement": 0,
-    "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_932dfa0d21209cf9",
-    "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
-    "published_at": "2026-08-06T12:28:46Z",
-    "engagement": 0,
-    "summary": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
     "tags": [
       "news",
       "decrypt"
