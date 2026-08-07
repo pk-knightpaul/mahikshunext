@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_6ee402d407596896",
+    "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+    "published_at": "2026-08-07T16:36:59Z",
+    "engagement": 0,
+    "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_aabed7ed18be1760",
+    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+    "published_at": "2026-08-07T16:32:41Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_34ec150e8f805594",
+    "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
+    "published_at": "2026-08-07T16:07:12Z",
+    "engagement": 0,
+    "summary": "A soft July payrolls print pulled September rate-hike odds down. It gives investors in risk assets hope, but Bitcoin remains in bear territory.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_05611e75582c6422",
+    "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+    "published_at": "2026-08-07T16:03:06Z",
+    "engagement": 0,
+    "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_bb424e16905c7dfe",
     "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
     "platform": "news",
@@ -421,7 +477,7 @@
   },
   {
     "id": "news_a052defd18f68710",
-    "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
+    "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
@@ -473,20 +529,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_03373a74d6d5aec2",
-    "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-    "published_at": "2026-08-07T04:50:44Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -582,48 +624,6 @@
     "published_at": "2026-08-06T18:26:29Z",
     "engagement": 0,
     "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9db16f39faaf04f6",
-    "title": "XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
-    "published_at": "2026-08-06T18:13:40Z",
-    "engagement": 0,
-    "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_e67633fd6fd6f418",
-    "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375048/cathie-wood-ark-invest-spacex-circle-top-holdings",
-    "published_at": "2026-08-06T17:20:54Z",
-    "engagement": 0,
-    "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_1798388e3572a30f",
-    "title": "MetaMask Launches Self-Custodial AI Wallet for Autonomous Crypto Trading",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375044/metamask-self-custodial-ai-wallet-autonomous-crypto-trading",
-    "published_at": "2026-08-06T16:26:56Z",
-    "engagement": 0,
-    "summary": "The new Agent Wallet lets AI agents execute on-chain trades within user-defined limits as MetaMask expands its push into AI-powered crypto trading.",
     "tags": [
       "news",
       "decrypt"
