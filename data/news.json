@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_bbe631d0073bacd6",
+    "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+    "published_at": "2026-08-08T17:48:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6dc96b59add72510",
+    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+    "published_at": "2026-08-08T17:31:03Z",
+    "engagement": 0,
+    "summary": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -518,20 +546,6 @@
     ]
   },
   {
-    "id": "news_40191ad78f05e26c",
-    "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-    "published_at": "2026-08-07T14:30:25Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_98da93bd4f6209e2",
     "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-07T12:00:35Z",
     "engagement": 0,
     "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b2f4ab9f11c037e7",
-    "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
-    "published_at": "2026-08-07T10:37:41Z",
-    "engagement": 0,
-    "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
     "tags": [
       "news",
       "decrypt"
