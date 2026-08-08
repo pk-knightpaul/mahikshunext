@@ -1,30 +1,16 @@
 [
   {
-    "id": "coingecko_pudgy-penguins",
-    "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
+    "id": "coingecko_fake-world-assets",
+    "title": "Fake World Assets (FWA) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-08-08T22:27:30Z",
+    "url": "https://www.coingecko.com/en/coins/fake-world-assets",
+    "published_at": "2026-08-08T23:27:28Z",
     "engagement": 10,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #109 by market cap. Trending position #1.",
+    "summary": "Fake World Assets is currently trending on CoinGecko, ranked #797 by market cap. Trending position #1.",
     "tags": [
       "trending",
-      "pengu"
-    ]
-  },
-  {
-    "id": "coingecko_solana",
-    "title": "Solana (SOL) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 9,
-    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #2.",
-    "tags": [
-      "trending",
-      "sol"
+      "fwa"
     ]
   },
   {
@@ -33,68 +19,54 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/cash-cat",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 8,
-    "summary": "Cash Cat is currently trending on CoinGecko, ranked #240 by market cap. Trending position #3.",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 9,
+    "summary": "Cash Cat is currently trending on CoinGecko, ranked #234 by market cap. Trending position #2.",
     "tags": [
       "trending",
       "cashcat"
     ]
   },
   {
-    "id": "coingecko_fake-world-assets",
-    "title": "Fake World Assets (FWA) is trending on CoinGecko",
+    "id": "coingecko_tutorial",
+    "title": "Tutorial (TUT) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/fake-world-assets",
-    "published_at": "2026-08-08T22:27:30Z",
+    "url": "https://www.coingecko.com/en/coins/tutorial",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 8,
+    "summary": "Tutorial is currently trending on CoinGecko, ranked #282 by market cap. Trending position #3.",
+    "tags": [
+      "trending",
+      "tut"
+    ]
+  },
+  {
+    "id": "coingecko_pump-fun",
+    "title": "Pump.fun (PUMP) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pump-fun",
+    "published_at": "2026-08-08T23:27:28Z",
     "engagement": 7,
-    "summary": "Fake World Assets is currently trending on CoinGecko, ranked #782 by market cap. Trending position #4.",
+    "summary": "Pump.fun is currently trending on CoinGecko, ranked #67 by market cap. Trending position #4.",
     "tags": [
       "trending",
-      "fwa"
+      "pump"
     ]
   },
   {
-    "id": "coingecko_bitcoin",
-    "title": "Bitcoin (BTC) is trending on CoinGecko",
+    "id": "coingecko_pudgy-penguins",
+    "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-08-08T22:27:30Z",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "published_at": "2026-08-08T23:27:28Z",
     "engagement": 6,
-    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #5.",
+    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #108 by market cap. Trending position #5.",
     "tags": [
       "trending",
-      "btc"
-    ]
-  },
-  {
-    "id": "coingecko_ethereum",
-    "title": "Ethereum (ETH) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 5,
-    "summary": "Ethereum is currently trending on CoinGecko, ranked #2 by market cap. Trending position #6.",
-    "tags": [
-      "trending",
-      "eth"
-    ]
-  },
-  {
-    "id": "coingecko_bittensor",
-    "title": "Bittensor (TAO) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bittensor",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 4,
-    "summary": "Bittensor is currently trending on CoinGecko, ranked #41 by market cap. Trending position #7.",
-    "tags": [
-      "trending",
-      "tao"
+      "pengu"
     ]
   },
   {
@@ -103,9 +75,9 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/wiki-cat",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 3,
-    "summary": "Wiki Cat is currently trending on CoinGecko, ranked #473 by market cap. Trending position #8.",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 5,
+    "summary": "Wiki Cat is currently trending on CoinGecko, ranked #466 by market cap. Trending position #6.",
     "tags": [
       "trending",
       "wkc"
@@ -117,12 +89,110 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/stonkbroker",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 2,
-    "summary": "StonkBroker is currently trending on CoinGecko, ranked #455 by market cap. Trending position #9.",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 4,
+    "summary": "StonkBroker is currently trending on CoinGecko, ranked #476 by market cap. Trending position #7.",
     "tags": [
       "trending",
       "stonkbroker"
+    ]
+  },
+  {
+    "id": "coingecko_curve-dao-token",
+    "title": "Curve DAO (CRV) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/curve-dao-token",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 3,
+    "summary": "Curve DAO is currently trending on CoinGecko, ranked #115 by market cap. Trending position #8.",
+    "tags": [
+      "trending",
+      "crv"
+    ]
+  },
+  {
+    "id": "coingecko_bonk",
+    "title": "Bonk (BONK) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bonk",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 2,
+    "summary": "Bonk is currently trending on CoinGecko, ranked #151 by market cap. Trending position #9.",
+    "tags": [
+      "trending",
+      "bonk"
+    ]
+  },
+  {
+    "id": "coingecko_bitcoin",
+    "title": "Bitcoin (BTC) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 1,
+    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #10.",
+    "tags": [
+      "trending",
+      "btc"
+    ]
+  },
+  {
+    "id": "coingecko_solana",
+    "title": "Solana (SOL) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": 0,
+    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #11.",
+    "tags": [
+      "trending",
+      "sol"
+    ]
+  },
+  {
+    "id": "coingecko_ethereum",
+    "title": "Ethereum (ETH) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": -1,
+    "summary": "Ethereum is currently trending on CoinGecko, ranked #2 by market cap. Trending position #12.",
+    "tags": [
+      "trending",
+      "eth"
+    ]
+  },
+  {
+    "id": "coingecko_grvt",
+    "title": "GRVT Token (GRVT) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/grvt",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": -2,
+    "summary": "GRVT Token is currently trending on CoinGecko, ranked #589 by market cap. Trending position #13.",
+    "tags": [
+      "trending",
+      "grvt"
+    ]
+  },
+  {
+    "id": "coingecko_near",
+    "title": "NEAR Protocol (NEAR) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/near",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": -3,
+    "summary": "NEAR Protocol is currently trending on CoinGecko, ranked #38 by market cap. Trending position #14.",
+    "tags": [
+      "trending",
+      "near"
     ]
   },
   {
@@ -131,82 +201,12 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pepe",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 1,
-    "summary": "Pepe is currently trending on CoinGecko, ranked #59 by market cap. Trending position #10.",
+    "published_at": "2026-08-08T23:27:28Z",
+    "engagement": -4,
+    "summary": "Pepe is currently trending on CoinGecko, ranked #58 by market cap. Trending position #15.",
     "tags": [
       "trending",
       "pepe"
-    ]
-  },
-  {
-    "id": "coingecko_bitcoin-cash-sv",
-    "title": "Bitcoin SV (BSV) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin-cash-sv",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": 0,
-    "summary": "Bitcoin SV is currently trending on CoinGecko, ranked #129 by market cap. Trending position #11.",
-    "tags": [
-      "trending",
-      "bsv"
-    ]
-  },
-  {
-    "id": "coingecko_pons",
-    "title": "Pons (PONS) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pons",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": -1,
-    "summary": "Pons is currently trending on CoinGecko, ranked #740 by market cap. Trending position #12.",
-    "tags": [
-      "trending",
-      "pons"
-    ]
-  },
-  {
-    "id": "coingecko_venice-token",
-    "title": "Venice Token (VVV) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/venice-token",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": -2,
-    "summary": "Venice Token is currently trending on CoinGecko, ranked #93 by market cap. Trending position #13.",
-    "tags": [
-      "trending",
-      "vvv"
-    ]
-  },
-  {
-    "id": "coingecko_ondo-finance",
-    "title": "Ondo (ONDO) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ondo-finance",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": -3,
-    "summary": "Ondo is currently trending on CoinGecko, ranked #43 by market cap. Trending position #14.",
-    "tags": [
-      "trending",
-      "ondo"
-    ]
-  },
-  {
-    "id": "coingecko_official-trump",
-    "title": "Official Trump (TRUMP) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/official-trump",
-    "published_at": "2026-08-08T22:27:30Z",
-    "engagement": -4,
-    "summary": "Official Trump is currently trending on CoinGecko, ranked #113 by market cap. Trending position #15.",
-    "tags": [
-      "trending",
-      "trump"
     ]
   }
 ]
