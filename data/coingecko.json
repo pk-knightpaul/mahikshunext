@@ -1,58 +1,16 @@
 [
   {
-    "id": "coingecko_pump-fun",
-    "title": "Pump.fun (PUMP) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 10,
-    "summary": "Pump.fun is currently trending on CoinGecko, ranked #70 by market cap. Trending position #1.",
-    "tags": [
-      "trending",
-      "pump"
-    ]
-  },
-  {
     "id": "coingecko_pudgy-penguins",
     "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 9,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #109 by market cap. Trending position #2.",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 10,
+    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #108 by market cap. Trending position #1.",
     "tags": [
       "trending",
       "pengu"
-    ]
-  },
-  {
-    "id": "coingecko_pi-network",
-    "title": "Pi Network (PI) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pi-network",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 8,
-    "summary": "Pi Network is currently trending on CoinGecko, ranked #65 by market cap. Trending position #3.",
-    "tags": [
-      "trending",
-      "pi"
-    ]
-  },
-  {
-    "id": "coingecko_kaspa",
-    "title": "Kaspa (KAS) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/kaspa",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 7,
-    "summary": "Kaspa is currently trending on CoinGecko, ranked #78 by market cap. Trending position #4.",
-    "tags": [
-      "trending",
-      "kas"
     ]
   },
   {
@@ -61,68 +19,54 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/biconomy",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 6,
-    "summary": "Biconomy is currently trending on CoinGecko, ranked #381 by market cap. Trending position #5.",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 9,
+    "summary": "Biconomy is currently trending on CoinGecko, ranked #381 by market cap. Trending position #2.",
     "tags": [
       "trending",
       "bico"
     ]
   },
   {
-    "id": "coingecko_solana",
-    "title": "Solana (SOL) is trending on CoinGecko",
+    "id": "coingecko_pi-network",
+    "title": "Pi Network (PI) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 5,
-    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #6.",
+    "url": "https://www.coingecko.com/en/coins/pi-network",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 8,
+    "summary": "Pi Network is currently trending on CoinGecko, ranked #65 by market cap. Trending position #3.",
     "tags": [
       "trending",
-      "sol"
+      "pi"
     ]
   },
   {
-    "id": "coingecko_block-street",
-    "title": "Block Street (BSB) is trending on CoinGecko",
+    "id": "coingecko_bonk",
+    "title": "Bonk (BONK) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/block-street",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 4,
-    "summary": "Block Street is currently trending on CoinGecko, ranked #514 by market cap. Trending position #7.",
+    "url": "https://www.coingecko.com/en/coins/bonk",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 7,
+    "summary": "Bonk is currently trending on CoinGecko, ranked #153 by market cap. Trending position #4.",
     "tags": [
       "trending",
-      "bsb"
+      "bonk"
     ]
   },
   {
-    "id": "coingecko_ondo-finance",
-    "title": "Ondo (ONDO) is trending on CoinGecko",
+    "id": "coingecko_kaspa",
+    "title": "Kaspa (KAS) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ondo-finance",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 3,
-    "summary": "Ondo is currently trending on CoinGecko, ranked #43 by market cap. Trending position #8.",
+    "url": "https://www.coingecko.com/en/coins/kaspa",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 6,
+    "summary": "Kaspa is currently trending on CoinGecko, ranked #78 by market cap. Trending position #5.",
     "tags": [
       "trending",
-      "ondo"
-    ]
-  },
-  {
-    "id": "coingecko_bitcoin",
-    "title": "Bitcoin (BTC) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 2,
-    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #9.",
-    "tags": [
-      "trending",
-      "btc"
+      "kas"
     ]
   },
   {
@@ -131,68 +75,82 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/wiki-cat",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": 1,
-    "summary": "Wiki Cat is currently trending on CoinGecko, ranked #461 by market cap. Trending position #10.",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 5,
+    "summary": "Wiki Cat is currently trending on CoinGecko, ranked #452 by market cap. Trending position #6.",
     "tags": [
       "trending",
       "wkc"
     ]
   },
   {
-    "id": "coingecko_stonkbroker",
-    "title": "StonkBroker (STONKBROKER) is trending on CoinGecko",
+    "id": "coingecko_bitcoin-cash-sv",
+    "title": "Bitcoin SV (BSV) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/stonkbroker",
-    "published_at": "2026-08-08T04:55:22Z",
+    "url": "https://www.coingecko.com/en/coins/bitcoin-cash-sv",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 4,
+    "summary": "Bitcoin SV is currently trending on CoinGecko, ranked #131 by market cap. Trending position #7.",
+    "tags": [
+      "trending",
+      "bsv"
+    ]
+  },
+  {
+    "id": "coingecko_pump-fun",
+    "title": "Pump.fun (PUMP) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pump-fun",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 3,
+    "summary": "Pump.fun is currently trending on CoinGecko, ranked #70 by market cap. Trending position #8.",
+    "tags": [
+      "trending",
+      "pump"
+    ]
+  },
+  {
+    "id": "coingecko_bittensor",
+    "title": "Bittensor (TAO) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bittensor",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 2,
+    "summary": "Bittensor is currently trending on CoinGecko, ranked #42 by market cap. Trending position #9.",
+    "tags": [
+      "trending",
+      "tao"
+    ]
+  },
+  {
+    "id": "coingecko_ondo-finance",
+    "title": "Ondo (ONDO) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ondo-finance",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": 1,
+    "summary": "Ondo is currently trending on CoinGecko, ranked #43 by market cap. Trending position #10.",
+    "tags": [
+      "trending",
+      "ondo"
+    ]
+  },
+  {
+    "id": "coingecko_grass",
+    "title": "Grass (GRASS) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/grass",
+    "published_at": "2026-08-08T05:42:09Z",
     "engagement": 0,
-    "summary": "StonkBroker is currently trending on CoinGecko, ranked #522 by market cap. Trending position #11.",
+    "summary": "Grass is currently trending on CoinGecko, ranked #167 by market cap. Trending position #11.",
     "tags": [
       "trending",
-      "stonkbroker"
-    ]
-  },
-  {
-    "id": "coingecko_what-if-3",
-    "title": "What IF (IF) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/what-if-3",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": -1,
-    "summary": "What IF is currently trending on CoinGecko, ranked #913 by market cap. Trending position #12.",
-    "tags": [
-      "trending",
-      "if"
-    ]
-  },
-  {
-    "id": "coingecko_overtake",
-    "title": "OVERTAKE (TAKE) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/overtake",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": -2,
-    "summary": "OVERTAKE is currently trending on CoinGecko, ranked #726 by market cap. Trending position #13.",
-    "tags": [
-      "trending",
-      "take"
-    ]
-  },
-  {
-    "id": "coingecko_dogecoin",
-    "title": "Dogecoin (DOGE) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/dogecoin",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": -3,
-    "summary": "Dogecoin is currently trending on CoinGecko, ranked #11 by market cap. Trending position #14.",
-    "tags": [
-      "trending",
-      "doge"
+      "grass"
     ]
   },
   {
@@ -201,12 +159,54 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/jimothy-the-raccoon",
-    "published_at": "2026-08-08T04:55:22Z",
-    "engagement": -4,
-    "summary": "Jimothy The Raccoon is currently trending on CoinGecko, ranked #955 by market cap. Trending position #15.",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": -1,
+    "summary": "Jimothy The Raccoon is currently trending on CoinGecko, ranked #849 by market cap. Trending position #12.",
     "tags": [
       "trending",
       "jimothy"
+    ]
+  },
+  {
+    "id": "coingecko_syrup",
+    "title": "Maple Finance (SYRUP) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/syrup",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": -2,
+    "summary": "Maple Finance is currently trending on CoinGecko, ranked #174 by market cap. Trending position #13.",
+    "tags": [
+      "trending",
+      "syrup"
+    ]
+  },
+  {
+    "id": "coingecko_block-street",
+    "title": "Block Street (BSB) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/block-street",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": -3,
+    "summary": "Block Street is currently trending on CoinGecko, ranked #557 by market cap. Trending position #14.",
+    "tags": [
+      "trending",
+      "bsb"
+    ]
+  },
+  {
+    "id": "coingecko_xdce-crowd-sale",
+    "title": "XDC Network (XDC) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/xdce-crowd-sale",
+    "published_at": "2026-08-08T05:42:09Z",
+    "engagement": -4,
+    "summary": "XDC Network is currently trending on CoinGecko, ranked #93 by market cap. Trending position #15.",
+    "tags": [
+      "trending",
+      "xdc"
     ]
   }
 ]
