@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_7fdc52b2f1f3c2e5",
+    "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
+    "published_at": "2026-08-09T19:33:09Z",
+    "engagement": 0,
+    "summary": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_d56ec20d25b1ae9e",
     "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-07T12:37:14Z",
     "engagement": 0,
     "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_95265200eca33a6d",
-    "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
-    "published_at": "2026-08-07T12:00:35Z",
-    "engagement": 0,
-    "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
     "tags": [
       "news",
       "decrypt"
