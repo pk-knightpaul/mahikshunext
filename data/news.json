@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_43af4b703b927461",
+    "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T19:35:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"UK money laundering suspect bought $100M in Trump crypto business: NYT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparing-money-laundering-with-cryptocurrencies-an",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3ba30060c5f00a79",
+    "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
+    "published_at": "2026-08-10T19:13:12Z",
+    "engagement": 0,
+    "summary": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3365a458e8859965",
+    "title": "Coinsbuy offers $100K reward after Sunday security breach",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T18:43:26Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coinsbuy offers $100K reward after Sunday security breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet-shutdown.png\" /> </p> <p>Coinsbuy said ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_c256406c66278174",
     "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
     "platform": "news",
@@ -574,34 +616,6 @@
     ]
   },
   {
-    "id": "news_7ecd455857c8eb7e",
-    "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T00:32:21Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/02-aug-5.jpg\" /> </p> <p>BIP-110 forks itself into ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7b0768d9a69914c5",
-    "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T00:31:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ex-US defense secretary calls CLARITY Act a ‘national security bill’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-mad-max-fury-road.jpg\" /> </p> <p>Former US De",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_7fdc52b2f1f3c2e5",
     "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-09T19:33:09Z",
     "engagement": 0,
     "summary": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6dc96b59add72510",
-    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
-    "published_at": "2026-08-08T17:31:03Z",
-    "engagement": 0,
-    "summary": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
     "tags": [
       "news",
       "decrypt"
