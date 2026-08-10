@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_2e655e1c503f1d09",
+    "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
+    "published_at": "2026-08-10T15:56:30Z",
+    "engagement": 0,
+    "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8e93badbf7d40a1b",
+    "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
+    "published_at": "2026-08-10T15:03:07Z",
+    "engagement": 0,
+    "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_32cbd5a08851d8e1",
+    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+    "published_at": "2026-08-10T15:02:14Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_03a52857a6f1554e",
     "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
     "platform": "news",
@@ -378,20 +420,6 @@
     ]
   },
   {
-    "id": "news_ee19dc361f136cc9",
-    "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-    "published_at": "2026-08-10T06:25:17Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_307a4f163e1f0dfa",
     "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-07T20:00:34Z",
     "engagement": 0,
     "summary": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2f0c4baa2cb71091",
-    "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
-    "published_at": "2026-08-07T19:18:41Z",
-    "engagement": 0,
-    "summary": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_146049b8509e6f60",
-    "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-    "published_at": "2026-08-07T17:36:41Z",
-    "engagement": 0,
-    "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
     "tags": [
       "news",
       "decrypt"
