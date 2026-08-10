@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_03a52857a6f1554e",
+    "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+    "published_at": "2026-08-10T14:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a0c8109931f23d2b",
+    "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
+    "published_at": "2026-08-10T14:12:12Z",
+    "engagement": 0,
+    "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3617844327453796",
+    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+    "published_at": "2026-08-10T13:50:51Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_ccd450455e2c332c",
+    "title": "Solana gets its first Strategy STRC product through Solstice Finance",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
+    "published_at": "2026-08-10T13:26:36Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3ce8288eca798c86",
+    "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T13:07:42Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitdeer increased Bitcoin mining output by nearly fivefold in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-mining-hardware-to-expect-in-russia.jpg\" /> </p> <p>B",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_c36535c843fee880",
     "title": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
     "platform": "news",
@@ -281,7 +351,7 @@
   },
   {
     "id": "news_ccc36e9da1918ea4",
-    "title": "Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale",
+    "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $65,000",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
@@ -291,6 +361,20 @@
     "tags": [
       "news",
       "coindesk"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T06:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
     ]
   },
   {
@@ -308,20 +392,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T06:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_307a4f163e1f0dfa",
     "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
     "platform": "news",
@@ -336,20 +406,6 @@
     ]
   },
   {
-    "id": "news_8e1ab3e415308f55",
-    "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-    "published_at": "2026-08-10T04:39:37Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_a4d1433613ac5f6a",
     "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
     "platform": "news",
@@ -361,20 +417,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_89945e487515f6af",
-    "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-    "published_at": "2026-08-10T04:26:01Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -434,20 +476,6 @@
     ]
   },
   {
-    "id": "news_d56ec20d25b1ae9e",
-    "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-    "published_at": "2026-08-09T18:30:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_2be1dc12997e8af3",
     "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
     "platform": "news",
@@ -484,20 +512,6 @@
     "published_at": "2026-08-09T05:46:07Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.png\" /> </p> <p>Foundation and Citadel21 r",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_0e00019fe5b5fa71",
-    "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-08T21:17:08Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/the-bitcoin-and-bitcoin-cash-wars.png\" /> </p> <p>Th",
     "tags": [
       "news",
       "cointelegraph"
@@ -610,20 +624,6 @@
     "published_at": "2026-08-07T17:36:41Z",
     "engagement": 0,
     "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6ee402d407596896",
-    "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
-    "published_at": "2026-08-07T16:36:59Z",
-    "engagement": 0,
-    "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
     "tags": [
       "news",
       "decrypt"
