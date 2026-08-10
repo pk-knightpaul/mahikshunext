@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_383fc17ff91764a8",
+    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+    "published_at": "2026-08-10T20:20:06Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b9bbc951cf8cb9e1",
+    "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
+    "published_at": "2026-08-10T20:03:24Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_7509a91742408f72",
+    "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+    "published_at": "2026-08-10T19:56:50Z",
+    "engagement": 0,
+    "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_373ea7ba7c7d04ce",
+    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T19:47:01Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tron.jpg\" /> </p> <p>Messari reported that TRON recorded",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_43af4b703b927461",
     "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
     "platform": "news",
@@ -532,34 +588,6 @@
     ]
   },
   {
-    "id": "news_155394e288c586a2",
-    "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-    "published_at": "2026-08-10T07:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_ccc36e9da1918ea4",
-    "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-    "published_at": "2026-08-10T06:56:50Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7308b077d46c4d49",
-    "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T03:34:53Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto’s first quantum attack will look like unexplained breach: Quantus founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum.jpg\" /> </p> <p>Bad actors with acce",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7fdc52b2f1f3c2e5",
-    "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
-    "published_at": "2026-08-09T19:33:09Z",
-    "engagement": 0,
-    "summary": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
