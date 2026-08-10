@@ -1,13 +1,55 @@
 [
   {
+    "id": "news_8e1ab3e415308f55",
+    "title": "Bitcoin tops $65,000 with US inflation data due this week",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+    "published_at": "2026-08-10T04:39:37Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a4d1433613ac5f6a",
+    "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T04:32:36Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/atm.jpg\" /> </p> <p>Australia’s financial wa",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_89945e487515f6af",
+    "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+    "published_at": "2026-08-10T04:26:01Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_7308b077d46c4d49",
-    "title": "Crypto’s first quantum attack will look like an unexplained breach: Quantus founder",
+    "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-08-10T03:34:53Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto’s first quantum attack will look like an unexplained breach: Quantus founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum.jpg\" /> </p> <p>Bad actors with a",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto’s first quantum attack will look like unexplained breach: Quantus founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum.jpg\" /> </p> <p>Bad actors with acce",
     "tags": [
       "news",
       "cointelegraph"
@@ -15,13 +57,13 @@
   },
   {
     "id": "news_7ecd455857c8eb7e",
-    "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
+    "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-08-10T00:32:21Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hodlers\" /> </p> <p>BIP-110 forks itself into obliv",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hodlers\" /> </p> <p>BIP-110 forks itself into obliv",
     "tags": [
       "news",
       "cointelegraph"
@@ -224,20 +266,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-08T17:19:56Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_f6c46090f41d3a4d",
     "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
     "platform": "news",
@@ -420,20 +448,6 @@
     ]
   },
   {
-    "id": "news_c1983b73ebc320b8",
-    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-    "published_at": "2026-08-08T02:30:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_6aea99a92ad213aa",
     "title": "Donald Trump’s media company to terminate Crypto.com deal",
     "platform": "news",
@@ -445,20 +459,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_509fe3e8a1495a3b",
-    "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-    "published_at": "2026-08-07T21:13:21Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
