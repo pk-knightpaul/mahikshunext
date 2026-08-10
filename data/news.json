@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_9b4306f781c17d39",
+    "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
+    "published_at": "2026-08-10T10:45:43Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9a158b03ede64c36",
+    "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
+    "published_at": "2026-08-10T10:19:06Z",
+    "engagement": 0,
+    "summary": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_539f71cdb8f450d6",
+    "title": "H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-10T10:14:30Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-heres-how-chamber-of-digital-commerce-wants-to-make-cryp",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_7dd4160923df87cd",
+    "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+    "published_at": "2026-08-10T10:13:58Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_ee387966d95a99a4",
     "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
     "platform": "news",
@@ -364,34 +420,6 @@
     ]
   },
   {
-    "id": "news_46aef82337420b33",
-    "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-    "published_at": "2026-08-08T20:06:47Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_bbe631d0073bacd6",
-    "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-    "published_at": "2026-08-08T17:48:02Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_6dc96b59add72510",
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
     "platform": "news",
@@ -470,20 +498,6 @@
     "published_at": "2026-08-08T13:30:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin will never fall below $60K again: Nansen founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg\" /> </p> <p>Crypto is growing up thanks ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_49e5c7ab9ea2d225",
-    "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-08T06:21:08Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Domestic stablecoins could boost demand for dollar-backed tokens: IMF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain-cbdc.png\" /> </p> <p>IMF First De",
     "tags": [
       "news",
       "cointelegraph"
@@ -610,20 +624,6 @@
     "published_at": "2026-08-07T15:27:35Z",
     "engagement": 0,
     "summary": "A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_11361226a3cef78b",
-    "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
-    "published_at": "2026-08-07T13:26:19Z",
-    "engagement": 0,
-    "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
     "tags": [
       "news",
       "decrypt"
