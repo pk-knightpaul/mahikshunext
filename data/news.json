@@ -1,5 +1,131 @@
 [
   {
+    "id": "news_0bda61c1d5f9c3c6",
+    "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T10:54:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-tether-on-a-brink-of-major-upgrad",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a388c3477bdfbd59",
+    "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
+    "published_at": "2026-08-11T10:48:08Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_dc3f93c41368d53e",
+    "title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+    "published_at": "2026-08-11T10:34:52Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_87a5cb259dec7621",
+    "title": "FlightAware sues Kalshi over bets on flight cancellations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
+    "published_at": "2026-08-11T10:34:17Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_216bf1e740c3aa70",
+    "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
+    "published_at": "2026-08-11T10:31:26Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_31a79a52d55dd57e",
+    "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
+    "published_at": "2026-08-11T10:28:19Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e4c4e327afb7a2eb",
+    "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T10:14:39Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coldcard hack losses: How investigators trace stolen Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coldcard-screen-edit.png\" /> </p> <p>The Coldcard hack has no de",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_988ebb1dd8370b63",
+    "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
+    "published_at": "2026-08-11T10:10:36Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_322ceb7d64a33024",
+    "title": "UK lawmakers question lenders over lack of banking for the country’s crypto firms",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
+    "published_at": "2026-08-11T10:06:39Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_55a0699908ec5e4e",
     "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
     "platform": "news",
@@ -308,34 +434,6 @@
     ]
   },
   {
-    "id": "news_383fc17ff91764a8",
-    "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-    "published_at": "2026-08-10T20:20:06Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_b9bbc951cf8cb9e1",
-    "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-    "published_at": "2026-08-10T20:03:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_7509a91742408f72",
     "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
     "platform": "news",
@@ -448,20 +546,6 @@
     ]
   },
   {
-    "id": "news_8808696643599af9",
-    "title": "‘Disappointing’: Crypto advocates react to delay in CLARITY vote",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T17:08:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"‘Disappointing’: Crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labirynth-clarity-act-us-1.jpg\" /> </p> <p>Followi",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_0ccc456ce90e6a45",
     "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
     "platform": "news",
@@ -473,20 +557,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_e408839222b6a106",
-    "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T16:14:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-shakes-market2.jpg\" /> </p> <",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -532,34 +602,6 @@
     ]
   },
   {
-    "id": "news_32cbd5a08851d8e1",
-    "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-    "published_at": "2026-08-10T15:02:14Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_03a52857a6f1554e",
-    "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-    "published_at": "2026-08-10T14:30:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_a0c8109931f23d2b",
     "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
     "platform": "news",
@@ -574,34 +616,6 @@
     ]
   },
   {
-    "id": "news_3617844327453796",
-    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-    "published_at": "2026-08-10T13:50:51Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_ccd450455e2c332c",
-    "title": "Solana gets its first Strategy STRC product through Solstice Finance",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
-    "published_at": "2026-08-10T13:26:36Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_254cf1161734321b",
     "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_0a98445993d920d7",
-    "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-    "published_at": "2026-08-10T12:09:26Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
