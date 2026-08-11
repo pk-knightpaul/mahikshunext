@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_168cb15519580b31",
+    "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+    "published_at": "2026-08-11T20:10:00Z",
+    "engagement": 0,
+    "summary": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b061a8fa2480e340",
+    "title": "MoneyGram expands crypto cash ramps to Solana",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T19:53:02Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MoneyGram expands crypto cash ramps to Solana\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/super-coin-chainlink-solana-2.png\" /> </p> <p>MoneyGram’s Ramps service now con",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_364a8879c6589f6a",
+    "title": "Following Senate delay, crypto bill has a narrow window to become law",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T19:42:08Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Following Senate delay, crypto bill has a narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg\" /> </p> <p>After an Au",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3703d4d5d8a9a0df",
+    "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
+    "published_at": "2026-08-11T19:06:23Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_54c745853abb9d2a",
     "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
     "platform": "news",
@@ -490,20 +546,6 @@
     ]
   },
   {
-    "id": "news_31a79a52d55dd57e",
-    "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
-    "published_at": "2026-08-11T10:28:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_e4c4e327afb7a2eb",
     "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
     "platform": "news",
@@ -560,34 +602,6 @@
     ]
   },
   {
-    "id": "news_f98317a662e14dab",
-    "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T08:00:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-greenhouse.jpg\" /> </p> <p>Anthropic reportedly struck ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T06:39:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_ff2d36e6b9be80d7",
     "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-10T21:02:43Z",
     "engagement": 0,
     "summary": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7509a91742408f72",
-    "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
-    "published_at": "2026-08-10T19:56:50Z",
-    "engagement": 0,
-    "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
     "tags": [
       "news",
       "decrypt"
