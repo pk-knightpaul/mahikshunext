@@ -1,11 +1,109 @@
 [
   {
-    "id": "news_e1488918d3a29107",
+    "id": "news_6229d6b20f50ec11",
+    "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
+    "published_at": "2026-08-11T14:46:11Z",
+    "engagement": 0,
+    "summary": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_2768bd9a37541a1d",
+    "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
+    "published_at": "2026-08-11T14:40:15Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_62c0eb8d9af9bb5b",
+    "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
+    "published_at": "2026-08-11T14:39:12Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9edad560bb9a7bf4",
+    "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T13:59:20Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-inside-the-mas-sandbox-how-ripple-is-testing-rlusd-for-rea",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b246b24cff950003",
+    "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375310/luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls",
+    "published_at": "2026-08-11T13:27:58Z",
+    "engagement": 0,
+    "summary": "Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b807b848acdae8a6",
+    "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T13:17:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SharpLink reports $394M in Q2 net loss fueled by ETH decline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-takeaways-5-years-after-the-dao-crisis-and-ethereum-hardfork.",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c868cca95333a354",
+    "title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
+    "published_at": "2026-08-11T13:06:07Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_90759f29b160a4c4",
     "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
     "platform": "news",
     "content_type": "article",
-    "url": "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T12:25:41Z",
+    "url": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T12:35:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"EToro to buy TradeZero as Q2 crypto revenue falls 30%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-on-etoro.jpg\" /> </p> <p>Trading platform eToro w",
     "tags": [
@@ -85,7 +183,7 @@
   },
   {
     "id": "news_b6619356012ca609",
-    "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+    "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
@@ -252,20 +350,6 @@
     ]
   },
   {
-    "id": "news_322ceb7d64a33024",
-    "title": "UK lawmakers question lenders over lack of banking for the country’s crypto firms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
-    "published_at": "2026-08-11T10:06:39Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_55a0699908ec5e4e",
     "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
     "platform": "news",
@@ -280,26 +364,12 @@
     ]
   },
   {
-    "id": "news_a84fdf125776510a",
-    "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
-    "published_at": "2026-08-11T09:37:36Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_76a6d1e39ab32967",
+    "id": "news_986c130030475b86",
     "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
     "platform": "news",
     "content_type": "article",
-    "url": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T09:24:15Z",
+    "url": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T09:26:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-cryptocurrency-mining-still-profitable-in-2025.jpg\" /> ",
     "tags": [
@@ -336,17 +406,17 @@
     ]
   },
   {
-    "id": "news_7aa7a0fa3bf468c1",
-    "title": "A $2 trillion asset class is getting a new blockchain rail",
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
     "platform": "news",
     "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
-    "published_at": "2026-08-11T07:19:09Z",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T06:39:00Z",
     "engagement": 0,
-    "summary": "",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
-      "coindesk"
+      "cointelegraph"
     ]
   },
   {
@@ -372,20 +442,6 @@
     "published_at": "2026-08-11T06:00:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Payments platform Decta explores stablecoin-enabled treasury settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stablecoins-turn-a-corner-driven-by-the-acceptance",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T05:39:31Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
       "cointelegraph"
@@ -476,20 +532,6 @@
     ]
   },
   {
-    "id": "news_12d3eb786856a540",
-    "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T20:50:59Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Judge stays CFTC’s case against US soldier over prediction market bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-cftc-1.jpg\" /> </p> <p>A New Y",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_7509a91742408f72",
     "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
     "platform": "news",
@@ -501,20 +543,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_373ea7ba7c7d04ce",
-    "title": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-10T19:47:01Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tron.jpg\" /> </p> <p>Messari reported that Tron recorded",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -596,34 +624,6 @@
     "published_at": "2026-08-10T16:11:20Z",
     "engagement": 0,
     "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2e655e1c503f1d09",
-    "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-    "published_at": "2026-08-10T15:56:30Z",
-    "engagement": 0,
-    "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8e93badbf7d40a1b",
-    "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
-    "published_at": "2026-08-10T15:03:07Z",
-    "engagement": 0,
-    "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
     "tags": [
       "news",
       "decrypt"
