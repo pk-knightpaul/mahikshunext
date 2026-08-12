@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_7f8fbd3561ecfb2d",
+    "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
+    "published_at": "2026-08-12T21:31:15Z",
+    "engagement": 0,
+    "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_31e9d6d0d081bc07",
+    "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T21:21:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Hawaii crypto ATM ban to take effect on Oct. 1\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-real-world-uses.png\" /> </p> <p>Hawaii will join Minnesota, Tennes",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b5e525e6da53d196",
+    "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T20:37:55Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png\" /> </p> <p>The deal would ad",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_7230e905efacda35",
+    "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+    "published_at": "2026-08-12T20:31:04Z",
+    "engagement": 0,
+    "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8a3ebf8edf445ce3",
+    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T20:22:46Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"NYC council announces probe into ‘predatory marketing practices’ on prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-block",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_a973a693b166ddfc",
     "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
     "platform": "news",
@@ -504,20 +574,6 @@
     ]
   },
   {
-    "id": "news_c8667901d27c3e90",
-    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-    "published_at": "2026-08-12T10:38:06Z",
-    "engagement": 0,
-    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_32623e5b632152c3",
     "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
     "platform": "news",
@@ -560,20 +616,6 @@
     ]
   },
   {
-    "id": "news_a50349ce280d330b",
-    "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T10:06:05Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-staking-the-answer-to-cryptocurrencys-mining-pro",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_ed91a9f5d0c81a5f",
     "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
     "platform": "news",
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_59ca98d0ccc07aa3",
-    "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-    "published_at": "2026-08-12T09:22:12Z",
-    "engagement": 0,
-    "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_5e150539ae151328",
-    "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T09:03:01Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto companies urge AI firms to give Bitcoin developers early access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-city-people-future-ai.jpg\" /> </p> <p>The B",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_356887eb140e39c2",
-    "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T07:34:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Inside the fake crypto startup that fooled North Korean IT workers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/inside-the-fake-crypto-startup-that-fooled-north-korean-it",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   }
 ]
