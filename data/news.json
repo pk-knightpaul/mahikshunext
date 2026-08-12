@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_90c78e9d6b3beb28",
+    "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+    "published_at": "2026-08-12T11:19:32Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6d259617861790b6",
+    "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
+    "published_at": "2026-08-12T11:15:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c8667901d27c3e90",
+    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
+    "published_at": "2026-08-12T10:38:06Z",
+    "engagement": 0,
+    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_32623e5b632152c3",
+    "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+    "published_at": "2026-08-12T10:30:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a41158b7bc037395",
+    "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T10:18:18Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance, RedotPay clash over fate of Singapore lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png\" /> </p> <p>Amid a $473 mill",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_1cc44523d6f75290",
+    "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+    "published_at": "2026-08-12T10:17:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a50349ce280d330b",
+    "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T10:06:05Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-staking-the-answer-to-cryptocurrencys-mining-pro",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_ed91a9f5d0c81a5f",
     "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
     "platform": "news",
@@ -364,20 +462,6 @@
     ]
   },
   {
-    "id": "news_3703d4d5d8a9a0df",
-    "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-    "published_at": "2026-08-11T19:06:23Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_54c745853abb9d2a",
     "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
     "platform": "news",
@@ -448,20 +532,6 @@
     ]
   },
   {
-    "id": "news_88576ae5fd7ac7a9",
-    "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-    "published_at": "2026-08-11T17:12:11Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_8451fde3eafffaff",
     "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
     "platform": "news",
@@ -504,34 +574,6 @@
     ]
   },
   {
-    "id": "news_f80d873ad07c6602",
-    "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T16:39:17Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coinbase-backed Flowdesk secures full broker-dealer license in Dubai\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/arabian-khaliji-people-of-the-arabian-peninsula-agreemen",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_95bb0a1e4a231864",
-    "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T16:34:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq.jpg\" /> </p> <p>Nasdaq’s acquisi",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_84b85f9d0abeaae8",
     "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
     "platform": "news",
@@ -560,34 +602,6 @@
     ]
   },
   {
-    "id": "news_2768bd9a37541a1d",
-    "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-    "published_at": "2026-08-11T14:40:15Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_62c0eb8d9af9bb5b",
-    "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-    "published_at": "2026-08-11T14:39:12Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_b246b24cff950003",
     "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-11T12:22:13Z",
     "engagement": 0,
     "summary": "Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_4cc80130dbb80dc3",
-    "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
-    "published_at": "2026-08-11T12:02:42Z",
-    "engagement": 0,
-    "summary": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
     "tags": [
       "news",
       "decrypt"
