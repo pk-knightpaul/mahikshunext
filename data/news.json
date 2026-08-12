@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_84dfb61ecfa76e5f",
+    "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+    "published_at": "2026-08-12T14:13:07Z",
+    "engagement": 0,
+    "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1120ac92aaf0dfbb",
+    "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
+    "published_at": "2026-08-12T14:00:04Z",
+    "engagement": 0,
+    "summary": "The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_af13ea03c351d1b0",
+    "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T13:58:41Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Kalshi launches sports and crypto perps data feed on DoubleZero\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparison-us-elections-2.jpg\" /> </p> <p>Kalshi launched ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_bc7fe2cb45f9b193",
+    "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+    "published_at": "2026-08-12T13:39:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_cf743f9773b6956a",
+    "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T13:31:54Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Slovenia joins EU’s MiCA stablecoin register with first issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-li",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_e019e230a7563028",
+    "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T13:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/have-bitcoiners-gone-soft-on-authoritarianism.jpg\" /> </p",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_30f27986dd0b9c89",
+    "title": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T13:23:57Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-project-explained-a-global-initiative",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a6d4a78d85817df9",
+    "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+    "published_at": "2026-08-12T13:13:49Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_87c0794b7cfe88cc",
     "title": "America doesn’t need a second-class payments system",
     "platform": "news",
@@ -145,7 +257,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T10:18:18Z",
+    "published_at": "2026-08-12T10:21:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance, RedotPay clash over fate of Singapore lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png\" /> </p> <p>Amid a $473 mill",
     "tags": [
@@ -267,7 +379,7 @@
   },
   {
     "id": "news_7ae9c5594fe205cb",
-    "title": "Live updates: Bitcoin holds $64,000 as July inflation meets forecasts",
+    "title": "Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
@@ -322,34 +434,6 @@
     ]
   },
   {
-    "id": "news_8763a0127a7f49b7",
-    "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-    "published_at": "2026-08-12T05:18:40Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_9d20d97651543698",
-    "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-    "published_at": "2026-08-12T04:53:46Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_19c513e4cd5a8a98",
     "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
     "platform": "news",
@@ -383,7 +467,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T00:07:41Z",
+    "published_at": "2026-08-12T00:00:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-most-famous-financial-pyramids-in-the-crypto-world.png\" ",
     "tags": [
@@ -476,34 +560,6 @@
     ]
   },
   {
-    "id": "news_b061a8fa2480e340",
-    "title": "MoneyGram expands crypto cash ramps to Solana",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T19:53:02Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MoneyGram expands crypto cash ramps to Solana\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/super-coin-chainlink-solana-2.png\" /> </p> <p>MoneyGram’s Ramps service now con",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_364a8879c6589f6a",
-    "title": "Following Senate delay, crypto bill has narrow window to become law",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T19:42:08Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Following Senate delay, crypto bill has narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg\" /> </p> <p>After an Augu",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_54c745853abb9d2a",
     "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
     "platform": "news",
@@ -529,34 +585,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_c4bac66aff21486e",
-    "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T18:03:49Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy CEO says company will resume Bitcoin accumulation this year\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-escrow-services-and-how-do-they-work",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_26970488636dd3f7",
-    "title": "ARP Digital secures Dubai VARA broker-dealer license",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T17:53:51Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ARP Digital secures Dubai VARA broker-dealer license\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-vat-law-in-uae-the-impact-on-stablecoins-and-digital-assets.png\" /> <",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -596,34 +624,6 @@
     "published_at": "2026-08-11T16:45:30Z",
     "engagement": 0,
     "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_84b85f9d0abeaae8",
-    "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
-    "published_at": "2026-08-11T15:05:35Z",
-    "engagement": 0,
-    "summary": "Chloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6229d6b20f50ec11",
-    "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
-    "published_at": "2026-08-11T14:46:11Z",
-    "engagement": 0,
-    "summary": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
     "tags": [
       "news",
       "decrypt"
