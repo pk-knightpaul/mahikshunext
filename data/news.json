@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_5533c0351820540c",
+    "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+    "published_at": "2026-08-12T15:54:16Z",
+    "engagement": 0,
+    "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_53ea38f2aaa8ca38",
+    "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+    "published_at": "2026-08-12T15:07:56Z",
+    "engagement": 0,
+    "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4abc6fa0d5a6a606",
+    "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T15:00:10Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg\" /> </p> <p>Bitcoin price ac",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_9e3381870be7ce03",
+    "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+    "published_at": "2026-08-12T15:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1c095744dc388823",
+    "title": "Crypto Long & Short:",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+    "published_at": "2026-08-12T14:51:12Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_84dfb61ecfa76e5f",
     "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
     "platform": "news",
@@ -406,34 +476,6 @@
     ]
   },
   {
-    "id": "news_71ff697975e98f68",
-    "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-    "published_at": "2026-08-12T06:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e43b2e8902f56347",
-    "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-    "published_at": "2026-08-12T05:26:55Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_19c513e4cd5a8a98",
     "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
     "platform": "news",
@@ -518,20 +560,6 @@
     ]
   },
   {
-    "id": "news_e69fe19806cf4c7f",
-    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T20:55:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Itaú joins Brazil tokenization pilot with OpenAssets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks-2.png\" /> </p> <p>The ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_f31fea14be2c0f45",
     "title": "The Bull and Bear Case for Solana’s Next Price Move",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-11T17:26:54Z",
     "engagement": 0,
     "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8451fde3eafffaff",
-    "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
-    "published_at": "2026-08-11T17:02:36Z",
-    "engagement": 0,
-    "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block—here's what a forced rollback would undo.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_961309ff5c8b99cf",
-    "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
-    "published_at": "2026-08-11T16:45:30Z",
-    "engagement": 0,
-    "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
     "tags": [
       "news",
       "decrypt"
