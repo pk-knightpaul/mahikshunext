@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_71ff697975e98f68",
+    "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+    "published_at": "2026-08-12T06:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e43b2e8902f56347",
+    "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+    "published_at": "2026-08-12T05:26:55Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_8763a0127a7f49b7",
+    "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+    "published_at": "2026-08-12T05:18:40Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9d20d97651543698",
+    "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+    "published_at": "2026-08-12T04:53:46Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_19c513e4cd5a8a98",
+    "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T04:53:26Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png\" /> </p> <p>The order escalates ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_87f1ca3b914457c3",
+    "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+    "published_at": "2026-08-12T04:33:25Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_e9c1dd6d2a235ccf",
     "title": "Ravencoin hits record low as network exploit puts transactions at risk",
     "platform": "news",
@@ -155,13 +239,13 @@
   },
   {
     "id": "news_364a8879c6589f6a",
-    "title": "Following Senate delay, crypto bill has a narrow window to become law",
+    "title": "Following Senate delay, crypto bill has narrow window to become law",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-08-11T19:42:08Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Following Senate delay, crypto bill has a narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg\" /> </p> <p>After an Au",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Following Senate delay, crypto bill has narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg\" /> </p> <p>After an Augu",
     "tags": [
       "news",
       "cointelegraph"
@@ -462,20 +546,6 @@
     ]
   },
   {
-    "id": "news_90759f29b160a4c4",
-    "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T12:35:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"EToro to buy TradeZero as Q2 crypto revenue falls 30%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-on-etoro.jpg\" /> </p> <p>Trading platform eToro w",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_cfd3ee865c3694fc",
     "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
     "platform": "news",
@@ -538,76 +608,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
     "published_at": "2026-08-11T11:24:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_d3cf1992e3de1755",
-    "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
-    "published_at": "2026-08-11T11:23:25Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_19234f5e467e6f3a",
-    "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-    "published_at": "2026-08-11T11:13:55Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_0dc14bbdb90db0b6",
-    "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
-    "published_at": "2026-08-11T11:04:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_a388c3477bdfbd59",
-    "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
-    "published_at": "2026-08-11T10:48:08Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_dc3f93c41368d53e",
-    "title": "Live updates: Bitcoin falls to $63,500; CoreWeave jumps 9% as AI demand pushes backlog over $100 billion",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
-    "published_at": "2026-08-11T10:34:52Z",
     "engagement": 0,
     "summary": "",
     "tags": [
