@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_87c0794b7cfe88cc",
+    "title": "America doesn’t need a second-class payments system",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+    "published_at": "2026-08-12T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_2e797509032cac7e",
+    "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
+    "published_at": "2026-08-12T12:44:39Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6010f5734976cb36",
+    "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T12:42:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Fidelity files with SEC to add staking to Ethereum ETF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg\" /> </p> <p>Fidelity plans to add ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b9f9f5cdc5d1d1b0",
+    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
+    "published_at": "2026-08-12T12:12:40Z",
+    "engagement": 0,
+    "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_649204361ac54cd2",
+    "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
+    "published_at": "2026-08-12T12:06:36Z",
+    "engagement": 0,
+    "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_25c148528f9b3b54",
+    "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
+    "published_at": "2026-08-12T11:44:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_90c78e9d6b3beb28",
     "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
     "platform": "news",
@@ -183,7 +267,7 @@
   },
   {
     "id": "news_7ae9c5594fe205cb",
-    "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+    "title": "Live updates: Bitcoin holds $64,000 as July inflation meets forecasts",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
@@ -280,20 +364,6 @@
     ]
   },
   {
-    "id": "news_87f1ca3b914457c3",
-    "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-    "published_at": "2026-08-12T04:33:25Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_e9c1dd6d2a235ccf",
     "title": "Ravencoin hits record low as network exploit puts transactions at risk",
     "platform": "news",
@@ -333,34 +403,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_741acabf4c4d41ec",
-    "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-    "published_at": "2026-08-11T21:38:13Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_96a84b70056eaaef",
-    "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-    "published_at": "2026-08-11T21:28:59Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -546,20 +588,6 @@
     ]
   },
   {
-    "id": "news_aae818822cda7051",
-    "title": "FlightAware sues Kalshi over flight cancellation data",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T16:55:14Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FlightAware sues Kalshi over flight cancellation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coin-moving-ahead-with-release-but-progress-delayed.jpg\" /> </p> <p>",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_961309ff5c8b99cf",
     "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-11T14:46:11Z",
     "engagement": 0,
     "summary": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b246b24cff950003",
-    "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375310/luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls",
-    "published_at": "2026-08-11T13:27:58Z",
-    "engagement": 0,
-    "summary": "Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_cfd3ee865c3694fc",
-    "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
-    "published_at": "2026-08-11T12:22:13Z",
-    "engagement": 0,
-    "summary": "Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
     "tags": [
       "news",
       "decrypt"
