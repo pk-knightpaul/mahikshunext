@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_50c3e044f2030c6a",
+    "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+    "published_at": "2026-08-12T18:58:26Z",
+    "engagement": 0,
+    "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_2e53324351331bb0",
+    "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
+    "published_at": "2026-08-12T18:16:04Z",
+    "engagement": 0,
+    "summary": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1727de204a6abe27",
+    "title": "Bitwise cuts 14% of staff while still expecting growth",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T18:01:15Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitwise cuts 14% of staff while still expecting growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-and-mainstream-media-bitwise.jpg\" /> </p> <p>Crypto companie",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_34414dbe3e1db4e3",
+    "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
+    "published_at": "2026-08-12T17:46:04Z",
+    "engagement": 0,
+    "summary": "The flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_98b7be8470f18b2d",
+    "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+    "published_at": "2026-08-12T17:21:03Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_178237a80e0dfd45",
+    "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
+    "published_at": "2026-08-12T17:13:43Z",
+    "engagement": 0,
+    "summary": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_56ae068ecbf8263f",
+    "title": "FlightAware drops Kalshi lawsuit one day after filing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-12T16:58:52Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FlightAware drops Kalshi lawsuit one day after filing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.jpg\" /> </p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_f6d73cc562a52f3b",
     "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
     "platform": "news",
@@ -29,7 +127,7 @@
   },
   {
     "id": "news_6ab72d9171086b38",
-    "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+    "title": "Kalshi taps Solana platform for Wall Street-style high-speed data feed",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
@@ -127,7 +225,7 @@
   },
   {
     "id": "news_1c095744dc388823",
-    "title": "Crypto Long & Short:",
+    "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
@@ -448,20 +546,6 @@
     ]
   },
   {
-    "id": "news_5153aece8dc7c4bf",
-    "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-    "published_at": "2026-08-12T09:30:20Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_59ca98d0ccc07aa3",
     "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
     "platform": "news",
@@ -518,34 +602,6 @@
     ]
   },
   {
-    "id": "news_19c513e4cd5a8a98",
-    "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T04:53:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png\" /> </p> <p>The order escalates ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_e9c1dd6d2a235ccf",
-    "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T01:11:51Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ravencoin hits record low as network exploit puts transactions at risk \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-220m-was-stolen-in-minutes-understanding-the-c",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_3f594e6fdf3312b2",
     "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-08-11T21:16:03Z",
     "engagement": 0,
     "summary": "The reward aims to recover Bitcoin stolen after attackers gained access to connected LND wallets.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f31fea14be2c0f45",
-    "title": "The Bull and Bear Case for Solana’s Next Price Move",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
-    "published_at": "2026-08-11T20:46:04Z",
-    "engagement": 0,
-    "summary": "Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_168cb15519580b31",
-    "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
-    "published_at": "2026-08-11T20:10:00Z",
-    "engagement": 0,
-    "summary": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_54c745853abb9d2a",
-    "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
-    "published_at": "2026-08-11T18:56:03Z",
-    "engagement": 0,
-    "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_1f3c07bd00eaf341",
-    "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
-    "published_at": "2026-08-11T18:25:14Z",
-    "engagement": 0,
-    "summary": "Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
     "tags": [
       "news",
       "decrypt"
