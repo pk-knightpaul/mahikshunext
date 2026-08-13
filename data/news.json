@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_74173eabb5d0dc7e",
+    "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
+    "published_at": "2026-08-13T11:42:27Z",
+    "engagement": 0,
+    "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8b3b0871a8514911",
+    "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+    "published_at": "2026-08-13T11:35:53Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9c96fbefc61c308f",
+    "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+    "published_at": "2026-08-13T11:02:43Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_85733e32fac2565e",
+    "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-13T10:50:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/andre-cronje.jpg\" /> </p> <p>Flying Tulip founder Andre Cron",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_56bd04882e3f84d0",
+    "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
+    "published_at": "2026-08-13T10:16:50Z",
+    "engagement": 0,
+    "summary": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b715e2a592d202a1",
+    "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+    "published_at": "2026-08-13T10:15:32Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_dca4f8019b1a61bb",
     "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
     "platform": "news",
@@ -43,7 +127,7 @@
   },
   {
     "id": "news_9526bcf29ae97b4d",
-    "title": "Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests",
+    "title": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
@@ -420,20 +504,6 @@
     ]
   },
   {
-    "id": "news_1727de204a6abe27",
-    "title": "Bitwise cuts 14% of staff while still expecting growth",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T18:01:15Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitwise cuts 14% of staff while still expecting growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-and-mainstream-media-bitwise.jpg\" /> </p> <p>Crypto companie",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_34414dbe3e1db4e3",
     "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
     "platform": "news",
@@ -490,20 +560,6 @@
     ]
   },
   {
-    "id": "news_6ab72d9171086b38",
-    "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-    "published_at": "2026-08-12T16:14:49Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_b7480c0d7c00d9db",
     "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
     "platform": "news",
@@ -546,34 +602,6 @@
     ]
   },
   {
-    "id": "news_9e3381870be7ce03",
-    "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-    "published_at": "2026-08-12T15:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_1c095744dc388823",
-    "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-    "published_at": "2026-08-12T14:51:12Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_84dfb61ecfa76e5f",
     "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-12T14:00:04Z",
     "engagement": 0,
     "summary": "The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b9f9f5cdc5d1d1b0",
-    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-    "published_at": "2026-08-12T12:12:40Z",
-    "engagement": 0,
-    "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_649204361ac54cd2",
-    "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-    "published_at": "2026-08-12T12:06:36Z",
-    "engagement": 0,
-    "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
     "tags": [
       "news",
       "decrypt"
