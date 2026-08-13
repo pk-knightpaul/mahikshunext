@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_1150414d52faffde",
+    "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+    "published_at": "2026-08-13T22:36:07Z",
+    "engagement": 0,
+    "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9d627813af1f813e",
+    "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+    "published_at": "2026-08-13T22:18:07Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3ad479ba2d1ae53e",
+    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+    "published_at": "2026-08-13T21:45:04Z",
+    "engagement": 0,
+    "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_8a55971af29a6461",
     "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
     "platform": "news",
@@ -490,20 +532,6 @@
     ]
   },
   {
-    "id": "news_e6d2ab70ee500a8d",
-    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-    "published_at": "2026-08-13T11:53:17Z",
-    "engagement": 0,
-    "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_eb6253bb9f9bb238",
     "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
     "platform": "news",
@@ -515,20 +543,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_74173eabb5d0dc7e",
-    "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-    "published_at": "2026-08-13T11:42:27Z",
-    "engagement": 0,
-    "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
@@ -608,20 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
     "published_at": "2026-08-13T09:39:52Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_9526bcf29ae97b4d",
-    "title": "Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
-    "published_at": "2026-08-13T09:18:19Z",
     "engagement": 0,
     "summary": "",
     "tags": [
