@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_dbeabd286ba7a8e9",
+    "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+    "published_at": "2026-08-13T13:01:05Z",
+    "engagement": 0,
+    "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9f35d75f142f166a",
+    "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-13T13:00:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MUFG PoC to bring Japanese government bond repo transactions onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-issue-bonds-on-blockchain-how-significant-is-th",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_77eae5afd95136e5",
+    "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+    "published_at": "2026-08-13T12:09:58Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e6d2ab70ee500a8d",
+    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+    "published_at": "2026-08-13T11:53:17Z",
+    "engagement": 0,
+    "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_eb6253bb9f9bb238",
+    "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-13T11:48:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC allows Franklin Templeton funds to invest in onchain money fund\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/rwa.jpg\" /> </p> <p>The SEC said it will not pursue enfor",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_74173eabb5d0dc7e",
     "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
     "platform": "news",
@@ -85,13 +155,13 @@
   },
   {
     "id": "news_dca4f8019b1a61bb",
-    "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+    "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-08-13T09:53:36Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance bStocks passes xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks.jpg",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance bStocks pass xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks.jpg\" ",
     "tags": [
       "news",
       "cointelegraph"
@@ -127,7 +197,7 @@
   },
   {
     "id": "news_9526bcf29ae97b4d",
-    "title": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
+    "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
@@ -420,20 +490,6 @@
     ]
   },
   {
-    "id": "news_8a3ebf8edf445ce3",
-    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T20:22:46Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"NYC council announces probe into ‘predatory marketing practices’ on prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-block",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_a973a693b166ddfc",
     "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
     "platform": "news",
@@ -473,20 +529,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_b2d0a286772948fa",
-    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-12T18:55:56Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Kraken adds S&amp;P 500 to funded trading program, commodities to follow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png\" /> </p> <p>K",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -546,20 +588,6 @@
     ]
   },
   {
-    "id": "news_d22dd0253f6c4e98",
-    "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-    "published_at": "2026-08-12T16:34:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_b7480c0d7c00d9db",
     "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-12T15:07:56Z",
     "engagement": 0,
     "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_84dfb61ecfa76e5f",
-    "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-    "published_at": "2026-08-12T14:13:07Z",
-    "engagement": 0,
-    "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_1120ac92aaf0dfbb",
-    "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-    "published_at": "2026-08-12T14:00:04Z",
-    "engagement": 0,
-    "summary": "The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
     "tags": [
       "news",
       "decrypt"
