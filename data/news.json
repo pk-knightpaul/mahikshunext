@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_139ca16387704ad2",
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+    "published_at": "2026-08-13T20:30:24Z",
+    "engagement": 0,
+    "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b958c5dfe17759a1",
+    "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-13T19:21:02Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/arrest-police-crime-prison-jail-imprisonment-man-per",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_8864c6f6a609f784",
+    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+    "published_at": "2026-08-13T19:11:03Z",
+    "engagement": 0,
+    "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_de9c54ec9562c411",
     "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
     "platform": "news",
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_38feb4419d4ee34a",
-    "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-13T07:42:59Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparison-q1-vs-q2-of-2019-1.png\" /> </p> <p>An $18.8 million",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7f8fbd3561ecfb2d",
-    "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
-    "published_at": "2026-08-12T21:31:15Z",
-    "engagement": 0,
-    "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7230e905efacda35",
-    "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-    "published_at": "2026-08-12T20:31:04Z",
-    "engagement": 0,
-    "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
