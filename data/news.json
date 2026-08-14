@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_da334fa7b0637ebf",
+    "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
+    "published_at": "2026-08-14T09:50:40Z",
+    "engagement": 0,
+    "summary": "A King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_e96420774ec905e3",
+    "title": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-14T08:53:42Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"JPMorgan cut Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-jp-morgan-chase-and-crypto-recap.jpg\" /> </p> <p>JPM",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_34b0126a7fa87867",
+    "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+    "published_at": "2026-08-14T08:51:48Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_29a270ac3ff9e369",
+    "title": "Crypto payments barely register among euro area merchants, ECB finds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-14T08:22:54Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto payments barely register among euro area merchants, ECB finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_a661433cea501d70",
     "title": "SEC cancels key crypto regulatory meeting",
     "platform": "news",
@@ -448,20 +504,6 @@
     ]
   },
   {
-    "id": "news_148366de74089b7d",
-    "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-13T15:07:38Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-budget-research-crypto-currency-traders-in-jap",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_1c48b06e27093d43",
     "title": "Crypto for Advisors: The crypto advice gap",
     "platform": "news",
@@ -574,20 +616,6 @@
     ]
   },
   {
-    "id": "news_e91292eb009d0af3",
-    "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-13T13:14:48Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/eth-bitmine.jpg\" /> </p> <p>Bitm",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_3b8a320f8b18d90a",
     "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_dbeabd286ba7a8e9",
-    "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
-    "published_at": "2026-08-13T13:01:05Z",
-    "engagement": 0,
-    "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_77eae5afd95136e5",
-    "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
-    "published_at": "2026-08-13T12:09:58Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
