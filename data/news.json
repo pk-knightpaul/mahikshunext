@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_dc7d06923f2d44a9",
+    "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+    "published_at": "2026-08-14T20:01:13Z",
+    "engagement": 0,
+    "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_14226e35e28f1c0c",
     "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
     "platform": "news",
@@ -582,20 +596,6 @@
     "published_at": "2026-08-13T20:30:24Z",
     "engagement": 0,
     "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8864c6f6a609f784",
-    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-    "published_at": "2026-08-13T19:11:03Z",
-    "engagement": 0,
-    "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
     "tags": [
       "news",
       "decrypt"
