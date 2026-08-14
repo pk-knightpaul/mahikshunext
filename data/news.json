@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_4e3921773d1328cd",
+    "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
+    "published_at": "2026-08-14T16:23:20Z",
+    "engagement": 0,
+    "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3691d092d2a1007a",
+    "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-14T15:41:49Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_04767ed9d27ef2d7",
     "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
     "platform": "news",
@@ -323,7 +351,7 @@
   },
   {
     "id": "news_34b0126a7fa87867",
-    "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
+    "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
@@ -403,20 +431,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_8af3f6205f41476b",
-    "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-14T04:44:31Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Neutrl pauses NUSD redemptions over undisclosed reserve issue \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onch",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_367e35ab06af9d56",
-    "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
-    "published_at": "2026-08-13T16:40:49Z",
-    "engagement": 0,
-    "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
