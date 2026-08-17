@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_eb63b8cffb23198c",
+    "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+    "published_at": "2026-08-17T21:16:17Z",
+    "engagement": 0,
+    "summary": "Traders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f5ab575f00739678",
+    "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+    "published_at": "2026-08-17T20:31:04Z",
+    "engagement": 0,
+    "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_6778429a734a7bfb",
     "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
     "platform": "news",
@@ -532,20 +560,6 @@
     ]
   },
   {
-    "id": "news_f436ba598a5855f1",
-    "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-    "published_at": "2026-08-17T09:31:04Z",
-    "engagement": 0,
-    "summary": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_fa6e81e0d550a10b",
     "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_236aaf808f529b66",
-    "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-    "published_at": "2026-08-16T16:00:05Z",
-    "engagement": 0,
-    "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
