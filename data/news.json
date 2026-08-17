@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_02dcf6bf6483190c",
+    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+    "published_at": "2026-08-17T10:13:41Z",
+    "engagement": 0,
+    "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_ee4139329456d1c7",
     "title": "Bitpanda fined in Austria’s first published MiCA penalty",
     "platform": "news",
@@ -57,7 +71,7 @@
   },
   {
     "id": "news_8f80759d30d66227",
-    "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+    "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-14T14:55:29Z",
     "engagement": 0,
     "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9761e8f564dae35f",
-    "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-    "published_at": "2026-08-14T12:38:39Z",
-    "engagement": 0,
-    "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
     "tags": [
       "news",
       "decrypt"
