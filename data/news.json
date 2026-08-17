@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_ee4dc4e032a6e708",
+    "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+    "published_at": "2026-08-17T22:16:03Z",
+    "engagement": 0,
+    "summary": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0e4dc9c4e0e415df",
+    "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+    "published_at": "2026-08-17T22:12:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_94cf20f34916d284",
+    "title": "OCC approves Trump family crypto company for trust charter",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-17T21:17:30Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"OCC approves Trump family crypto company for trust charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jpg\" /> </p> <p>The US financial regulato",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_eb63b8cffb23198c",
     "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
     "platform": "news",
@@ -518,20 +560,6 @@
     ]
   },
   {
-    "id": "news_02dcf6bf6483190c",
-    "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-    "published_at": "2026-08-17T10:13:41Z",
-    "engagement": 0,
-    "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_971bcaa3b8e8a536",
     "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
     "platform": "news",
@@ -557,20 +585,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_fa6e81e0d550a10b",
-    "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
-    "published_at": "2026-08-17T09:16:14Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -610,20 +624,6 @@
     "published_at": "2026-08-17T03:42:48Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Chainalysis sues US over $95M ICE contract with TRM Labs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit-us.png\" /> </p> <p>The sealed complaint leaves ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_b7d4a49bb2d963c5",
-    "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-16T23:54:50Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg\" /> </p> <p>Owners of Trezor an",
     "tags": [
       "news",
       "cointelegraph"
