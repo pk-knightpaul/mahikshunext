@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_1c922d705282ca8e",
+    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-17T16:04:32Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/eth-bitmine-1.jpg\" /> </p> <p>Tom Lee’s Ethereum treas",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_459a48426f0778ae",
+    "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+    "published_at": "2026-08-17T15:54:29Z",
+    "engagement": 0,
+    "summary": "Stripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3fbe9730fcf5e80a",
+    "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+    "published_at": "2026-08-17T15:47:59Z",
+    "engagement": 0,
+    "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0d921b36cc88c572",
+    "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+    "published_at": "2026-08-17T15:32:30Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_6003f8764ad8e66e",
     "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
     "platform": "news",
@@ -365,7 +421,7 @@
   },
   {
     "id": "news_8f80759d30d66227",
-    "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
+    "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
@@ -389,20 +445,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_b315478ec32e3fac",
-    "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
-    "published_at": "2026-08-17T08:16:11Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -560,20 +602,6 @@
     ]
   },
   {
-    "id": "news_83ebb95bd43e5db3",
-    "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-15T13:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg\" /> </p> <p>The trill",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_f74707832d32f39b",
     "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-14T21:03:35Z",
     "engagement": 0,
     "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_dc7d06923f2d44a9",
-    "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
-    "published_at": "2026-08-14T20:01:13Z",
-    "engagement": 0,
-    "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_14226e35e28f1c0c",
-    "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-    "published_at": "2026-08-14T19:01:05Z",
-    "engagement": 0,
-    "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
     "tags": [
       "news",
       "decrypt"
