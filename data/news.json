@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_655f66eefe60fea4",
+    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+    "published_at": "2026-08-17T13:31:04Z",
+    "engagement": 0,
+    "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-17T13:20:20Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_9f70df44d9898ecb",
+    "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+    "published_at": "2026-08-17T13:03:17Z",
+    "engagement": 0,
+    "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_ff97cfd079615758",
+    "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
+    "published_at": "2026-08-17T12:56:55Z",
+    "engagement": 0,
+    "summary": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_769485d6521675dc",
+    "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-17T12:51:03Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy raises $334M through stock sales but buys no Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-hold",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_e402b2bd458faf63",
     "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
     "platform": "news",
@@ -490,20 +560,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-15T14:40:24Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_83ebb95bd43e5db3",
     "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
     "platform": "news",
@@ -529,20 +585,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_d1cfc187621d6fc5",
-    "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-15T12:57:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-2.jpg",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -582,48 +624,6 @@
     "published_at": "2026-08-14T19:01:05Z",
     "engagement": 0,
     "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6788593065eaa11f",
-    "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-    "published_at": "2026-08-14T18:31:03Z",
-    "engagement": 0,
-    "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f828228ced8c9c74",
-    "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
-    "published_at": "2026-08-14T17:46:06Z",
-    "engagement": 0,
-    "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b3a80c34ef7ee4f1",
-    "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-    "published_at": "2026-08-14T17:14:02Z",
-    "engagement": 0,
-    "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
     "tags": [
       "news",
       "decrypt"
