@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_4d333f8fccc892c3",
+    "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+    "published_at": "2026-08-18T20:00:25Z",
+    "engagement": 0,
+    "summary": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bb584f13e5a6a35f",
+    "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-18T19:54:16Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us-1.png\" /",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_6072fd319b350983",
+    "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-18T19:31:16Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-5-biggest-mining-farms-zcash-1.jpg\" /> </p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_bde28b4a74f4d587",
     "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
     "platform": "news",
@@ -119,7 +161,7 @@
     "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-08-18T16:49:58Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg\" /> </p> <p>Des",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg\" /> </p> <p>Cur",
     "tags": [
       "news",
       "cointelegraph"
@@ -532,34 +574,6 @@
     ]
   },
   {
-    "id": "news_04558ce5842e52be",
-    "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T05:12:18Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ethereum Foundation warns some tools may break with Glamsterdam upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg\" /> </p> <p>Developers have been u",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_2425d38853016763",
-    "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T04:11:02Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korea’s Jeonbuk Bank taps Ripple for cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea-1.jpg\" /> </p> <p>Ripple i",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_27bc654f42c817c4",
     "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-17T20:31:04Z",
     "engagement": 0,
     "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6778429a734a7bfb",
-    "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-    "published_at": "2026-08-17T19:59:18Z",
-    "engagement": 0,
-    "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
     "tags": [
       "news",
       "decrypt"
