@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_9ab74cef2fbeb085",
+    "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+    "published_at": "2026-08-18T23:11:12Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_26c074d199660249",
+    "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+    "published_at": "2026-08-18T22:56:04Z",
+    "engagement": 0,
+    "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f7eaa497e6b7cb63",
+    "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+    "published_at": "2026-08-18T22:31:04Z",
+    "engagement": 0,
+    "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_3458f0a990697d94",
     "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
     "platform": "news",
@@ -518,20 +560,6 @@
     ]
   },
   {
-    "id": "news_43e071572050c5d0",
-    "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
-    "published_at": "2026-08-18T12:17:05Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_8873329ff4badee6",
     "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_27bc654f42c817c4",
-    "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-    "published_at": "2026-08-17T22:35:46Z",
-    "engagement": 0,
-    "summary": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ee4dc4e032a6e708",
-    "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-    "published_at": "2026-08-17T22:16:03Z",
-    "engagement": 0,
-    "summary": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
