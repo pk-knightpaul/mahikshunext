@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_bde28b4a74f4d587",
+    "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+    "published_at": "2026-08-18T19:15:26Z",
+    "engagement": 0,
+    "summary": "Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_e738bc0d5d38246d",
+    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/18/r",
+    "published_at": "2026-08-18T19:09:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_81fbb587ddee6e3a",
+    "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+    "published_at": "2026-08-18T18:57:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_cc4b856855b5f42c",
+    "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+    "published_at": "2026-08-18T18:36:04Z",
+    "engagement": 0,
+    "summary": "WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_548f102e083db5e5",
     "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
     "platform": "news",
@@ -392,20 +448,6 @@
     ]
   },
   {
-    "id": "news_4775d5999a326485",
-    "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-    "published_at": "2026-08-18T11:05:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_e9e17fc386b5ec98",
     "title": "Kraken launches US-listed stock trading for EEA customers",
     "platform": "news",
@@ -417,20 +459,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_1ec6326ff1e8ff52",
-    "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
-    "published_at": "2026-08-18T10:38:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -596,34 +624,6 @@
     "published_at": "2026-08-17T19:59:18Z",
     "engagement": 0,
     "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_037074d650530e41",
-    "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-    "published_at": "2026-08-17T19:01:56Z",
-    "engagement": 0,
-    "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_edf93e0b54cb24e0",
-    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-    "published_at": "2026-08-17T18:29:56Z",
-    "engagement": 0,
-    "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
     "tags": [
       "news",
       "decrypt"
