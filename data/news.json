@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_0e967a08da6fe062",
+    "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+    "published_at": "2026-08-18T12:37:02Z",
+    "engagement": 0,
+    "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4c0fec3e80567f99",
+    "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+    "published_at": "2026-08-18T12:20:48Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_43e071572050c5d0",
+    "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+    "published_at": "2026-08-18T12:17:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_8873329ff4badee6",
+    "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+    "published_at": "2026-08-18T11:31:04Z",
+    "engagement": 0,
+    "summary": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_20944b10ac2efc1e",
     "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
     "platform": "news",
@@ -127,7 +183,7 @@
   },
   {
     "id": "news_c46cf2e1ab21a022",
-    "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+    "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
@@ -560,34 +616,6 @@
     ]
   },
   {
-    "id": "news_6003f8764ad8e66e",
-    "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-    "published_at": "2026-08-17T14:44:29Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_d7cffbbc9e3273f0",
-    "title": "The Coldcard hack proves reputation is not a security model",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-    "published_at": "2026-08-17T14:09:46Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_655f66eefe60fea4",
     "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-17T13:31:04Z",
     "engagement": 0,
     "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9f70df44d9898ecb",
-    "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-    "published_at": "2026-08-17T13:03:17Z",
-    "engagement": 0,
-    "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ff97cfd079615758",
-    "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
-    "published_at": "2026-08-17T12:56:55Z",
-    "engagement": 0,
-    "summary": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
     "tags": [
       "news",
       "decrypt"
