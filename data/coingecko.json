@@ -1,86 +1,44 @@
 [
   {
-    "id": "coingecko_pudgy-penguins",
-    "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
+    "id": "coingecko_wiki-cat",
+    "title": "Wiki Cat (WKC) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-08-18T02:54:39Z",
+    "url": "https://www.coingecko.com/en/coins/wiki-cat",
+    "published_at": "2026-08-18T03:43:02Z",
     "engagement": 10,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #110 by market cap. Trending position #1.",
+    "summary": "Wiki Cat is currently trending on CoinGecko, ranked #354 by market cap. Trending position #1.",
     "tags": [
       "trending",
-      "pengu"
+      "wkc"
     ]
   },
   {
-    "id": "coingecko_the-black-bull",
-    "title": "The Black Bull (ANSEM) is trending on CoinGecko",
+    "id": "coingecko_hyperliquid",
+    "title": "Hyperliquid (HYPE) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/the-black-bull",
-    "published_at": "2026-08-18T02:54:39Z",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "published_at": "2026-08-18T03:43:02Z",
     "engagement": 9,
-    "summary": "The Black Bull is currently trending on CoinGecko, ranked #234 by market cap. Trending position #2.",
+    "summary": "Hyperliquid is currently trending on CoinGecko, ranked #10 by market cap. Trending position #2.",
     "tags": [
       "trending",
-      "ansem"
+      "hype"
     ]
   },
   {
-    "id": "coingecko_centrifuge-2",
-    "title": "Centrifuge (CFG) is trending on CoinGecko",
+    "id": "coingecko_monad",
+    "title": "Monad (MON) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/centrifuge-2",
-    "published_at": "2026-08-18T02:54:39Z",
+    "url": "https://www.coingecko.com/en/coins/monad",
+    "published_at": "2026-08-18T03:43:02Z",
     "engagement": 8,
-    "summary": "Centrifuge is currently trending on CoinGecko, ranked #361 by market cap. Trending position #3.",
+    "summary": "Monad is currently trending on CoinGecko, ranked #140 by market cap. Trending position #3.",
     "tags": [
       "trending",
-      "cfg"
-    ]
-  },
-  {
-    "id": "coingecko_pi-network",
-    "title": "Pi Network (PI) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pi-network",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 7,
-    "summary": "Pi Network is currently trending on CoinGecko, ranked #70 by market cap. Trending position #4.",
-    "tags": [
-      "trending",
-      "pi"
-    ]
-  },
-  {
-    "id": "coingecko_acurast",
-    "title": "Acurast (ACU) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/acurast",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 6,
-    "summary": "Acurast is currently trending on CoinGecko, ranked #451 by market cap. Trending position #5.",
-    "tags": [
-      "trending",
-      "acu"
-    ]
-  },
-  {
-    "id": "coingecko_bitcoin",
-    "title": "Bitcoin (BTC) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 5,
-    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #6.",
-    "tags": [
-      "trending",
-      "btc"
+      "mon"
     ]
   },
   {
@@ -89,40 +47,138 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/venice-token",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 4,
-    "summary": "Venice Token is currently trending on CoinGecko, ranked #89 by market cap. Trending position #7.",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 7,
+    "summary": "Venice Token is currently trending on CoinGecko, ranked #89 by market cap. Trending position #4.",
     "tags": [
       "trending",
       "vvv"
     ]
   },
   {
-    "id": "coingecko_solana",
-    "title": "Solana (SOL) is trending on CoinGecko",
+    "id": "coingecko_pudgy-penguins",
+    "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 3,
-    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #8.",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 6,
+    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #112 by market cap. Trending position #5.",
     "tags": [
       "trending",
-      "sol"
+      "pengu"
     ]
   },
   {
-    "id": "coingecko_peaq-2",
-    "title": "peaq (PEAQ) is trending on CoinGecko",
+    "id": "coingecko_lighter",
+    "title": "Lighter (LIT) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/peaq-2",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 2,
-    "summary": "peaq is currently trending on CoinGecko, ranked #440 by market cap. Trending position #9.",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 5,
+    "summary": "Lighter is currently trending on CoinGecko, ranked #90 by market cap. Trending position #6.",
     "tags": [
       "trending",
-      "peaq"
+      "lit"
+    ]
+  },
+  {
+    "id": "coingecko_bitcoin",
+    "title": "Bitcoin (BTC) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 4,
+    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #7.",
+    "tags": [
+      "trending",
+      "btc"
+    ]
+  },
+  {
+    "id": "coingecko_the-black-bull",
+    "title": "The Black Bull (ANSEM) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/the-black-bull",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 3,
+    "summary": "The Black Bull is currently trending on CoinGecko, ranked #233 by market cap. Trending position #8.",
+    "tags": [
+      "trending",
+      "ansem"
+    ]
+  },
+  {
+    "id": "coingecko_pepe",
+    "title": "Pepe (PEPE) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pepe",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 2,
+    "summary": "Pepe is currently trending on CoinGecko, ranked #65 by market cap. Trending position #9.",
+    "tags": [
+      "trending",
+      "pepe"
+    ]
+  },
+  {
+    "id": "coingecko_morpho",
+    "title": "Morpho (MORPHO) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/morpho",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 1,
+    "summary": "Morpho is currently trending on CoinGecko, ranked #52 by market cap. Trending position #10.",
+    "tags": [
+      "trending",
+      "morpho"
+    ]
+  },
+  {
+    "id": "coingecko_akash-network",
+    "title": "Akash Network (AKT) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/akash-network",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": 0,
+    "summary": "Akash Network is currently trending on CoinGecko, ranked #189 by market cap. Trending position #11.",
+    "tags": [
+      "trending",
+      "akt"
+    ]
+  },
+  {
+    "id": "coingecko_sui",
+    "title": "Sui (SUI) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/sui",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": -1,
+    "summary": "Sui is currently trending on CoinGecko, ranked #35 by market cap. Trending position #12.",
+    "tags": [
+      "trending",
+      "sui"
+    ]
+  },
+  {
+    "id": "coingecko_pump-fun",
+    "title": "Pump.fun (PUMP) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pump-fun",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": -2,
+    "summary": "Pump.fun is currently trending on CoinGecko, ranked #64 by market cap. Trending position #13.",
+    "tags": [
+      "trending",
+      "pump"
     ]
   },
   {
@@ -131,82 +187,26 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/bittensor",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 1,
-    "summary": "Bittensor is currently trending on CoinGecko, ranked #44 by market cap. Trending position #10.",
+    "published_at": "2026-08-18T03:43:02Z",
+    "engagement": -3,
+    "summary": "Bittensor is currently trending on CoinGecko, ranked #44 by market cap. Trending position #14.",
     "tags": [
       "trending",
       "tao"
     ]
   },
   {
-    "id": "coingecko_wiki-cat",
-    "title": "Wiki Cat (WKC) is trending on CoinGecko",
+    "id": "coingecko_chainlink",
+    "title": "Chainlink (LINK) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/wiki-cat",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": 0,
-    "summary": "Wiki Cat is currently trending on CoinGecko, ranked #360 by market cap. Trending position #11.",
-    "tags": [
-      "trending",
-      "wkc"
-    ]
-  },
-  {
-    "id": "coingecko_uniswap",
-    "title": "Uniswap (UNI) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": -1,
-    "summary": "Uniswap is currently trending on CoinGecko, ranked #41 by market cap. Trending position #12.",
-    "tags": [
-      "trending",
-      "uni"
-    ]
-  },
-  {
-    "id": "coingecko_goplus-security",
-    "title": "GoPlus Security (GPS) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/goplus-security",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": -2,
-    "summary": "GoPlus Security is currently trending on CoinGecko, ranked #249 by market cap. Trending position #13.",
-    "tags": [
-      "trending",
-      "gps"
-    ]
-  },
-  {
-    "id": "coingecko_jupiter-exchange-solana",
-    "title": "Jupiter (JUP) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/jupiter-exchange-solana",
-    "published_at": "2026-08-18T02:54:39Z",
-    "engagement": -3,
-    "summary": "Jupiter is currently trending on CoinGecko, ranked #91 by market cap. Trending position #14.",
-    "tags": [
-      "trending",
-      "jup"
-    ]
-  },
-  {
-    "id": "coingecko_geodnet",
-    "title": "Geodnet (GEOD) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/geodnet",
-    "published_at": "2026-08-18T02:54:39Z",
+    "url": "https://www.coingecko.com/en/coins/chainlink",
+    "published_at": "2026-08-18T03:43:02Z",
     "engagement": -4,
-    "summary": "Geodnet is currently trending on CoinGecko, ranked #239 by market cap. Trending position #15.",
+    "summary": "Chainlink is currently trending on CoinGecko, ranked #17 by market cap. Trending position #15.",
     "tags": [
       "trending",
-      "geod"
+      "link"
     ]
   }
 ]
