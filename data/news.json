@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_4e6b97f5a538531d",
+    "title": "Ripple raises $275M for US prime brokerage to meet institutional demand",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T11:18:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ripple raises $275M for US prime brokerage to meet institutional demand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-dubai-overview-ripple-and-blockchain.jpg\" /> </p> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_32b46ff61a7fa09a",
+    "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
+    "published_at": "2026-08-19T11:14:50Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f62ef7de8f74b8a5",
+    "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T11:06:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sek-blackrock.jpg\" /> </p> <p>Bitcoin main",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c3d3e2dcc2718a70",
+    "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+    "published_at": "2026-08-19T10:29:57Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a06265738b7fe32b",
+    "title": "Nexo launches regulated crypto-backed credit in Australia",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T10:20:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Nexo launches regulated crypto-backed credit in Australia\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sponsored-of-nexo-1.jpg\" /> </p> <p>Nexo introduced regulated, c",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_0b16fcc80cae5623",
     "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
     "platform": "news",
@@ -490,34 +560,6 @@
     ]
   },
   {
-    "id": "news_4c533ba5a2919c7a",
-    "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
-    "published_at": "2026-08-18T16:08:46Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_4c30088b54e706c4",
-    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T15:59:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fu",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_7cc6f23c78ea7e6a",
     "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
     "platform": "news",
@@ -529,20 +571,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_ab2cf309e015ba1a",
-    "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T15:27:13Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin tags $65K as S&amp;P 500 rebounds from 2-week lows on US-Iran rhetoric\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-are-flash-green.jpg\" /> </p> <p>Bi",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -560,20 +588,6 @@
     ]
   },
   {
-    "id": "news_ddaa2a2bc6123125",
-    "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
-    "published_at": "2026-08-18T15:07:52Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d713948f665165ec",
     "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
     "platform": "news",
@@ -585,20 +599,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_bc7641909e56a793",
-    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T13:41:56Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Toyota Finance opens tokenized bonds to retail investors via mobile payment app\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/toyota-security-token.png\" /> </p> <p>Retail ",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
