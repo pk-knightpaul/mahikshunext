@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_a9f628f525b41897",
+    "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+    "published_at": "2026-08-19T16:18:04Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_aa74d4dee4e0bb19",
+    "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
+    "published_at": "2026-08-19T16:10:04Z",
+    "engagement": 0,
+    "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_6a156b97aec67025",
+    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+    "published_at": "2026-08-19T16:00:06Z",
+    "engagement": 0,
+    "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1a69e41356a445d1",
+    "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T16:00:03Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bull-shadow-bitcoin.jpg\" /> </p> <p>Bitcoi",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_10c7174a37d0a77f",
+    "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T15:50:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg\" /> </p> <p>T",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_bf0ea390e56c98e9",
+    "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T15:44:09Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price hits 11-week high as US Treasury doubles debt buyback size\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-you-could-save-money-us-treasury-1.jpg\" /> </",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_8005a6623bb0c1e1",
     "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
     "platform": "news",
@@ -364,20 +448,6 @@
     ]
   },
   {
-    "id": "news_209c5c216be6b0fb",
-    "title": "Ripple raises $275 million in senior notes for prime brokerage push",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
-    "published_at": "2026-08-19T09:55:50Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_b7ffbb2d534eb327",
     "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
     "platform": "news",
@@ -434,20 +504,6 @@
     ]
   },
   {
-    "id": "news_de3926bbd247754d",
-    "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-19T03:58:13Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US accounting board FASB proposes conditions for stablecoins as cash equivalents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-monitoring-payers-cryptocurrency-complian",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_26c074d199660249",
     "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
     "platform": "news",
@@ -490,20 +546,6 @@
     ]
   },
   {
-    "id": "news_a3bd53c3c662422b",
-    "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T21:24:15Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC proposes new crypto rules in absence of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg\" /> </p> <p>The proposed rules from th",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_183b4f3c7615b5a3",
     "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
     "platform": "news",
@@ -515,20 +557,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_2ab2906882e4fcaf",
-    "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T20:45:48Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-chainlink-a-beginners-guide-to-the-cros",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -596,34 +624,6 @@
     "published_at": "2026-08-18T17:19:44Z",
     "engagement": 0,
     "summary": "The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7cc6f23c78ea7e6a",
-    "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
-    "published_at": "2026-08-18T15:56:05Z",
-    "engagement": 0,
-    "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bdd87ff2c188f489",
-    "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
-    "published_at": "2026-08-18T15:19:45Z",
-    "engagement": 0,
-    "summary": "The Tokyo-listed firm will seed gaming media company Super League—to be renamed Superplanet and trade as SUPA—with 2,100 BTC.",
     "tags": [
       "news",
       "decrypt"
