@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_d9f013286f5a0d04",
+    "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot",
+    "published_at": "2026-08-19T13:31:04Z",
+    "engagement": 0,
+    "summary": "The Shanghai-based InsurTech firm closed a $154.7 million private placement funded entirely in crypto, with investors contributing Bitcoin directly rather than cash.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4f879dc2cf7eb9a7",
+    "title": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T13:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"200,000 fake AI ‘victims’ deployed to scam bait online fraudsters \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazineapate-tying-up-scammers-with-ai-bots.jpg\" /> </p> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_60defea56cb0ad0d",
+    "title": "SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T13:27:09Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-new-sec-crypto-task-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-19T13:10:52Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_ea1953e4c1d0574c",
+    "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+    "published_at": "2026-08-19T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4196fe6a9ed59277",
+    "title": "Strengthen the Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+    "published_at": "2026-08-19T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_17ebb4fe5e7cb959",
+    "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+    "published_at": "2026-08-19T12:45:35Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_3c26c9e5f5a0ce3b",
     "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
     "platform": "news",
@@ -197,7 +295,7 @@
   },
   {
     "id": "news_6211efcf91775520",
-    "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+    "title": "Live updates: Bitcoin tops $65,000 as Treasury move sends yields lower",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
@@ -239,7 +337,7 @@
   },
   {
     "id": "news_2fff7beddc85a994",
-    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
@@ -249,20 +347,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-19T05:53:49Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -336,20 +420,6 @@
     ]
   },
   {
-    "id": "news_9ab74cef2fbeb085",
-    "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-    "published_at": "2026-08-18T23:11:12Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_26c074d199660249",
     "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
     "platform": "news",
@@ -389,20 +459,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_4c8bfb779561c6a9",
-    "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
-    "published_at": "2026-08-18T21:25:42Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -476,20 +532,6 @@
     ]
   },
   {
-    "id": "news_6072fd319b350983",
-    "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T19:31:16Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-5-biggest-mining-farms-zcash-1.jpg\" /> </p>",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_bde28b4a74f4d587",
     "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
     "platform": "news",
@@ -501,20 +543,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_e738bc0d5d38246d",
-    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/18/r",
-    "published_at": "2026-08-18T19:09:33Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -543,20 +571,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_1f303c8b766b30a2",
-    "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-18T17:39:37Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Kraken’s Krak debuts US debit card as Payward broadens financial services push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png\" /> </p> <p>The multi-a",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -610,20 +624,6 @@
     "published_at": "2026-08-18T14:03:34Z",
     "engagement": 0,
     "summary": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_0e967a08da6fe062",
-    "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
-    "published_at": "2026-08-18T12:37:02Z",
-    "engagement": 0,
-    "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
     "tags": [
       "news",
       "decrypt"
