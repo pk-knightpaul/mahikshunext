@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_836a273010e73efe",
+    "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
+    "published_at": "2026-08-20T12:00:25Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_741240c1d7804530",
+    "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+    "published_at": "2026-08-20T11:35:47Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_39c0e2ac109a35cc",
+    "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
+    "published_at": "2026-08-20T11:31:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_cfc6ea072e57eca4",
+    "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
+    "published_at": "2026-08-20T11:31:04Z",
+    "engagement": 0,
+    "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8b41748f9463142a",
+    "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-20T11:16:41Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs draw $517M in largest one-day inflow since early May\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-1.jpg\" /> </p> <p>Inves",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_c08fb1664075538a",
     "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
     "platform": "news",
@@ -141,7 +211,7 @@
   },
   {
     "id": "news_48ee36c9dcf3b871",
-    "title": "Live updates: Bitcoin jumps above $72,000, ETFs draw $700 million in biggest inflows in months",
+    "title": "Live updates: Bitcoin rises to $72,000; ETF inflows of $700 million were largest in months",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
@@ -406,20 +476,6 @@
     ]
   },
   {
-    "id": "news_6a96cdcbd9b53af6",
-    "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-    "published_at": "2026-08-19T18:10:10Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_75a15297b6575f39",
     "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
     "platform": "news",
@@ -490,20 +546,6 @@
     ]
   },
   {
-    "id": "news_a9f628f525b41897",
-    "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
-    "published_at": "2026-08-19T16:18:04Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_aa74d4dee4e0bb19",
     "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
     "platform": "news",
@@ -546,34 +588,6 @@
     ]
   },
   {
-    "id": "news_10c7174a37d0a77f",
-    "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-19T15:50:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-cftc-action-against-ftx.jpg\" /> </p> <p>T",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_8005a6623bb0c1e1",
-    "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
-    "published_at": "2026-08-19T15:22:47Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_7a06c071d548f410",
     "title": "Morning Minute: SEC Brings Clarity to Crypto",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-19T11:31:04Z",
     "engagement": 0,
     "summary": "Edward Zimbardi allegedly lured thousands of investors into \"The Crypto Program\" with promises of 25% monthly returns before fleeing to Fiji.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b7ffbb2d534eb327",
-    "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
-    "published_at": "2026-08-19T09:31:03Z",
-    "engagement": 0,
-    "summary": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
     "tags": [
       "news",
       "decrypt"
