@@ -1,27 +1,13 @@
 [
   {
-    "id": "coingecko_aligned",
-    "title": "Aligned (ALIGN) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/aligned",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 10,
-    "summary": "Aligned is currently trending on CoinGecko, ranked #526 by market cap. Trending position #1.",
-    "tags": [
-      "trending",
-      "align"
-    ]
-  },
-  {
     "id": "coingecko_bullballs-coin",
     "title": "Bullballs Coin (BULLBALLS) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/bullballs-coin",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 9,
-    "summary": "Bullballs Coin is currently trending on CoinGecko, ranked #935 by market cap. Trending position #2.",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 10,
+    "summary": "Bullballs Coin is currently trending on CoinGecko, ranked #920 by market cap. Trending position #1.",
     "tags": [
       "trending",
       "bullballs"
@@ -33,26 +19,26 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/ergo",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 8,
-    "summary": "Ergo is currently trending on CoinGecko, ranked #804 by market cap. Trending position #3.",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 9,
+    "summary": "Ergo is currently trending on CoinGecko, ranked #805 by market cap. Trending position #2.",
     "tags": [
       "trending",
       "erg"
     ]
   },
   {
-    "id": "coingecko_xmaquina",
-    "title": "XMAQUINA (DEUS) is trending on CoinGecko",
+    "id": "coingecko_aligned",
+    "title": "Aligned (ALIGN) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/xmaquina",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 7,
-    "summary": "XMAQUINA is currently trending on CoinGecko, ranked #929 by market cap. Trending position #4.",
+    "url": "https://www.coingecko.com/en/coins/aligned",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 8,
+    "summary": "Aligned is currently trending on CoinGecko, ranked #587 by market cap. Trending position #3.",
     "tags": [
       "trending",
-      "deus"
+      "align"
     ]
   },
   {
@@ -61,26 +47,12 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pipedog",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 6,
-    "summary": "pipedog is currently trending on CoinGecko, ranked #623 by market cap. Trending position #5.",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 7,
+    "summary": "pipedog is currently trending on CoinGecko, ranked #628 by market cap. Trending position #4.",
     "tags": [
       "trending",
       "pipedog"
-    ]
-  },
-  {
-    "id": "coingecko_bitcoin",
-    "title": "Bitcoin (BTC) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 5,
-    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #6.",
-    "tags": [
-      "trending",
-      "btc"
     ]
   },
   {
@@ -89,12 +61,26 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/hyperliquid",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 4,
-    "summary": "Hyperliquid is currently trending on CoinGecko, ranked #10 by market cap. Trending position #7.",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 6,
+    "summary": "Hyperliquid is currently trending on CoinGecko, ranked #10 by market cap. Trending position #5.",
     "tags": [
       "trending",
       "hype"
+    ]
+  },
+  {
+    "id": "coingecko_bitcoin",
+    "title": "Bitcoin (BTC) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 5,
+    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #6.",
+    "tags": [
+      "trending",
+      "btc"
     ]
   },
   {
@@ -103,12 +89,26 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": 3,
-    "summary": "Pump.fun is currently trending on CoinGecko, ranked #55 by market cap. Trending position #8.",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 4,
+    "summary": "Pump.fun is currently trending on CoinGecko, ranked #55 by market cap. Trending position #7.",
     "tags": [
       "trending",
       "pump"
+    ]
+  },
+  {
+    "id": "coingecko_xmaquina",
+    "title": "XMAQUINA (DEUS) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/xmaquina",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": 3,
+    "summary": "XMAQUINA is currently trending on CoinGecko, ranked #937 by market cap. Trending position #8.",
+    "tags": [
+      "trending",
+      "deus"
     ]
   },
   {
@@ -117,7 +117,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/lighter",
-    "published_at": "2026-08-20T20:26:18Z",
+    "published_at": "2026-08-20T21:26:10Z",
     "engagement": 2,
     "summary": "Lighter is currently trending on CoinGecko, ranked #89 by market cap. Trending position #9.",
     "tags": [
@@ -126,31 +126,31 @@
     ]
   },
   {
-    "id": "coingecko_ethereum",
-    "title": "Ethereum (ETH) is trending on CoinGecko",
+    "id": "coingecko_monad",
+    "title": "Monad (MON) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "published_at": "2026-08-20T20:26:18Z",
+    "url": "https://www.coingecko.com/en/coins/monad",
+    "published_at": "2026-08-20T21:26:10Z",
     "engagement": 1,
-    "summary": "Ethereum is currently trending on CoinGecko, ranked #2 by market cap. Trending position #10.",
+    "summary": "Monad is currently trending on CoinGecko, ranked #129 by market cap. Trending position #10.",
     "tags": [
       "trending",
-      "eth"
+      "mon"
     ]
   },
   {
-    "id": "coingecko_cash-cat",
-    "title": "Cash Cat (CASHCAT) is trending on CoinGecko",
+    "id": "coingecko_ong",
+    "title": "Ontology Gas (ONG) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/cash-cat",
-    "published_at": "2026-08-20T20:26:18Z",
+    "url": "https://www.coingecko.com/en/coins/ong",
+    "published_at": "2026-08-20T21:26:10Z",
     "engagement": 0,
-    "summary": "Cash Cat is currently trending on CoinGecko, ranked #218 by market cap. Trending position #11.",
+    "summary": "Ontology Gas is currently trending on CoinGecko, ranked #316 by market cap. Trending position #11.",
     "tags": [
       "trending",
-      "cashcat"
+      "ong"
     ]
   },
   {
@@ -159,7 +159,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/ripple",
-    "published_at": "2026-08-20T20:26:18Z",
+    "published_at": "2026-08-20T21:26:10Z",
     "engagement": -1,
     "summary": "XRP is currently trending on CoinGecko, ranked #5 by market cap. Trending position #12.",
     "tags": [
@@ -168,45 +168,45 @@
     ]
   },
   {
+    "id": "coingecko_chainlink",
+    "title": "Chainlink (LINK) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/chainlink",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": -2,
+    "summary": "Chainlink is currently trending on CoinGecko, ranked #16 by market cap. Trending position #13.",
+    "tags": [
+      "trending",
+      "link"
+    ]
+  },
+  {
+    "id": "coingecko_zcash",
+    "title": "Zcash (ZEC) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/zcash",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": -3,
+    "summary": "Zcash is currently trending on CoinGecko, ranked #14 by market cap. Trending position #14.",
+    "tags": [
+      "trending",
+      "zec"
+    ]
+  },
+  {
     "id": "coingecko_solana",
     "title": "Solana (SOL) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": -2,
-    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #13.",
+    "published_at": "2026-08-20T21:26:10Z",
+    "engagement": -4,
+    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #15.",
     "tags": [
       "trending",
       "sol"
-    ]
-  },
-  {
-    "id": "coingecko_monad",
-    "title": "Monad (MON) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/monad",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": -3,
-    "summary": "Monad is currently trending on CoinGecko, ranked #129 by market cap. Trending position #14.",
-    "tags": [
-      "trending",
-      "mon"
-    ]
-  },
-  {
-    "id": "coingecko_aerodrome-finance",
-    "title": "Aerodrome Finance (AERO) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-    "published_at": "2026-08-20T20:26:18Z",
-    "engagement": -4,
-    "summary": "Aerodrome Finance is currently trending on CoinGecko, ranked #107 by market cap. Trending position #15.",
-    "tags": [
-      "trending",
-      "aero"
     ]
   }
 ]
