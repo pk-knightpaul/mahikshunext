@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_3665d724d470d1a5",
+    "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
+    "published_at": "2026-08-20T17:12:43Z",
+    "engagement": 0,
+    "summary": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d735e7dbafd85e9e",
+    "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
+    "published_at": "2026-08-20T16:33:38Z",
+    "engagement": 0,
+    "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_1b79dee4835b268b",
     "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-19T16:31:04Z",
     "engagement": 0,
     "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_aa74d4dee4e0bb19",
-    "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
-    "published_at": "2026-08-19T16:10:04Z",
-    "engagement": 0,
-    "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6a156b97aec67025",
-    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-    "published_at": "2026-08-19T16:00:06Z",
-    "engagement": 0,
-    "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
     "tags": [
       "news",
       "decrypt"
