@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_dda307a6a06287be",
+    "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+    "published_at": "2026-08-20T19:16:05Z",
+    "engagement": 0,
+    "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9ce717a4cdf85b0b",
+    "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+    "published_at": "2026-08-20T18:54:18Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4ee6bc1209445ead",
+    "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+    "published_at": "2026-08-20T18:44:08Z",
+    "engagement": 0,
+    "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_ab81dc3eeda16894",
     "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
     "platform": "news",
@@ -532,20 +574,6 @@
     ]
   },
   {
-    "id": "news_3bb0978889e60706",
-    "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-    "published_at": "2026-08-20T04:10:40Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_2200bfdd9af53382",
     "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-19T19:51:11Z",
     "engagement": 0,
     "summary": "Strategy, Coinbase, Circle, and BitMine are riding Bitcoin's short squeeze toward $70K—and two of them may be squeezing equity bears of their own.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c39c2cf929fc221a",
-    "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
-    "published_at": "2026-08-19T19:16:04Z",
-    "engagement": 0,
-    "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_fbea7e0a4d5b01d9",
-    "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-    "published_at": "2026-08-19T18:20:35Z",
-    "engagement": 0,
-    "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
     "tags": [
       "news",
       "decrypt"
