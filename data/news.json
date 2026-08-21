@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_27aa0fa71753905f",
+    "title": "Pass the Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+    "published_at": "2026-08-21T19:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3cef5282fd2d58ba",
+    "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+    "published_at": "2026-08-21T18:45:01Z",
+    "engagement": 0,
+    "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_38a1414801abc5f0",
     "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
     "platform": "news",
@@ -504,20 +532,6 @@
     ]
   },
   {
-    "id": "news_b378fa148533ec86",
-    "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-    "published_at": "2026-08-21T01:51:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_61b62fd572498b3c",
     "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-20T17:46:08Z",
     "engagement": 0,
     "summary": "The token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave—though ETF flows and futures data hint the move is running on borrowed momentum.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3665d724d470d1a5",
-    "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
-    "published_at": "2026-08-20T17:12:43Z",
-    "engagement": 0,
-    "summary": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
     "tags": [
       "news",
       "decrypt"
