@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_003099aaa38dadef",
+    "title": "Crypto advocates join in suing Illinois over digital asset tax",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+    "published_at": "2026-08-21T22:10:28Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_dfc0bdccfa5877e0",
+    "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+    "published_at": "2026-08-21T21:31:05Z",
+    "engagement": 0,
+    "summary": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -546,20 +574,6 @@
     ]
   },
   {
-    "id": "news_4a15b2f3703366ab",
-    "title": "Bitcoin pushes past $75,000 as rally continues.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-    "published_at": "2026-08-21T01:55:50Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_61b62fd572498b3c",
     "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-20T18:44:08Z",
     "engagement": 0,
     "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ab81dc3eeda16894",
-    "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
-    "published_at": "2026-08-20T18:32:25Z",
-    "engagement": 0,
-    "summary": "Cloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
     "tags": [
       "news",
       "decrypt"
