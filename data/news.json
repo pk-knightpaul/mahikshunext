@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_e4bc860db7d5e260",
+    "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
+    "published_at": "2026-08-21T14:57:28Z",
+    "engagement": 0,
+    "summary": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_30e933e77f4a8c25",
     "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-20T13:31:05Z",
     "engagement": 0,
     "summary": "Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_cfc6ea072e57eca4",
-    "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-    "published_at": "2026-08-20T11:31:04Z",
-    "engagement": 0,
-    "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
     "tags": [
       "news",
       "decrypt"
