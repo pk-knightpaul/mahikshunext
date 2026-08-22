@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_50d8e018b8999cb1",
+    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+    "published_at": "2026-08-22T17:31:03Z",
+    "engagement": 0,
+    "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_42d26d3381f40889",
     "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-20T22:32:11Z",
     "engagement": 0,
     "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f88baae445ef207a",
-    "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
-    "published_at": "2026-08-20T20:40:56Z",
-    "engagement": 0,
-    "summary": "Bitcoin's surge above $72,000 wiped out billions in bearish bets, but analysts say fresh buying will be needed to keep the rally going.",
     "tags": [
       "news",
       "decrypt"
