@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_3ddf5c3231bfe8f4",
+    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "published_at": "2026-08-22T14:10:17Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_71db380fd0bb32ba",
+    "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+    "published_at": "2026-08-22T14:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_7091adb038e66d8b",
+    "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+    "published_at": "2026-08-22T13:31:03Z",
+    "engagement": 0,
+    "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains—and multiplying fast.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_5abd6232f2fce01b",
     "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
     "platform": "news",
@@ -11,6 +53,20 @@
     "tags": [
       "news",
       "coindesk"
+    ]
+  },
+  {
+    "id": "news_00ad894775780e9b",
+    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-22T13:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MiCA is coming for DeFi vaults, but regulation will be difficult\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-ma",
+    "tags": [
+      "news",
+      "cointelegraph"
     ]
   },
   {
@@ -518,20 +574,6 @@
     ]
   },
   {
-    "id": "news_a76d9807544cad79",
-    "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-    "published_at": "2026-08-21T09:17:15Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_1f5f9379af5eb165",
     "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
     "platform": "news",
@@ -540,34 +582,6 @@
     "published_at": "2026-08-21T08:48:52Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg\" /> </p> <p>Bitcoin gains 2",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_386d498713d1abe7",
-    "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
-    "published_at": "2026-08-21T08:24:52Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_78b5d921d528ccdb",
-    "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-21T07:50:01Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-3.jpg\" /> </p> <p>Bitcoin ",
     "tags": [
       "news",
       "cointelegraph"
@@ -610,20 +624,6 @@
     "published_at": "2026-08-20T19:16:05Z",
     "engagement": 0,
     "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_4ee6bc1209445ead",
-    "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
-    "published_at": "2026-08-20T18:44:08Z",
-    "engagement": 0,
-    "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
     "tags": [
       "news",
       "decrypt"
