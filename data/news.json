@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_ebea646ed8123b5d",
+    "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+    "published_at": "2026-08-23T15:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e83e14c02174d8b7",
+    "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+    "published_at": "2026-08-23T14:31:04Z",
+    "engagement": 0,
+    "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9ce71f7acc3b34a1",
+    "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+    "published_at": "2026-08-23T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_50d8e018b8999cb1",
     "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
     "platform": "news",
@@ -546,34 +588,6 @@
     ]
   },
   {
-    "id": "news_323bad714c03324d",
-    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-    "published_at": "2026-08-21T11:26:27Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_c982a1e1bab77f5e",
-    "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-    "published_at": "2026-08-21T10:38:47Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_8f6cbe0a5f98ac42",
     "title": "Coldcard strengthens seed generation with firmware update",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_61b62fd572498b3c",
-    "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-    "published_at": "2026-08-20T22:32:11Z",
-    "engagement": 0,
-    "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
