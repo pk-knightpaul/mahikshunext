@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_9b40d245ea013ad6",
+    "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+    "published_at": "2026-08-23T16:31:04Z",
+    "engagement": 0,
+    "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_31830035b43f75b6",
     "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_c8ef456573ce4ed5",
-    "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-    "published_at": "2026-08-21T09:31:05Z",
-    "engagement": 0,
-    "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds—and leave much of the oversight to users themselves.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
