@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_2669dca966f4731a",
+    "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+    "published_at": "2026-08-24T12:24:58Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c85724978374ee67",
+    "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
+    "published_at": "2026-08-24T12:14:27Z",
+    "engagement": 0,
+    "summary": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f01f40a5494bc59d",
+    "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+    "published_at": "2026-08-24T11:36:55Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_241c80a975fbc098",
+    "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-24T11:25:26Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Japan’s SBI leads $68M Fasset round at $1B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-futures-stablecoin-options.jpg\" /> </p> <p>Fasset raised $68 mill",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_73eff9a4bf758842",
+    "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-24T11:23:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/kevin-warsh-2.jpg\" /> </p> <p>Bitco",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_aea1bc1f8b34fcb6",
+    "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-24T11:21:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ECB defends digital euro privacy as CBDCs face global scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-fin",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_4805534dc84efe7a",
     "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
     "platform": "news",
@@ -141,7 +225,7 @@
   },
   {
     "id": "news_111f720b9dce3dd9",
-    "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+    "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
@@ -266,20 +350,6 @@
     ]
   },
   {
-    "id": "news_0ee52e43a5aa42b9",
-    "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
-    "published_at": "2026-08-24T04:41:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_37463baccf00b759",
     "title": "Term Finance loses estimated $8.5M in vault governance exploit",
     "platform": "news",
@@ -305,20 +375,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_9796a5734d34ca6b",
-    "title": "Regulation Crypto is here: State of Crypto",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-    "published_at": "2026-08-23T18:30:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -490,20 +546,6 @@
     ]
   },
   {
-    "id": "news_26884ed245ea1e71",
-    "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-21T19:10:47Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin seeks support near $77K as BTC, gold near 100-day highs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg\" /> </p> <p>Bitcoin volatility eased ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_3cef5282fd2d58ba",
     "title": "Solana Just Got Faster—Is It Bullish for SOL?",
     "platform": "news",
@@ -560,34 +602,6 @@
     ]
   },
   {
-    "id": "news_6b6cf1c05d516e4c",
-    "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-21T16:25:29Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png\" /> </p> <p>T",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_9a1ea3d6f1b78f08",
-    "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-21T16:11:07Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stocks-and-crypto-correlation-is-at-all-time-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_f454c3ff793e005c",
     "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-21T14:57:28Z",
     "engagement": 0,
     "summary": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_30e933e77f4a8c25",
-    "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
-    "published_at": "2026-08-21T14:27:31Z",
-    "engagement": 0,
-    "summary": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
     "tags": [
       "news",
       "decrypt"
