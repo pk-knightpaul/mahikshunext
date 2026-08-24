@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_20896d53d5632bc3",
+    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+    "published_at": "2026-08-24T22:16:04Z",
+    "engagement": 0,
+    "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_03b3463a7e0b43ec",
+    "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-24T21:33:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-r",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c1b4754e9f58f201",
+    "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+    "published_at": "2026-08-24T21:28:30Z",
+    "engagement": 0,
+    "summary": "The company increased its Bitcoin holdings by 5.5%, but its Bitcoin per fully diluted share rose only about 1.4%.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_2a617a31e3cbbe1d",
     "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
     "platform": "news",
@@ -434,20 +476,6 @@
     ]
   },
   {
-    "id": "news_aea1bc1f8b34fcb6",
-    "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-24T11:21:19Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ECB defends digital euro privacy as CBDCs face global scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-fin",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_4805534dc84efe7a",
     "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-23T14:31:04Z",
     "engagement": 0,
     "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_50d8e018b8999cb1",
-    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-    "published_at": "2026-08-22T17:31:03Z",
-    "engagement": 0,
-    "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_42d26d3381f40889",
-    "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-    "published_at": "2026-08-22T15:31:04Z",
-    "engagement": 0,
-    "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
     "tags": [
       "news",
       "decrypt"
