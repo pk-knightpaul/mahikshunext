@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_c5c55b03802f9f8e",
+    "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+    "published_at": "2026-08-25T11:15:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3992b99a74cd4113",
+    "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+    "published_at": "2026-08-25T10:57:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e1c97a5315828594",
+    "title": "Bitcoin extends 7-day advance to roughly 25%",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+    "published_at": "2026-08-25T10:52:03Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_80baf5f0e2f3fb3d",
+    "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
+    "published_at": "2026-08-25T10:50:23Z",
+    "engagement": 0,
+    "summary": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_db03fc547b8b1c9d",
+    "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-25T10:49:43Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-relative-strength-ind",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_9ee73e8da6a511f5",
     "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
     "platform": "news",
@@ -127,7 +197,7 @@
   },
   {
     "id": "news_92280ed583187af4",
-    "title": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
+    "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
@@ -476,40 +546,12 @@
     ]
   },
   {
-    "id": "news_9bd4b2f3971e8477",
-    "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-24T17:48:44Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-growing-kitchen-pastry.png\" /> </p> <p>",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_d8e37a344e83204e",
     "title": "Crypto political group details list of U.S. congressional allies its backing this year",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
     "published_at": "2026-08-24T17:30:10Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_59cc6cc4fe424293",
-    "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
-    "published_at": "2026-08-24T17:12:35Z",
     "engagement": 0,
     "summary": "",
     "tags": [
@@ -546,20 +588,6 @@
     ]
   },
   {
-    "id": "news_631084366537d90e",
-    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-    "published_at": "2026-08-24T12:59:55Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_45e749bf455250f4",
     "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
     "platform": "news",
@@ -571,20 +599,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_9390e67038b34c04",
-    "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-    "published_at": "2026-08-24T12:52:30Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -610,20 +624,6 @@
     "published_at": "2026-08-24T12:14:27Z",
     "engagement": 0,
     "summary": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_da5d89c79eebe548",
-    "title": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
-    "published_at": "2026-08-24T10:49:00Z",
-    "engagement": 0,
-    "summary": "Kevin Warsh gives his first Jackson Hole keynote as Fed chair on Friday, with futures now pricing a September rate hike at 36%.",
     "tags": [
       "news",
       "decrypt"
