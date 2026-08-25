@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_150f83b1acc02082",
+    "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
+    "published_at": "2026-08-25T16:28:59Z",
+    "engagement": 0,
+    "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_cfb8a48d96611cad",
+    "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+    "published_at": "2026-08-25T16:22:47Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_752bf32aea0fa237",
+    "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-25T15:53:05Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"DGrid AI token jumps 93% after launch as decentralized AI network goes live\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-happens-when-chatgpt-becomes-the-front-do",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_5d7eaffac1058492",
     "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
     "platform": "news",
@@ -435,7 +477,7 @@
   },
   {
     "id": "news_92280ed583187af4",
-    "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
+    "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
@@ -476,20 +518,6 @@
     ]
   },
   {
-    "id": "news_5d8a9c9e917badfc",
-    "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-    "published_at": "2026-08-25T07:01:49Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_e58fb46734ad60c5",
     "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
     "platform": "news",
@@ -498,20 +526,6 @@
     "published_at": "2026-08-25T05:29:29Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US targets Iran’s crypto sector, cites over $100M in oil-linked payments \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png\" /> </p> <p>T",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a9004bf9d504c8d6",
-    "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T03:56:29Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BNB Chain activates Pasteur hard fork to strengthen bridge security\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/fork-blockchain-technology-bnb-chain.jpg\" /> </p> <p>BNB ",
     "tags": [
       "news",
       "cointelegraph"
@@ -610,20 +624,6 @@
     "published_at": "2026-08-24T17:50:35Z",
     "engagement": 0,
     "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8d042d066cec942b",
-    "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-    "published_at": "2026-08-24T17:07:32Z",
-    "engagement": 0,
-    "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
     "tags": [
       "news",
       "decrypt"
