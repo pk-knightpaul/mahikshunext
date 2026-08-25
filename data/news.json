@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_55e6e4bbe40f3a8b",
+    "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
+    "published_at": "2026-08-25T20:16:04Z",
+    "engagement": 0,
+    "summary": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a20f703df4196163",
+    "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+    "published_at": "2026-08-25T19:46:03Z",
+    "engagement": 0,
+    "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7a720a2ed0c640a8",
+    "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+    "published_at": "2026-08-25T19:40:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_437292c17a82ee08",
     "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
     "platform": "news",
@@ -574,20 +616,6 @@
     ]
   },
   {
-    "id": "news_fbe1562a9c4265d7",
-    "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
-    "published_at": "2026-08-25T07:32:32Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_20896d53d5632bc3",
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-24T22:16:04Z",
     "engagement": 0,
     "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c1b4754e9f58f201",
-    "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
-    "published_at": "2026-08-24T21:28:30Z",
-    "engagement": 0,
-    "summary": "The company increased its Bitcoin holdings by 5.5%, but its Bitcoin per fully diluted share rose only about 1.4%.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_fd1622a24b54fc18",
-    "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-    "published_at": "2026-08-24T20:46:03Z",
-    "engagement": 0,
-    "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
     "tags": [
       "news",
       "decrypt"
