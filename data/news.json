@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_de0c03cf49d5169e",
+    "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
+    "published_at": "2026-08-25T22:16:03Z",
+    "engagement": 0,
+    "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_028dd983dea560dc",
+    "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+    "published_at": "2026-08-25T21:56:57Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_75a83fd57f01bb79",
+    "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
+    "published_at": "2026-08-25T21:46:04Z",
+    "engagement": 0,
+    "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_832640f447c60ce3",
+    "title": "Zerohash back for second effort at OCC trust bank charter",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+    "published_at": "2026-08-25T21:38:28Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_58fa7cd54d74a6db",
     "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
     "platform": "news",
@@ -532,20 +588,6 @@
     ]
   },
   {
-    "id": "news_80baf5f0e2f3fb3d",
-    "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
-    "published_at": "2026-08-25T10:50:23Z",
-    "engagement": 0,
-    "summary": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_9ee73e8da6a511f5",
     "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
     "platform": "news",
@@ -557,20 +599,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_7b9edc4ec97f4591",
-    "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
-    "published_at": "2026-08-25T10:21:41Z",
-    "engagement": 0,
-    "summary": "Digital assets are among five sectors in a campaign Treasury called an “Economic D-Day,” alongside technology, gold, aviation and shipping.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
@@ -594,34 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
     "published_at": "2026-08-25T08:47:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_692105a9c21d7571",
-    "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
-    "published_at": "2026-08-25T07:55:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_92280ed583187af4",
-    "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-    "published_at": "2026-08-25T07:40:11Z",
     "engagement": 0,
     "summary": "",
     "tags": [
