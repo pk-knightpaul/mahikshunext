@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_58fa7cd54d74a6db",
+    "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
+    "published_at": "2026-08-25T21:16:04Z",
+    "engagement": 0,
+    "summary": "Alibaba's Qwen team is teasing its next architecture a day early—and the specs say it runs near-frontier scale on a fraction of the power.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7b33f6b5a3204a40",
+    "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
+    "published_at": "2026-08-25T20:46:03Z",
+    "engagement": 0,
+    "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_857961d2b4b43c6c",
+    "title": "World Liberty Financial launches USD1 natively on Canton Network",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-25T20:35:10Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"World Liberty Financial launches USD1 natively on Canton Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_55e6e4bbe40f3a8b",
     "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
     "platform": "news",
@@ -546,34 +588,6 @@
     ]
   },
   {
-    "id": "news_663ffc2c67feab13",
-    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T09:52:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Standard Chartered becomes first bank distributor of HKD stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-situation-stablecoin.jpg\" /> </p> <p>The ban",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_34985ee0d553f3ba",
-    "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
-    "published_at": "2026-08-25T09:30:27Z",
-    "engagement": 0,
-    "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_f93ba2cd0d0c8c59",
     "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_20896d53d5632bc3",
-    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
-    "published_at": "2026-08-24T22:16:04Z",
-    "engagement": 0,
-    "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
