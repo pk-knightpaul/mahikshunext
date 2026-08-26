@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_9c22d8a9f82d8dcc",
+    "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
+    "published_at": "2026-08-26T18:44:17Z",
+    "engagement": 0,
+    "summary": "Six wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3cda4460d02c9db6",
+    "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
+    "published_at": "2026-08-26T17:52:22Z",
+    "engagement": 0,
+    "summary": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_ec4c6c6d4d225e96",
+    "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T17:48:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Chainalysis estimates $457B in taxable crypto activity, says CARF misses most\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-taxes-on-restricted-crypto-and-options-can-b",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_9138efb3c0c14d0c",
+    "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
+    "published_at": "2026-08-26T17:24:52Z",
+    "engagement": 0,
+    "summary": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_15d99c87b8e10ee2",
+    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
+    "published_at": "2026-08-26T17:15:33Z",
+    "engagement": 0,
+    "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_5f30f57ea6f9fdc3",
+    "title": "SEC sends crypto custody rule overhaul to White House for review",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T16:19:09Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC sends crypto custody rule overhaul to White House for review\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg\" /> </p> <p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_36f99ca41fbb5102",
+    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+    "published_at": "2026-08-26T16:18:24Z",
+    "engagement": 0,
+    "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_df8603007a13ad2b",
+    "title": "77% of Americans see crypto in retirement plans as risky: Survey",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T16:10:56Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"77% of Americans see crypto in retirement plans as risky: Survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-trumps-9t-executive-order-could-let-you-add-bitcoin-t",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_fb0d24c955a2a188",
     "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
     "platform": "news",
@@ -379,7 +491,7 @@
   },
   {
     "id": "news_07ba58e6163e95a8",
-    "title": "Live updates: Bitcoin adds to early losses, slipping below $78,000",
+    "title": "Live updates: Bitcoin adds to early losses, slipping to $78,000",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
@@ -434,20 +546,6 @@
     ]
   },
   {
-    "id": "news_3a68a9b4e8cedfd2",
-    "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T07:30:31Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs tear through 2026 outflows in 7-day hot streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-stronger-foundation-for-bitcoin-etf-applications1-2.jpg\" /> ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_66018dd52031edd1",
     "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
     "platform": "news",
@@ -473,20 +571,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_0deb15c019843ade",
-    "title": "US state banking groups plan nationwide blockchain network for 2027",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T04:19:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US state banking groups plan nationwide blockchain network for 2027 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-banks-have-deeper-interest-in-digital-than-previou",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -540,90 +624,6 @@
     "published_at": "2026-08-25T20:46:03Z",
     "engagement": 0,
     "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_857961d2b4b43c6c",
-    "title": "World Liberty Financial launches USD1 natively on Canton Network",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T20:35:10Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"World Liberty Financial launches USD1 natively on Canton Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_55e6e4bbe40f3a8b",
-    "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
-    "published_at": "2026-08-25T20:16:04Z",
-    "engagement": 0,
-    "summary": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_a20f703df4196163",
-    "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
-    "published_at": "2026-08-25T19:46:03Z",
-    "engagement": 0,
-    "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_437292c17a82ee08",
-    "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
-    "published_at": "2026-08-25T19:11:04Z",
-    "engagement": 0,
-    "summary": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3f1fd9044fba38e2",
-    "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
-    "published_at": "2026-08-25T18:39:26Z",
-    "engagement": 0,
-    "summary": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region—a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3ea4a3cc6cd32a07",
-    "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
-    "published_at": "2026-08-25T17:24:54Z",
-    "engagement": 0,
-    "summary": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
     "tags": [
       "news",
       "decrypt"
