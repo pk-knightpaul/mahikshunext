@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_189cce580ad92dff",
+    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+    "published_at": "2026-08-26T22:16:03Z",
+    "engagement": 0,
+    "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b94675f6bce42e62",
+    "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+    "published_at": "2026-08-26T21:42:42Z",
+    "engagement": 0,
+    "summary": "The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c7a3cb2aba389cd9",
+    "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+    "published_at": "2026-08-26T20:24:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_839af958e8df731d",
+    "title": "What Traders Are Watching for Bitcoin's Next Move",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
+    "published_at": "2026-08-26T20:22:17Z",
+    "engagement": 0,
+    "summary": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bd5c37e18c098720",
+    "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T20:09:23Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Better launches Bitcoin-backed mortgages powered by Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-what-is-a-housing-loan2.jpg\" /> </p> <p>Better and Coin",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b5b30aacf34b4242",
+    "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+    "published_at": "2026-08-26T19:56:03Z",
+    "engagement": 0,
+    "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_511d8ebc79436f72",
+    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+    "published_at": "2026-08-26T19:21:25Z",
+    "engagement": 0,
+    "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T19:14:06Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_9c22d8a9f82d8dcc",
     "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
     "platform": "news",
@@ -141,7 +253,7 @@
   },
   {
     "id": "news_49f1a97a9aac3e51",
-    "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+    "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
@@ -294,20 +406,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T12:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_34f64631f05c7133",
     "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
     "platform": "news",
@@ -434,20 +532,6 @@
     ]
   },
   {
-    "id": "news_4a31257dde9b543a",
-    "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
-    "published_at": "2026-08-26T10:42:35Z",
-    "engagement": 0,
-    "summary": "Judge Katherine Polk Failla adjourned the retrial by more than six months, with Storm's motion for acquittal still undecided.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_e42cc01a7f4acd6d",
     "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
     "platform": "news",
@@ -491,7 +575,7 @@
   },
   {
     "id": "news_07ba58e6163e95a8",
-    "title": "Live updates: Bitcoin adds to early losses, slipping to $78,000",
+    "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
@@ -532,20 +616,6 @@
     ]
   },
   {
-    "id": "news_836862818ed89074",
-    "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T07:44:04Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tornado Cash developer Roman Storm’s retrial delayed to April 2027\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-tornado-cash.",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_66018dd52031edd1",
     "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
     "platform": "news",
@@ -557,76 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_3f44d7da17ff5e64",
-    "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-    "published_at": "2026-08-26T05:16:32Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_de0c03cf49d5169e",
-    "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-    "published_at": "2026-08-25T22:16:03Z",
-    "engagement": 0,
-    "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_75a83fd57f01bb79",
-    "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
-    "published_at": "2026-08-25T21:46:04Z",
-    "engagement": 0,
-    "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_58fa7cd54d74a6db",
-    "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
-    "published_at": "2026-08-25T21:16:04Z",
-    "engagement": 0,
-    "summary": "Alibaba's Qwen team is teasing its next architecture a day early—and the specs say it runs near-frontier scale on a fraction of the power.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7b33f6b5a3204a40",
-    "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
-    "published_at": "2026-08-25T20:46:03Z",
-    "engagement": 0,
-    "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
