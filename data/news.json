@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_fb0d24c955a2a188",
+    "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T15:58:55Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-3.jpg\" /> </p> <p>Bitcoin stayed aw",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_76672e4198fd5caa",
+    "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
+    "published_at": "2026-08-26T15:29:49Z",
+    "engagement": 0,
+    "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_49f1a97a9aac3e51",
+    "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+    "published_at": "2026-08-26T15:15:13Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_36f72cfcca54399a",
+    "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
+    "published_at": "2026-08-26T15:04:58Z",
+    "engagement": 0,
+    "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9ca3a78f8e289044",
+    "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T15:04:32Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Protocol upgrade decouples consensus from execution to solve scaling bottlenecks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cover-multiversx-v1-1.jpg\" /> </p> <p>CTDG D",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_5b0ab2d7ae32fa35",
+    "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
+    "published_at": "2026-08-26T15:00:09Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_b7d7b8bf7a3334a1",
     "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
     "platform": "news",
@@ -295,7 +379,7 @@
   },
   {
     "id": "news_07ba58e6163e95a8",
-    "title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
+    "title": "Live updates: Bitcoin adds to early losses, slipping below $78,000",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
@@ -392,20 +476,6 @@
     ]
   },
   {
-    "id": "news_2fba9dda9ad873e7",
-    "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
-    "published_at": "2026-08-26T04:51:49Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_0deb15c019843ade",
     "title": "US state banking groups plan nationwide blockchain network for 2027",
     "platform": "news",
@@ -417,20 +487,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_73a3271aa3d35d6a",
-    "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-    "published_at": "2026-08-26T04:13:10Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -560,34 +616,6 @@
     ]
   },
   {
-    "id": "news_e42442a9508c1a7d",
-    "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T18:13:11Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-lazer-eyes-and-bull-run-graph-5.",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a037b5a3a8ba4c2d",
-    "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T18:08:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Solana transactions hit record 4.2B as SOL rallies 40%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg\" /> </p> <p>Tokenized real-world assets on Solana a",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_3ea4a3cc6cd32a07",
     "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-08-25T17:24:54Z",
     "engagement": 0,
     "summary": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_19c7ab6c869a5cd3",
-    "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
-    "published_at": "2026-08-25T16:45:59Z",
-    "engagement": 0,
-    "summary": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_150f83b1acc02082",
-    "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
-    "published_at": "2026-08-25T16:28:59Z",
-    "engagement": 0,
-    "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
     "tags": [
       "news",
       "decrypt"
