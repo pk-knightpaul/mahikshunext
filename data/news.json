@@ -1,10 +1,80 @@
 [
   {
-    "id": "news_3e3151fe64f17dd5",
+    "id": "news_b7d7b8bf7a3334a1",
+    "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+    "published_at": "2026-08-26T13:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_dec3a29ba13e51cb",
+    "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T13:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC’s proposed crypto rules probably won’t spark new ICO boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg\" /> </p> <p>The SEC’s ‘regulation crypto",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_302666b57a893a04",
+    "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+    "published_at": "2026-08-26T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9897418b75278f82",
+    "title": "Students want crypto classes but learn on social media: OKX survey",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-26T13:00:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Students want crypto classes but learn on social media: OKX survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-education-key-in-driving-crypto-adoption-in-africa2.jpg",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c92f64867699ef5b",
+    "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+    "published_at": "2026-08-26T12:51:03Z",
+    "engagement": 0,
+    "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_234cf7870a9ab751",
     "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
     "platform": "news",
     "content_type": "article",
-    "url": "https://cointelegraph.com/news/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-08-26T12:32:36Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-govern",
@@ -33,7 +103,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T12:24:55Z",
+    "published_at": "2026-08-26T12:30:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
@@ -225,7 +295,7 @@
   },
   {
     "id": "news_07ba58e6163e95a8",
-    "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
+    "title": "Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
@@ -378,20 +448,6 @@
     ]
   },
   {
-    "id": "news_028dd983dea560dc",
-    "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-    "published_at": "2026-08-25T21:56:57Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_75a83fd57f01bb79",
     "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
     "platform": "news",
@@ -403,20 +459,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_832640f447c60ce3",
-    "title": "Zerohash back for second effort at OCC trust bank charter",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-    "published_at": "2026-08-25T21:38:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -560,20 +602,6 @@
     ]
   },
   {
-    "id": "news_01e641f002ee39b8",
-    "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T16:49:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.j",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_19c7ab6c869a5cd3",
     "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
     "platform": "news",
@@ -588,20 +616,6 @@
     ]
   },
   {
-    "id": "news_180062316f01c433",
-    "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-25T16:32:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitwise launches self-custodied tokenized stock portfolios with Coinbase \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-project-explained-a-global-initiative-for-asset-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_150f83b1acc02082",
     "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-08-25T16:28:59Z",
     "engagement": 0,
     "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_04c989ebc4539a32",
-    "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
-    "published_at": "2026-08-25T14:56:10Z",
-    "engagement": 0,
-    "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
     "tags": [
       "news",
       "decrypt"
