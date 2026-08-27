@@ -1,16 +1,464 @@
 [
   {
-    "id": "news_0492df97042e0ca1",
-    "title": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
+    "id": "news_4cbcbad912519117",
+    "title": "UK government reports 240 crypto millionaires in 2025",
     "platform": "news",
     "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000",
-    "published_at": "2026-08-27T04:02:57Z",
+    "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T15:54:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"UK government reports 240 crypto millionaires in 2025\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto.jpg\" /> </p> <p>About 17,600 people in the UK reported",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_0138998be2993b0d",
+    "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
+    "published_at": "2026-08-27T15:52:21Z",
     "engagement": 0,
     "summary": "",
     "tags": [
       "news",
       "coindesk"
+    ]
+  },
+  {
+    "id": "news_ea7e0219eb645812",
+    "title": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
+    "published_at": "2026-08-27T15:45:28Z",
+    "engagement": 0,
+    "summary": "The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_e5e1c96a0075ff6b",
+    "title": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
+    "published_at": "2026-08-27T15:36:25Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_657629844d85626b",
+    "title": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote",
+    "published_at": "2026-08-27T15:12:18Z",
+    "engagement": 0,
+    "summary": "Solana is up more than 8% in 24 hours and 44% on the month. Coming changes to the network could add a supply squeeze to the mix.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3f0c9290c3d98f07",
+    "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
+    "published_at": "2026-08-27T15:10:56Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9d3145b39298ce56",
+    "title": "Flock CEO Asks Americans to 'Compromise' on Privacy as Camera Backlash Grows",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows",
+    "published_at": "2026-08-27T14:33:10Z",
+    "engagement": 0,
+    "summary": "Garrett Langley says 99.9% of police are good actors, days after a report identified at least 69 officials accused of misusing plate readers.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d7a50a6b90bd5802",
+    "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
+    "published_at": "2026-08-27T14:32:41Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_871ad11a4739d29f",
+    "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
+    "published_at": "2026-08-27T14:01:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f2594f6dff4d1f7d",
+    "title": "Ripple Prime expands into US equity derivatives with Delta One business",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T13:54:22Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ripple Prime expands into US equity derivatives with Delta One business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-crypto-in-period-of-crisis-stab",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_48744e07ddcb17a1",
+    "title": "Bank of England set for new innovation mandate covering stablecoins",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T12:51:59Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bank of England set for new innovation mandate covering stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg\" /> </p> <p>The UK plans to expa",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_979f72522a68a196",
+    "title": "The Clarity Act will put Main Street banks at a disadvantage",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
+    "published_at": "2026-08-27T12:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_64bddc9164337194",
+    "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar",
+    "published_at": "2026-08-27T12:13:26Z",
+    "engagement": 0,
+    "summary": "The chain just put up its strongest day since mid-July, with $443 million in DEX volume and more than 3 million transactions.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_702158ffb93b66cd",
+    "title": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
+    "published_at": "2026-08-27T12:08:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_02b7315aac6ca2db",
+    "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
+    "published_at": "2026-08-27T11:37:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f12851fa764a8fa5",
+    "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
+    "published_at": "2026-08-27T11:11:08Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4ecac23339f117c4",
+    "title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation",
+    "published_at": "2026-08-27T11:10:31Z",
+    "engagement": 0,
+    "summary": "Financial stability stays the Bank's primary objective, with the new duty written into a bill due before the Lords in September.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_612a134e83218749",
+    "title": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
+    "published_at": "2026-08-27T10:54:24Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_789909c396c46793",
+    "title": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
+    "published_at": "2026-08-27T10:51:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c717bdc7088753b2",
+    "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
+    "published_at": "2026-08-27T10:39:10Z",
+    "engagement": 0,
+    "summary": "August is heading for its strongest month of inflows since October 2025 if the pace holds, one analyst noted.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0d793158f6cb0e39",
+    "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T10:34:12Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-update-crypto-exchange-liquidity-explained.jpg\"",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_e873f49784e164ac",
+    "title": "Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-steadies-above-usd79-000-as-etf-inflows-hit-longest-streak-since-april",
+    "published_at": "2026-08-27T10:31:21Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_def72f63ec13054b",
+    "title": "Bitfinex Securities raises $50 million in push to offer tokenized nickel trading",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/bitfinex-securities-raises-usd50-million-in-push-to-offer-tokenized-nickel-trading",
+    "published_at": "2026-08-27T10:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_d273b4da417ea5b9",
+    "title": "Bitfinex Securities completes record $50M tokenized capital raise",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T10:00:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitfinex Securities completes record $50M tokenized capital raise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-tokenized-commodities.jpg\" /> </p> <p>Bitfinex ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_98895a903f5cced8",
+    "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
+    "published_at": "2026-08-27T09:46:19Z",
+    "engagement": 0,
+    "summary": "Coordinators pressed agents with little budget left into experiments they called \"permadeath,\" METR's investigation found.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T09:40:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c5f530d48ec0245f",
+    "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T09:26:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bithumb wins 2 suits over mistaken Bitcoin credits: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bithumb-lawsuit-1.jpg\" /> </p> <p>Bithumb reportedly won first-ins",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_766ff1306f0dd803",
+    "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
+    "published_at": "2026-08-27T09:19:39Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_7a6ce03361c8e58e",
+    "title": "Nvidia shares surge 8% on earnings beat, lifting technology stocks and bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/27/nvidia-shares-surge-8-on-earnings-beat-lifting-technology-stocks-and-bitcoin",
+    "published_at": "2026-08-27T09:19:26Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_ab53994f13ad91c6",
+    "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T08:05:44Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Core Lightning confirms multiple vulnerabilities, prepares security update\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoi.png\" /> </p> <p>Core Lightning advised oper",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_9e6a1b3058033012",
+    "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T07:01:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETF inflows slow to $232M as BTC holds under $80K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-4.jpg\" /> </p> <p>US spot Bitcoin ETF i",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_68e3258d04351a89",
+    "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T06:39:02Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tokenized deposits could raise US credit costs: Dallas Fed economists\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tokeniz.png\" /> </p> <p>Dallas Fed economists said fast",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a39553a63ef1131e",
+    "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T04:14:48Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"StarkWare tests quantum-resistant Bitcoin transaction on mainnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum-transaction\" /> </p> <p>StarkWare said the experimen",
+    "tags": [
+      "news",
+      "cointelegraph"
     ]
   },
   {
@@ -25,20 +473,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_4c20cb857201d2fb",
-    "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
-    "published_at": "2026-08-26T23:01:44Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -81,20 +515,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_c7a3cb2aba389cd9",
-    "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
-    "published_at": "2026-08-26T20:24:31Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -154,20 +574,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T19:14:06Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_9c22d8a9f82d8dcc",
     "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
     "platform": "news",
@@ -210,34 +616,6 @@
     ]
   },
   {
-    "id": "news_9138efb3c0c14d0c",
-    "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
-    "published_at": "2026-08-26T17:24:52Z",
-    "engagement": 0,
-    "summary": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_15d99c87b8e10ee2",
-    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
-    "published_at": "2026-08-26T17:15:33Z",
-    "engagement": 0,
-    "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_5f30f57ea6f9fdc3",
     "title": "SEC sends crypto custody rule overhaul to White House for review",
     "platform": "news",
@@ -249,384 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_36f99ca41fbb5102",
-    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-    "published_at": "2026-08-26T16:18:24Z",
-    "engagement": 0,
-    "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_df8603007a13ad2b",
-    "title": "77% of Americans see crypto in retirement plans as risky: Survey",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T16:10:56Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"77% of Americans see crypto in retirement plans as risky: Survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-trumps-9t-executive-order-could-let-you-add-bitcoin-t",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_fb0d24c955a2a188",
-    "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T15:58:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-3.jpg\" /> </p> <p>Bitcoin stayed aw",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_76672e4198fd5caa",
-    "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
-    "published_at": "2026-08-26T15:29:49Z",
-    "engagement": 0,
-    "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_49f1a97a9aac3e51",
-    "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
-    "published_at": "2026-08-26T15:15:13Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_36f72cfcca54399a",
-    "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-    "published_at": "2026-08-26T15:04:58Z",
-    "engagement": 0,
-    "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9ca3a78f8e289044",
-    "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T15:04:32Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Protocol upgrade decouples consensus from execution to solve scaling bottlenecks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cover-multiversx-v1-1.jpg\" /> </p> <p>CTDG D",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_5b0ab2d7ae32fa35",
-    "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
-    "published_at": "2026-08-26T15:00:09Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_b7d7b8bf7a3334a1",
-    "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
-    "published_at": "2026-08-26T13:30:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_dec3a29ba13e51cb",
-    "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T13:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC’s proposed crypto rules probably won’t spark new ICO boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-lambo-guy.jpg\" /> </p> <p>The SEC’s ‘regulation crypto",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_302666b57a893a04",
-    "title": "The evidence doesn't support the banks' case against stablecoin rewards",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
-    "published_at": "2026-08-26T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_9897418b75278f82",
-    "title": "Students want crypto classes but learn on social media: OKX survey",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T13:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Students want crypto classes but learn on social media: OKX survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-education-key-in-driving-crypto-adoption-in-africa2.jpg",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_c92f64867699ef5b",
-    "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-    "published_at": "2026-08-26T12:51:03Z",
-    "engagement": 0,
-    "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_234cf7870a9ab751",
-    "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T12:32:36Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-powered-prediction-markets-govern",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_b2ba1dc469171ba2",
-    "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
-    "published_at": "2026-08-26T12:31:13Z",
-    "engagement": 0,
-    "summary": "EURR has gone live for selected customers in Denmark, Poland and Portugal, with a Luxembourg subsidiary of Stripe holding the reserves.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_34f64631f05c7133",
-    "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T12:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Taurus links digital asset platforms to Swift’s blockchain ledger\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-technology-takes-hold-swift.jpg\" /> </p> <p>Taur",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_5445ab856b9f5850",
-    "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
-    "published_at": "2026-08-26T11:46:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_12e97a7edb3ed8e3",
-    "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
-    "published_at": "2026-08-26T11:14:16Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_ffc5e75165b7ae4b",
-    "title": "The 3 catalysts that could define bitcoin's next move",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
-    "published_at": "2026-08-26T11:02:33Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_fdba36eeb9979ca0",
-    "title": "Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T10:49:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-network-death-spiral-still-likely.jpg\"",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_814b4dc382eea5c5",
-    "title": "Japan weighs blockchain fast lane for securities cash settlement",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T10:46:47Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Japan weighs blockchain fast lane for securities cash settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/c-man-lamba-2-web3.png\" /> </p> <p>The FSA, Finance Ministry",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_3337b0d216be0213",
-    "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
-    "published_at": "2026-08-26T10:45:29Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_edb5284f6bfdb3e5",
-    "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
-    "published_at": "2026-08-26T10:42:52Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e42cc01a7f4acd6d",
-    "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T10:15:44Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets-1.jpg\" /> </p> <p>Th",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_c9773aa71894dce3",
-    "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
-    "published_at": "2026-08-26T10:03:43Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_5ab65b32238fbc26",
-    "title": "Japan to start stocks and bonds tokenization development plans this year",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
-    "published_at": "2026-08-26T09:06:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_07ba58e6163e95a8",
-    "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
-    "published_at": "2026-08-26T08:51:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
