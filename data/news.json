@@ -1,11 +1,305 @@
 [
   {
+    "id": "news_72426f2f8064b535",
+    "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
+    "published_at": "2026-08-27T22:36:04Z",
+    "engagement": 0,
+    "summary": "The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7b3a7fbedcb51aa0",
+    "title": "Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
+    "published_at": "2026-08-27T22:06:05Z",
+    "engagement": 0,
+    "summary": "Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a5db95e5a17980ff",
+    "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376755/bitcoin-sparrow-wallet-update-ai-fixes",
+    "published_at": "2026-08-27T21:36:05Z",
+    "engagement": 0,
+    "summary": "Developer Craig Raw said an AI-assisted review produced most of the fixes in version 2.5.4, though none appeared likely to put users’ funds at risk.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1cdee5fe84459259",
+    "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+    "published_at": "2026-08-27T21:00:57Z",
+    "engagement": 0,
+    "summary": "OpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_01524674d13dcd9d",
+    "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T20:39:40Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.png\" /> </p> <p>The trans",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_6f4d5811f5d3076d",
+    "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
+    "published_at": "2026-08-27T19:47:21Z",
+    "engagement": 0,
+    "summary": "Deribit's Friday settlement covers nearly a fifth of the exchange's Bitcoin open interest, and max pain sits well below where BTC is trading right now.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T19:27:53Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_341be5c2b31d1871",
+    "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T19:22:14Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg\" /> </p> <p>While investors in Wo",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b07f180d6fe7cf03",
+    "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T19:00:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-will-the-coinbase-ipo-take-place-and-what-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_4d6f15ee0580fe0a",
+    "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T18:51:02Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-vs-zcash.jpg\" /> </p> <p>ZEC has",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_1fb3605188d74462",
+    "title": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
+    "published_at": "2026-08-27T18:28:53Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4bf6790d23d3d3e6",
+    "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
+    "published_at": "2026-08-27T18:16:03Z",
+    "engagement": 0,
+    "summary": "OneKey demonstrated how an outdated Ethereum app could sign a transaction different from the one shown on a Ledger device, but the wallet maker says the vulnerability had already been fixed.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b586fa59293b0ee2",
+    "title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
+    "published_at": "2026-08-27T17:36:04Z",
+    "engagement": 0,
+    "summary": "BTC is holding above $80,000 into a Fed symposium that, for the first time in 40 years, is built around crypto's own turf—payments and financial infrastructure.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_91dc425bddd15350",
+    "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+    "published_at": "2026-08-27T17:32:20Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6c02f90d74578788",
+    "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T17:15:43Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-nvidia-stock-for-broad-market-exposure.jpg\" /> </p",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_9311a636bda86653",
+    "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai",
+    "published_at": "2026-08-27T17:09:32Z",
+    "engagement": 0,
+    "summary": "The chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution — with consequences for builders and users alike.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0b22ca2dbdea04dd",
+    "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
+    "published_at": "2026-08-27T16:32:38Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f403e4be123a2fc3",
+    "title": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz",
+    "published_at": "2026-08-27T16:17:28Z",
+    "engagement": 0,
+    "summary": "Gold is worth around ten times more than BTC, Changpeng Zhao said, noting that countries face a years-long process to \"shift into Bitcoin.\"",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_6015a7ff6b3f7282",
+    "title": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T16:13:10Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bank-bitcoin-charles-schwab-corp.png\" /> </",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_390a958ebac83f71",
+    "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
+    "published_at": "2026-08-27T16:12:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3f95abcb25fcf864",
+    "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-27T16:04:15Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-b-announces-mining-pool-and-chain-white-paper-slammed-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_4cbcbad912519117",
     "title": "UK government reports 240 crypto millionaires in 2025",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-27T15:54:24Z",
+    "published_at": "2026-08-27T15:56:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"UK government reports 240 crypto millionaires in 2025\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto.jpg\" /> </p> <p>About 17,600 people in the UK reported",
     "tags": [
@@ -294,34 +588,6 @@
     ]
   },
   {
-    "id": "news_e873f49784e164ac",
-    "title": "Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-steadies-above-usd79-000-as-etf-inflows-hit-longest-streak-since-april",
-    "published_at": "2026-08-27T10:31:21Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_def72f63ec13054b",
-    "title": "Bitfinex Securities raises $50 million in push to offer tokenized nickel trading",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/08/27/bitfinex-securities-raises-usd50-million-in-push-to-offer-tokenized-nickel-trading",
-    "published_at": "2026-08-27T10:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d273b4da417ea5b9",
     "title": "Bitfinex Securities completes record $50M tokenized capital raise",
     "platform": "news",
@@ -330,34 +596,6 @@
     "published_at": "2026-08-27T10:00:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitfinex Securities completes record $50M tokenized capital raise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-tokenized-commodities.jpg\" /> </p> <p>Bitfinex ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_98895a903f5cced8",
-    "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
-    "published_at": "2026-08-27T09:46:19Z",
-    "engagement": 0,
-    "summary": "Coordinators pressed agents with little budget left into experiments they called \"permadeath,\" METR's investigation found.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-27T09:40:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
       "cointelegraph"
@@ -378,34 +616,6 @@
     ]
   },
   {
-    "id": "news_766ff1306f0dd803",
-    "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
-    "published_at": "2026-08-27T09:19:39Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_7a6ce03361c8e58e",
-    "title": "Nvidia shares surge 8% on earnings beat, lifting technology stocks and bitcoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/08/27/nvidia-shares-surge-8-on-earnings-beat-lifting-technology-stocks-and-bitcoin",
-    "published_at": "2026-08-27T09:19:26Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_ab53994f13ad91c6",
     "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
     "platform": "news",
@@ -414,216 +624,6 @@
     "published_at": "2026-08-27T08:05:44Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Core Lightning confirms multiple vulnerabilities, prepares security update\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoi.png\" /> </p> <p>Core Lightning advised oper",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_9e6a1b3058033012",
-    "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-27T07:01:19Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETF inflows slow to $232M as BTC holds under $80K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-4.jpg\" /> </p> <p>US spot Bitcoin ETF i",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_68e3258d04351a89",
-    "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-27T06:39:02Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tokenized deposits could raise US credit costs: Dallas Fed economists\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tokeniz.png\" /> </p> <p>Dallas Fed economists said fast",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a39553a63ef1131e",
-    "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-27T04:14:48Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"StarkWare tests quantum-resistant Bitcoin transaction on mainnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum-transaction\" /> </p> <p>StarkWare said the experimen",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_68471c817bbbfdce",
-    "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-27T01:26:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-quantum-problem.jpg\" /> </p> <p>A new Bitcoin I",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_4e30e79891b8218a",
-    "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
-    "published_at": "2026-08-26T22:46:03Z",
-    "engagement": 0,
-    "summary": "The operation promoted a purported Israeli think tank that published copied scholarship under academics’ names and circulated pro-Russian analysis across social media.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_189cce580ad92dff",
-    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
-    "published_at": "2026-08-26T22:16:03Z",
-    "engagement": 0,
-    "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b94675f6bce42e62",
-    "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
-    "published_at": "2026-08-26T21:42:42Z",
-    "engagement": 0,
-    "summary": "The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_839af958e8df731d",
-    "title": "What Traders Are Watching for Bitcoin's Next Move",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
-    "published_at": "2026-08-26T20:22:17Z",
-    "engagement": 0,
-    "summary": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bd5c37e18c098720",
-    "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T20:09:23Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Better launches Bitcoin-backed mortgages powered by Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-what-is-a-housing-loan2.jpg\" /> </p> <p>Better and Coin",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_b5b30aacf34b4242",
-    "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-    "published_at": "2026-08-26T19:56:03Z",
-    "engagement": 0,
-    "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_511d8ebc79436f72",
-    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
-    "published_at": "2026-08-26T19:21:25Z",
-    "engagement": 0,
-    "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9c22d8a9f82d8dcc",
-    "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
-    "published_at": "2026-08-26T18:44:17Z",
-    "engagement": 0,
-    "summary": "Six wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3cda4460d02c9db6",
-    "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
-    "published_at": "2026-08-26T17:52:22Z",
-    "engagement": 0,
-    "summary": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ec4c6c6d4d225e96",
-    "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T17:48:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Chainalysis estimates $457B in taxable crypto activity, says CARF misses most\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-taxes-on-restricted-crypto-and-options-can-b",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_5f30f57ea6f9fdc3",
-    "title": "SEC sends crypto custody rule overhaul to White House for review",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-26T16:19:09Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC sends crypto custody rule overhaul to White House for review\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg\" /> </p> <p>",
     "tags": [
       "news",
       "cointelegraph"
