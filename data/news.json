@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_5e2740d69b867fba",
+    "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+    "published_at": "2026-08-30T22:31:04Z",
+    "engagement": 0,
+    "summary": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploited.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a4196db0be341b29",
+    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+    "published_at": "2026-08-30T21:31:04Z",
+    "engagement": 0,
+    "summary": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_e1a50418154b39b5",
     "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
     "platform": "news",
@@ -532,20 +560,6 @@
     ]
   },
   {
-    "id": "news_fd0db6ce3d4dffa6",
-    "title": "Bitcoin Miner IREN Shares Fall as AI Conversion Costs Mount",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376816/bitcoin-miner-iren-shares-drop-ai-costs",
-    "published_at": "2026-08-28T16:04:37Z",
-    "engagement": 0,
-    "summary": "AI cloud revenue topped Bitcoin mining for the first time as IREN accelerated its data center conversion.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_e345ec0a681b8840",
     "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
     "platform": "news",
@@ -557,20 +571,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7f714a8873b40fbc",
-    "title": "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
-    "published_at": "2026-08-28T15:14:11Z",
-    "engagement": 0,
-    "summary": "Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
