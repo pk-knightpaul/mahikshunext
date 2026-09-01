@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_a88ad0b49f6b4036",
+    "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+    "published_at": "2026-09-01T22:16:04Z",
+    "engagement": 0,
+    "summary": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a86236b27c4cfe50",
+    "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
+    "published_at": "2026-09-01T21:31:04Z",
+    "engagement": 0,
+    "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c785c7f8b021b9ae",
+    "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-01T21:25:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto-backed PAC scales back ad spending in Massachusetts primary\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F9CHX26RTFEYCMMVC55WQZ/hi-pacs-in-crypto-and-b",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_c57eb1916f0161dc",
+    "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+    "published_at": "2026-09-01T21:01:04Z",
+    "engagement": 0,
+    "summary": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7a788826dbfa787e",
+    "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-01T20:42:29Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance expands TradFi push with options on 1,000 US stocks, ETFs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1FC2WR1JDBZ2YXX51TY5S5E/man-office-screen-comput",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_eb7b8569bdb78e29",
     "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
     "platform": "news",
@@ -490,34 +560,6 @@
     ]
   },
   {
-    "id": "news_e692ff20f023f1d8",
-    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-01T10:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3FQ7QVW5EGFFBWY7YXEK7/bitfinex-s.png\" /> ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_b164ac982b3cff3c",
-    "title": "Singapore weighs recognizing some foreign-issued stablecoins",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-01T09:55:11Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Singapore weighs recognizing some foreign-issued stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3MSKNNCKBC04B5EH6ZER3/sponsored-marina-bay-sand-sin",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_f372d397c07678d2",
     "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
     "platform": "news",
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_95866597cb97b8da",
-    "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
-    "published_at": "2026-08-31T21:46:04Z",
-    "engagement": 0,
-    "summary": "Gov. Greg Abbott ordered state agencies to stop paying for the AI-powered license-plate readers as privacy concerns and officer-misuse scandals mount across Texas.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_1fe02215e6f5c875",
-    "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
-    "published_at": "2026-08-31T21:01:05Z",
-    "engagement": 0,
-    "summary": "The Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8c31a8f4fce44e2b",
-    "title": "George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
-    "published_at": "2026-08-31T20:16:03Z",
-    "engagement": 0,
-    "summary": "The exchange found the former congressman placed large trades on his own State of the Union attendance, then made false statements to move prices, profiting nearly $18,000.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
