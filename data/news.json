@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_dc814f3f298acd83",
+    "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+    "published_at": "2026-09-02T22:47:06Z",
+    "engagement": 0,
+    "summary": "Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c16def6c78a0a3d9",
+    "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+    "published_at": "2026-09-02T21:31:05Z",
+    "engagement": 0,
+    "summary": "The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9c86511d1e1de22d",
+    "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-02T21:27:15Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US officials work with CrowdStrike to fight malware behind crypto theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HV8E147WPWCMKXKN1K3NV1/pcvirusmalware.jpg",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_11e0f7dc97a01964",
+    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+    "published_at": "2026-09-02T21:24:26Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_32f50662e4076f86",
+    "title": "Coinbase launches regulated crypto derivatives in Canada",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-02T20:55:55Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coinbase launches regulated crypto derivatives in Canada\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HT238M4JD1C8SQAQHTYKWY/people-street-futures.jpg\" /> </p",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_2cc72e754a85ea5c",
+    "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
+    "published_at": "2026-09-02T20:46:04Z",
+    "engagement": 0,
+    "summary": "Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_c301d431df3b2c58",
     "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
     "platform": "news",
@@ -532,20 +616,6 @@
     ]
   },
   {
-    "id": "news_068e42433b457781",
-    "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-02T07:59:43Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GE6N92Z9CKPGGD4FTE0QQP/hi-bitcoin-etf-is-now-sup",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_f7aa01bf2d2e4f19",
     "title": "XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders",
     "platform": "news",
@@ -557,76 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_60eca96c8eec49ec",
-    "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
-    "published_at": "2026-09-02T06:53:22Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_fc8354c0d6dfa1cc",
-    "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-02T05:48:21Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1GAJCXZX0S74T4ZCR5AKST8/hype-treasury.pn",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a88ad0b49f6b4036",
-    "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
-    "published_at": "2026-09-01T22:16:04Z",
-    "engagement": 0,
-    "summary": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_a86236b27c4cfe50",
-    "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
-    "published_at": "2026-09-01T21:31:04Z",
-    "engagement": 0,
-    "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c57eb1916f0161dc",
-    "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
-    "published_at": "2026-09-01T21:01:04Z",
-    "engagement": 0,
-    "summary": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
