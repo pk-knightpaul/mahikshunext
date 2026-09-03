@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_dd1a78fd2610101e",
+    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "published_at": "2026-09-02T23:46:04Z",
+    "engagement": 0,
+    "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_416db91f902a208b",
+    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+    "published_at": "2026-09-02T23:16:04Z",
+    "engagement": 0,
+    "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_dc814f3f298acd83",
     "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
     "platform": "news",
@@ -560,20 +588,6 @@
     ]
   },
   {
-    "id": "news_8708839bb3537fb0",
-    "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
-    "published_at": "2026-09-02T10:25:02Z",
-    "engagement": 0,
-    "summary": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_20db8896b0dff3fd",
     "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
     "platform": "news",
@@ -585,20 +599,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_d00b30771f633df3",
-    "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
-    "published_at": "2026-09-02T09:06:22Z",
-    "engagement": 0,
-    "summary": "The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
