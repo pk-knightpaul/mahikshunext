@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_eaec8585eccb9583",
+    "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
+    "published_at": "2026-09-04T20:31:03Z",
+    "engagement": 0,
+    "summary": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day—though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_43afc23a1fb6f73c",
+    "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-04T20:30:47Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Surprise nonfarm payrolls print sends Bitcoin back below 80K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_8b08ef68d249c437",
+    "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-04T19:31:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Pineapple Financial puts $1B in mortgage records on Injective\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_d167477633be7c45",
+    "title": "FinCEN ties $13B in crypto scams to non-US operations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-04T19:22:26Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FinCEN ties $13B in crypto scams to non-US operations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PW3BH4HC5DKEEBWSEEE29W/regulation-semen-lot-of-papers-fince",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_4e4b1fcbb53681fe",
+    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
+    "published_at": "2026-09-04T19:16:03Z",
+    "engagement": 0,
+    "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_dc1b4f2957ed3988",
+    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
+    "published_at": "2026-09-04T18:36:41Z",
+    "engagement": 0,
+    "summary": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-04T18:31:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_43d5ee47dd6783cf",
     "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
     "platform": "news",
@@ -113,7 +211,7 @@
   },
   {
     "id": "news_a51afc2d70bb0a59",
-    "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+    "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
@@ -176,20 +274,6 @@
     "published_at": "2026-09-04T13:30:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Token buybacks are booming. But are they good for crypto projects?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K8AJR546DD0XM3RM8FJK76/magazine-tokenomics.jpg",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-04T13:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
       "cointelegraph"
@@ -476,20 +560,6 @@
     ]
   },
   {
-    "id": "news_6b68dde80e217f18",
-    "title": "US, UK launch joint alliance targeting crypto scam centers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-04T04:33:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US, UK launch joint alliance targeting crypto scam centers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NB3D2EEQMKVH8E9QFSYFWH/hi-anti-pig-butchering-policy-i",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_e3c08aa29a0286ce",
     "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
     "platform": "news",
@@ -532,20 +602,6 @@
     ]
   },
   {
-    "id": "news_3e3ddb100c807063",
-    "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-03T23:40:09Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MT8AVRA0N4FG4HK9PK2CZ5",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_77eb093ccd5d1aa6",
     "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
     "platform": "news",
@@ -568,62 +624,6 @@
     "published_at": "2026-09-03T21:31:05Z",
     "engagement": 0,
     "summary": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c3350a5443937a3c",
-    "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-03T21:09:13Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CFTC files to dismiss CME lawsuit over crypto perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg\" ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_6f257891dafa4369",
-    "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
-    "published_at": "2026-09-03T20:46:04Z",
-    "engagement": 0,
-    "summary": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_28384c749d5386d4",
-    "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
-    "published_at": "2026-09-03T20:16:04Z",
-    "engagement": 0,
-    "summary": "The forthcoming bill would pause advanced AI development, create a federal regulator, and threaten violators with up to 20 years in prison.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_5efffd0d68cfcc01",
-    "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
-    "published_at": "2026-09-03T19:24:24Z",
-    "engagement": 0,
-    "summary": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
     "tags": [
       "news",
       "decrypt"
