@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_e923d6381c153bc2",
+    "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
+    "published_at": "2026-09-04T21:46:03Z",
+    "engagement": 0,
+    "summary": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_352078d2c7311595",
+    "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
+    "published_at": "2026-09-04T21:16:04Z",
+    "engagement": 0,
+    "summary": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today’s encryption and digital signatures.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_eaec8585eccb9583",
     "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_77eb093ccd5d1aa6",
-    "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-    "published_at": "2026-09-03T22:16:04Z",
-    "engagement": 0,
-    "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_443c0a8b90a7b750",
-    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
-    "published_at": "2026-09-03T21:31:05Z",
-    "engagement": 0,
-    "summary": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
