@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_eaaf1055c609d117",
+    "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+    "published_at": "2026-09-05T15:01:04Z",
+    "engagement": 0,
+    "summary": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d2fc5dfc33eb32ce",
+    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+    "published_at": "2026-09-05T13:01:03Z",
+    "engagement": 0,
+    "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_1b27d6f485631172",
     "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
     "platform": "news",
@@ -504,20 +532,6 @@
     ]
   },
   {
-    "id": "news_5ac22b864adb6344",
-    "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
-    "published_at": "2026-09-04T10:22:57Z",
-    "engagement": 0,
-    "summary": "Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_ce5ab9f92f7b07f4",
     "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
     "platform": "news",
@@ -571,20 +585,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_b5d9156bf7cb23bb",
-    "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
-    "published_at": "2026-09-04T09:24:56Z",
-    "engagement": 0,
-    "summary": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
