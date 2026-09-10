@@ -1,5 +1,131 @@
 [
   {
+    "id": "news_68ecc95c7c84385f",
+    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+    "published_at": "2026-09-10T21:18:48Z",
+    "engagement": 0,
+    "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_e2e563ca54cd24da",
+    "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+    "published_at": "2026-09-10T21:16:03Z",
+    "engagement": 0,
+    "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3dc108b8ef4d5c24",
+    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+    "published_at": "2026-09-10T20:34:50Z",
+    "engagement": 0,
+    "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3dde745816fe811f",
+    "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+    "published_at": "2026-09-10T20:21:57Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_54e0d5673185ef9a",
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-10T20:10:29Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_ba64f4cf46c5dc82",
+    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+    "published_at": "2026-09-10T19:01:30Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_396f79d7decbfdd8",
+    "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+    "published_at": "2026-09-10T18:51:04Z",
+    "engagement": 0,
+    "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_40d1704a323d720b",
+    "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+    "published_at": "2026-09-10T18:46:04Z",
+    "engagement": 0,
+    "summary": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_64eaefa51c53ced6",
+    "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+    "published_at": "2026-09-10T18:13:13Z",
+    "engagement": 0,
+    "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_9912b070acba1536",
     "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
     "platform": "news",
@@ -392,34 +518,6 @@
     ]
   },
   {
-    "id": "news_9f701a9df84f4095",
-    "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
-    "published_at": "2026-09-10T11:21:21Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_bba60468c6fe45c9",
-    "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
-    "published_at": "2026-09-10T11:15:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_11c8b02de62be4a6",
     "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
     "platform": "news",
@@ -490,20 +588,6 @@
     ]
   },
   {
-    "id": "news_35ca6b6d54c992c3",
-    "title": "India’s Arya.ag to put grain ownership records on Avalanche",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-10T09:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"India’s Arya.ag to put grain ownership records on Avalanche\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M255E52AW9256839B574KAMH/india-tokenization-grain.png\" ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_4e9c9d5571e82b00",
     "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
     "platform": "news",
@@ -540,90 +624,6 @@
     "published_at": "2026-09-09T18:56:58Z",
     "engagement": 0,
     "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7778daaf89249252",
-    "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-    "published_at": "2026-09-09T17:50:14Z",
-    "engagement": 0,
-    "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2d5869d53636e76d",
-    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-    "published_at": "2026-09-09T17:16:08Z",
-    "engagement": 0,
-    "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_132d2eded1fd0163",
-    "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-    "published_at": "2026-09-09T16:46:05Z",
-    "engagement": 0,
-    "summary": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8addd1dd61a5b2f9",
-    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "published_at": "2026-09-09T16:40:50Z",
-    "engagement": 0,
-    "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c2ceec2ef96f600d",
-    "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-    "published_at": "2026-09-09T16:16:04Z",
-    "engagement": 0,
-    "summary": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2c8e243acd2b2ae4",
-    "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-    "published_at": "2026-09-09T15:47:09Z",
-    "engagement": 0,
-    "summary": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
     "tags": [
       "news",
       "decrypt"
