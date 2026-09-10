@@ -1,5 +1,19 @@
 [
   {
+    "id": "news_4e9c9d5571e82b00",
+    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "published_at": "2026-09-09T23:02:23Z",
+    "engagement": 0,
+    "summary": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-09-09T09:28:29Z",
     "engagement": 0,
     "summary": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c0d88158685fe479",
-    "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
-    "published_at": "2026-09-09T08:26:08Z",
-    "engagement": 0,
-    "summary": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
     "tags": [
       "news",
       "decrypt"
