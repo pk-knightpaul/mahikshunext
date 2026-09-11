@@ -1,5 +1,187 @@
 [
   {
+    "id": "news_6be4892b2108a34c",
+    "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+    "published_at": "2026-09-11T17:22:39Z",
+    "engagement": 0,
+    "summary": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a80ecc742c04f429",
+    "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+    "published_at": "2026-09-11T17:12:45Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b5fe2932e8d79103",
+    "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
+    "published_at": "2026-09-11T16:16:05Z",
+    "engagement": 0,
+    "summary": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b7aac9e04cbdb9d4",
+    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-11T16:05:15Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K89BM1GEXJ22T4BRVJH1V/hi-evergreen-guide",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_902289b4dffcda3d",
+    "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-11T16:03:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitc",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_439e0e69e6bb2ed1",
+    "title": "With Fed rate hike all but assured, here's how markets might react",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+    "published_at": "2026-09-11T15:45:56Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b596ec00c111903d",
+    "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
+    "published_at": "2026-09-11T15:32:08Z",
+    "engagement": 0,
+    "summary": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_5f8d8c6114edec2b",
+    "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
+    "published_at": "2026-09-11T15:17:08Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_5592fe85f9cbe3fd",
+    "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+    "published_at": "2026-09-11T14:17:38Z",
+    "engagement": 0,
+    "summary": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1b4047dbf7c397e1",
+    "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
+    "published_at": "2026-09-11T13:46:51Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f66e110eb8d560c0",
+    "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-11T13:44:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycry",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_45b9d2ce903a8b74",
+    "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
+    "published_at": "2026-09-11T13:32:52Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a817dcadca8a29e3",
+    "title": "Trading stocks against BONER is the latest trend for DeFi degens",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-11T13:30:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trading stocks against BONER is the latest trend for DeFi degens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2336QVGKKJ171MCKQFKPC2W/magazine-vlad-robinhood.j",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -113,7 +295,7 @@
   },
   {
     "id": "news_1dafa5d899c10408",
-    "title": "Live updates: Bitcoin volatile as U.S. inflation data could point to rate hike next week.",
+    "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
@@ -294,20 +476,6 @@
     ]
   },
   {
-    "id": "news_e9f71ef22622e699",
-    "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-11T06:08:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Revised CLARITY Act targets ‘non-decentralized’ DeFi operators\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png\" /> </p",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_a821f632779c4e4d",
     "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
     "platform": "news",
@@ -347,34 +515,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_9355f3653f7763b7",
-    "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-11T04:21:14Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Brevo login flaw enabled phishing email targeting 347K Trezor subscribers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27B48EZAFAJ0FBBJM75HJAW/brevo-phishing.p",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_3df548f99f219755",
-    "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-10T23:21:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expr",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -434,34 +574,6 @@
     ]
   },
   {
-    "id": "news_54e0d5673185ef9a",
-    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-10T20:10:29Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_ba64f4cf46c5dc82",
-    "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-    "published_at": "2026-09-10T19:01:30Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_396f79d7decbfdd8",
     "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
     "platform": "news",
@@ -504,20 +616,6 @@
     ]
   },
   {
-    "id": "news_3697a56dd9f98657",
-    "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
-    "published_at": "2026-09-10T17:07:59Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_0f6ba676fd3d5f8b",
     "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
     "platform": "news",
@@ -526,104 +624,6 @@
     "published_at": "2026-09-10T17:07:50Z",
     "engagement": 0,
     "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_726ec54c834d1a37",
-    "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-    "published_at": "2026-09-10T17:03:34Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_7fcd23649f899992",
-    "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
-    "published_at": "2026-09-10T16:10:03Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_f625c4d2f900e9db",
-    "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
-    "published_at": "2026-09-10T15:53:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e34acdca757c98b1",
-    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-    "published_at": "2026-09-10T15:33:11Z",
-    "engagement": 0,
-    "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_818a8a8ad61a3baf",
-    "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-    "published_at": "2026-09-10T13:04:27Z",
-    "engagement": 0,
-    "summary": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_34f50c4908c59ac9",
-    "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
-    "published_at": "2026-09-10T12:10:48Z",
-    "engagement": 0,
-    "summary": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f6ff21be275858e3",
-    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
-    "published_at": "2026-09-10T11:28:55Z",
-    "engagement": 0,
-    "summary": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
     "tags": [
       "news",
       "decrypt"
