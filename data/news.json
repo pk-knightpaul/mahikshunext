@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_a3ef19a7559e67ff",
+    "title": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377997/gta-mod-flock-cameras-players-destroy",
+    "published_at": "2026-09-12T15:01:03Z",
+    "engagement": 0,
+    "summary": "The surveillance mod on GTA V brings the privacy fight to Los Santos, where players can demolish the cameras tracking them.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_265d919fe4c87e7b",
+    "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+    "published_at": "2026-09-12T14:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_afb188727950b0c2",
+    "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+    "published_at": "2026-09-12T13:01:03Z",
+    "engagement": 0,
+    "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_2968cf4da149c761",
     "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
     "platform": "news",
@@ -560,20 +602,6 @@
     ]
   },
   {
-    "id": "news_a4f8cadb6a031e95",
-    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
-    "published_at": "2026-09-11T04:46:15Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_68ecc95c7c84385f",
     "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-09-10T21:16:03Z",
     "engagement": 0,
     "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3dc108b8ef4d5c24",
-    "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
-    "published_at": "2026-09-10T20:34:50Z",
-    "engagement": 0,
-    "summary": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_396f79d7decbfdd8",
-    "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-    "published_at": "2026-09-10T18:51:04Z",
-    "engagement": 0,
-    "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
     "tags": [
       "news",
       "decrypt"
