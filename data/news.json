@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_6556573d43b0770a",
+    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+    "published_at": "2026-09-14T23:43:28Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e973968cca7ad2e3",
+    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "published_at": "2026-09-14T23:30:40Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3bdac01f508657d7",
+    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+    "published_at": "2026-09-14T22:34:18Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9cebf0933d26e47d",
+    "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
+    "published_at": "2026-09-14T21:46:04Z",
+    "engagement": 0,
+    "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_9f1ca2cfc4bab20e",
     "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
     "platform": "news",
@@ -462,48 +518,6 @@
     ]
   },
   {
-    "id": "news_1047b672bbf3b7a0",
-    "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
-    "published_at": "2026-09-14T12:07:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_ac2d0d6191114ad4",
-    "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
-    "published_at": "2026-09-14T11:58:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_ac4e8f023c7fdc1f",
-    "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
-    "published_at": "2026-09-14T11:44:21Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_f9ba9329213ef6b0",
     "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-09-13T13:01:03Z",
     "engagement": 0,
     "summary": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bb0e10533837d489",
-    "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
-    "published_at": "2026-09-12T17:01:04Z",
-    "engagement": 0,
-    "summary": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
     "tags": [
       "news",
       "decrypt"
