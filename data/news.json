@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_e546704ba9c47da6",
+    "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+    "published_at": "2026-09-15T21:58:48Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4eacedbc275eb0c7",
+    "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
+    "published_at": "2026-09-15T21:46:03Z",
+    "engagement": 0,
+    "summary": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7cc0e4c05784763c",
+    "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-15T21:23:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BIS paper finds major gap in Bitcoin onchain transfer estimates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_5a467dcb8cf83dc0",
+    "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
+    "published_at": "2026-09-15T21:10:06Z",
+    "engagement": 0,
+    "summary": "The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_204a3119e115509e",
+    "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-15T20:37:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png\" />",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_4e85edf0ecae512d",
+    "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+    "published_at": "2026-09-15T20:09:19Z",
+    "engagement": 0,
+    "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4809eb798ab6e267",
+    "title": "Crypto stocks sink after Senate rejects Clarity Act",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+    "published_at": "2026-09-15T20:03:17Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-15T19:53:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_3691428145f3b7b9",
     "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
     "platform": "news",
@@ -434,34 +546,6 @@
     ]
   },
   {
-    "id": "news_cdd1190958551676",
-    "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-    "published_at": "2026-09-15T10:27:55Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e476419506dd86c3",
-    "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-    "published_at": "2026-09-15T10:06:40Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d25eaa2821e51495",
     "title": "US House crypto tax package omits mining, staking reward deferral",
     "platform": "news",
@@ -543,90 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-15T05:50:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_ee660a5ffab94fbe",
-    "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-15T05:32:12Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png\" /> <",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_45a23c1cbc7893d7",
-    "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-15T04:19:16Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HV2WP39A13M6VPCXQJBABW/single-le",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_9cebf0933d26e47d",
-    "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
-    "published_at": "2026-09-14T21:46:04Z",
-    "engagement": 0,
-    "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9f1ca2cfc4bab20e",
-    "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-    "published_at": "2026-09-14T21:16:04Z",
-    "engagement": 0,
-    "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_76857fccccf0f583",
-    "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
-    "published_at": "2026-09-14T20:07:41Z",
-    "engagement": 0,
-    "summary": "Aboard Air Force One, the president threw his support behind the AI-powered license plate readers that have drawn a Senate investigation and a pledged bill from Bernie Sanders.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
