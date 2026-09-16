@@ -1,5 +1,131 @@
 [
   {
+    "id": "news_dcd357d6308a0303",
+    "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+    "published_at": "2026-09-16T21:46:03Z",
+    "engagement": 0,
+    "summary": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_adef4286de552511",
+    "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+    "published_at": "2026-09-16T21:16:03Z",
+    "engagement": 0,
+    "summary": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a812dc438bdc8f27",
+    "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-16T20:51:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CLARITY Act could get another shot during lame-duck session, policy advocate says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NY2SA6460QWXX3EP9NYFFC/hi-us-se",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_23f0f4c3257a02d1",
+    "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+    "published_at": "2026-09-16T20:31:03Z",
+    "engagement": 0,
+    "summary": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own incident report never fully described.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d6a635f5225ab4f1",
+    "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+    "published_at": "2026-09-16T19:43:24Z",
+    "engagement": 0,
+    "summary": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-16T19:25:46Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_5e2b0a51275563d8",
+    "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-16T19:19:23Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"UK FCA sets crypto authorization guidance ahead of September application window\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_65a4f9ccc51ec27c",
+    "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+    "published_at": "2026-09-16T19:07:34Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_886e7524b383724e",
+    "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+    "published_at": "2026-09-16T18:53:48Z",
+    "engagement": 0,
+    "summary": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_0adeb5ead6965053",
     "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
     "platform": "news",
@@ -169,7 +295,7 @@
   },
   {
     "id": "news_be28a93c265fafda",
-    "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+    "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
@@ -448,20 +574,6 @@
     ]
   },
   {
-    "id": "news_d522ced4f1d93f3e",
-    "title": "Deutsche Bank close to debuting crypto custody for institutions",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-    "published_at": "2026-09-16T10:46:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_93580fd541bba5af",
     "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
     "platform": "news",
@@ -515,118 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_4d4dd3f94b969b92",
-    "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
-    "published_at": "2026-09-16T09:41:53Z",
-    "engagement": 0,
-    "summary": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at £100 billion a year in the UK.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2ca208ec61ee2ece",
-    "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-    "published_at": "2026-09-16T09:01:03Z",
-    "engagement": 0,
-    "summary": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_4c19bf682ad9131e",
-    "title": "ECB seeks online merchants for 2027 digital euro pilot",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-16T08:36:44Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"ECB seeks online merchants for 2027 digital euro pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MM52JKJD0W2B0RMKWYF0RK/euro-pilot.png\" /> </p> <p>Euro-are",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_2a6a3c3b02149d85",
-    "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378324/coinex-shutting-down",
-    "published_at": "2026-09-16T08:01:03Z",
-    "engagement": 0,
-    "summary": "The Hong Kong-founded exchange blamed a prolonged crypto winter and rising compliance costs, closing the books on a run that began in December 2017.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_93604b1393169f89",
-    "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-16T06:38:48Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"AI has been a ‘net negative’ for crypto: Phemex CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MEY4H050WZYJEZA2JY1JK2/ai-1.jpg\" /> </p> <p>Federico Variola ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-16T06:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_4eacedbc275eb0c7",
-    "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
-    "published_at": "2026-09-15T21:46:03Z",
-    "engagement": 0,
-    "summary": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_5a467dcb8cf83dc0",
-    "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-    "published_at": "2026-09-15T21:10:06Z",
-    "engagement": 0,
-    "summary": "The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
