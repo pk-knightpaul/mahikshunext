@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_7a5501bfd310427e",
+    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+    "published_at": "2026-09-17T22:31:03Z",
+    "engagement": 0,
+    "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_16d99401e2ab2982",
+    "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+    "published_at": "2026-09-17T21:47:22Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_d3fab68a5aac8d59",
+    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
+    "published_at": "2026-09-17T21:46:03Z",
+    "engagement": 0,
+    "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_cc748a1d4683b09c",
+    "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+    "published_at": "2026-09-17T21:28:35Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f9979354a5e783c6",
+    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
+    "published_at": "2026-09-17T21:16:03Z",
+    "engagement": 0,
+    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3dbe10817b580ba9",
+    "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
+    "published_at": "2026-09-17T20:46:03Z",
+    "engagement": 0,
+    "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-17T20:44:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_23e74f855dce5e96",
+    "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
+    "published_at": "2026-09-17T20:16:04Z",
+    "engagement": 0,
+    "summary": "In a no-action letter, the CFTC said certain software providers can connect users to regulated derivatives markets without registering as brokers.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_1efc3ab1f3658785",
     "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
     "platform": "news",
@@ -280,20 +392,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T13:53:14Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_7e075420d337655d",
     "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
     "platform": "news",
@@ -420,34 +518,6 @@
     ]
   },
   {
-    "id": "news_1dcea88d2227ccbc",
-    "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
-    "published_at": "2026-09-17T12:13:20Z",
-    "engagement": 0,
-    "summary": "The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_721a65597ebb9559",
-    "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
-    "published_at": "2026-09-17T12:05:13Z",
-    "engagement": 0,
-    "summary": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_d804ce82ccc3ca4e",
     "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
     "platform": "news",
@@ -505,25 +575,11 @@
   },
   {
     "id": "news_45d4905ff28517a1",
-    "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
+    "title": "Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
     "published_at": "2026-09-17T10:41:15Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_17dd96c1d87ad7c7",
-    "title": "Crypto rallies through the Fed's first rate increase since 2023",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-    "published_at": "2026-09-17T10:40:01Z",
     "engagement": 0,
     "summary": "",
     "tags": [
@@ -543,20 +599,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_e1d23156316ffea6",
-    "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
-    "published_at": "2026-09-17T10:24:21Z",
-    "engagement": 0,
-    "summary": "A substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_6736b6175b7e54dc",
-    "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
-    "published_at": "2026-09-17T08:41:48Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_dcd357d6308a0303",
-    "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
-    "published_at": "2026-09-16T21:46:03Z",
-    "engagement": 0,
-    "summary": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_adef4286de552511",
-    "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
-    "published_at": "2026-09-16T21:16:03Z",
-    "engagement": 0,
-    "summary": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
