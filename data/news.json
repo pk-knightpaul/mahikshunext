@@ -1,5 +1,257 @@
 [
   {
+    "id": "news_c66b22568d81d4bb",
+    "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+    "published_at": "2026-09-18T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_cb8dfd678a7e4d4f",
+    "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+    "published_at": "2026-09-18T12:57:06Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_407787e824e3ca5d",
+    "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+    "published_at": "2026-09-18T12:52:03Z",
+    "engagement": 0,
+    "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c48e89adbac8f81e",
+    "title": "Zcash targets November upgrade to make private payments up to three times faster",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+    "published_at": "2026-09-18T12:50:01Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9fa371aa4701ac56",
+    "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T12:40:04Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T7NKWN03KJ6ZDTP8T7YWSJ/",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_0903256bd700d385",
+    "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+    "published_at": "2026-09-18T12:34:50Z",
+    "engagement": 0,
+    "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_ac5d0e887f2323f9",
+    "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T11:54:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"HYPE hits record above $90 as Hyperliquid launches manual borrowing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png\" /> </p> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b1e8e905325bc639",
+    "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T11:22:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T25M0MFG1XWDPQYKESEV30/hi-why-zec-fell-40-even-aft",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_06d9d86ae18528b5",
+    "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+    "published_at": "2026-09-18T11:15:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_2d45cb42918381d4",
+    "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T10:46:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_276832c79f0aab4a",
+    "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+    "published_at": "2026-09-18T10:33:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9f66073c413dbc27",
+    "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+    "published_at": "2026-09-18T10:07:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_674c63bdf246029e",
+    "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+    "published_at": "2026-09-18T09:57:33Z",
+    "engagement": 0,
+    "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_dd65ab383031f302",
+    "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+    "published_at": "2026-09-18T09:49:51Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b4bf46bf93436e3b",
+    "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T09:14:03Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Stablecoin payments firm dtcpay closes $25M round with SBI backing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b9a3629d836a05f7",
+    "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+    "published_at": "2026-09-18T09:01:55Z",
+    "engagement": 0,
+    "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c368a7c3880af3f0",
+    "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T08:50:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_6c99911bc9b59be5",
+    "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T08:47:20Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin cycle bottom may already be in at $58K, says analyst James Check\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-dominatio",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_fb8de3574a88e2e9",
     "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
     "platform": "news",
@@ -224,20 +476,6 @@
     ]
   },
   {
-    "id": "news_cc748a1d4683b09c",
-    "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-    "published_at": "2026-09-17T21:28:35Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_f9979354a5e783c6",
     "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
     "platform": "news",
@@ -322,34 +560,6 @@
     ]
   },
   {
-    "id": "news_2d0f679f5d1cbe51",
-    "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-    "published_at": "2026-09-17T18:40:38Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_45816af8716f7fc4",
-    "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-    "published_at": "2026-09-17T18:38:10Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_b54a59ef1646f720",
     "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
     "platform": "news",
@@ -406,20 +616,6 @@
     ]
   },
   {
-    "id": "news_e6cf642931e8d1aa",
-    "title": "Is there any chance left to save the CLARITY Act?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T17:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Is there any chance left to save the CLARITY Act?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR00172VH/hi-in-a-labyrinth-clarity-act-us.jpg\" />",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_69faff1aa099eea9",
     "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
     "platform": "news",
@@ -428,202 +624,6 @@
     "published_at": "2026-09-17T16:33:12Z",
     "engagement": 0,
     "summary": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_166635399045f763",
-    "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T16:22:23Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wage",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_86dcd5d9b89d2c24",
-    "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T15:58:33Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-bigge",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_6672b6da5f3120f4",
-    "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
-    "published_at": "2026-09-17T15:21:19Z",
-    "engagement": 0,
-    "summary": "\"Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,\" the FCA's enforcement chief said.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_2c40a7244c82e01f",
-    "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-    "published_at": "2026-09-17T15:08:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_cd41c7560b8715c5",
-    "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-    "published_at": "2026-09-17T15:03:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_66de265a54b23e42",
-    "title": "Crypto for Advisors: Beyond bitcoin and ether",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-    "published_at": "2026-09-17T14:57:11Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_a1e535b2b288b48d",
-    "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-    "published_at": "2026-09-17T14:52:03Z",
-    "engagement": 0,
-    "summary": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_a3f5a452066cf57b",
-    "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-    "published_at": "2026-09-17T14:50:58Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_c73c3ca3d622b1be",
-    "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-    "published_at": "2026-09-17T14:40:07Z",
-    "engagement": 0,
-    "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_7e075420d337655d",
-    "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T13:35:57Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQC5X3Z7N19JN9MSH4SD45/hi-cryptocom-is-g",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_24901b9acf514fce",
-    "title": "SEC grants temporary exemption for tokenized US stock trading",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T13:34:17Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC grants temporary exemption for tokenized US stock trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH74529R6BGMH1T9/hi-who-is-mark-uyeda-trumps-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_850dc1c235e83227",
-    "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T13:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin treasury firms can outperform BTC... but is the risk worth taking?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MQKH8M6FB9RA6PJPEFV90G/magazine-young-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_fa169b9991d5b4ea",
-    "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T12:56:23Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"S&amp;P Global to acquire blockchain security platform OpenZeppelin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QNBNVRQ7TMRW88EK0EQ7P2/world-sp-global-rating",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_385c85a7e2c8aa52",
-    "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
-    "published_at": "2026-09-17T12:53:01Z",
-    "engagement": 0,
-    "summary": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
     "tags": [
       "news",
       "decrypt"
