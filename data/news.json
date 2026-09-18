@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_167e72d712326b25",
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "published_at": "2026-09-18T03:03:38Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_09900d4676f17d97",
+    "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-18T01:33:54Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S256YQ45ANHSRCNHS5BZ56/bitbank.jp",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_6a3cb8ba76181306",
+    "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-17T23:49:23Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"North Korea drives onchain malware surge, CoinEx shuts: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressr",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_7a5501bfd310427e",
     "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
     "platform": "news",
@@ -574,20 +616,6 @@
     ]
   },
   {
-    "id": "news_45d4905ff28517a1",
-    "title": "Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-    "published_at": "2026-09-17T10:41:15Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d830678ea44b9431",
     "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-09-17T10:35:29Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Zcash gains 20% as Paradigm founder reveals firm made ZEC investment \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QD479E84FW5KWH0FVCRS42/hi-how-zcash-went-fr",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_5f9f9b7df845a43a",
-    "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T09:57:51Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Revolut says no direct contact from hackers after $3M public ransom demand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q83QQQWRKSXT4SW5VX5T0H/man-hacker-brea",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_f3fe56da695ec2e2",
-    "title": "Polymarket users referred to prosecutors in South Korea: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-17T09:37:32Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Polymarket users referred to prosecutors in South Korea: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q8HM2XMP2QNNDJSY3Y2316/hi-polymarket-ban-sk.png\" ",
     "tags": [
       "news",
       "cointelegraph"
