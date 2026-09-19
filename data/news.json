@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_91215d53403df706",
+    "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
+    "published_at": "2026-09-19T16:01:03Z",
+    "engagement": 0,
+    "summary": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c471cf6154baf796",
+    "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+    "published_at": "2026-09-19T16:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_ce8d07970358b9ae",
+    "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+    "published_at": "2026-09-19T15:01:03Z",
+    "engagement": 0,
+    "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_19a04774f44b7e51",
+    "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+    "published_at": "2026-09-19T14:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_68d77a01ce29ad9a",
+    "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+    "published_at": "2026-09-19T13:39:15Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_eb6c18eab27db37d",
+    "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+    "published_at": "2026-09-19T13:01:04Z",
+    "engagement": 0,
+    "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_e072e06bed69141c",
     "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
     "platform": "news",
@@ -518,48 +602,6 @@
     ]
   },
   {
-    "id": "news_fb8de3574a88e2e9",
-    "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-    "published_at": "2026-09-18T07:37:32Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_fc8180a60dd3a425",
-    "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-    "published_at": "2026-09-18T06:52:23Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_927315dcdde2c916",
-    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-    "published_at": "2026-09-18T06:16:57Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_7a5501bfd310427e",
     "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
     "platform": "news",
@@ -582,48 +624,6 @@
     "published_at": "2026-09-17T21:46:03Z",
     "engagement": 0,
     "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f9979354a5e783c6",
-    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-    "published_at": "2026-09-17T21:16:03Z",
-    "engagement": 0,
-    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3dbe10817b580ba9",
-    "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-    "published_at": "2026-09-17T20:46:03Z",
-    "engagement": 0,
-    "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_23e74f855dce5e96",
-    "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
-    "published_at": "2026-09-17T20:16:04Z",
-    "engagement": 0,
-    "summary": "In a no-action letter, the CFTC said certain software providers can connect users to regulated derivatives markets without registering as brokers.",
     "tags": [
       "news",
       "decrypt"
