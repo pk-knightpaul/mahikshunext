@@ -1,11 +1,291 @@
 [
   {
+    "id": "dexscreener_arc_0xa8532F9325045D3CF63221449a909199c95466dA",
+    "title": "Boosted token on ARC: 0xa8532F...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/arc/0xa8532f9325045d3cf63221449a909199c95466da",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 30,
+    "summary": "Three eyes, nine lives. Exploring Arc with Argus by my side.",
+    "tags": [
+      "dex",
+      "arc"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_G4DoJdYxNrsiAyaW61SjJ6KsNy6SLjJc657q4eCpump",
+    "title": "Boosted token on SOLANA: G4DoJdYx...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/g4dojdyxnrsiayaw61sjj6ksny6sljjc657q4ecpump",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "Trending/boosted token pair on DexScreener.",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0x25fc5d4618078455a292690b4Ad06e227453cb06",
+    "title": "Boosted token on ROBINHOOD: 0x25fc5d...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0x25fc5d4618078455a292690b4ad06e227453cb06",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 50,
+    "summary": "Historically the first $Vlad to send a transaction to Vlad on @XMoney.\nVerified on-chain. History forever. Running on original Vlad domain.",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0x986cE833210Fcd46DFf1dAcD50d65dAb075D81f5",
+    "title": "Boosted token on ROBINHOOD: 0x986cE8...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0x986ce833210fcd46dff1dacd50d65dab075d81f5",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "vibe is the first AI V4 hook tokenized collection engine on Robinhood Chain. Every $VIBE swap pays for renders: the token trades in a Uniswap V4 pool with the vibe hook attached, a buy credits the buyer with renders in the studio, and one percent of every swap, buy or sell, goes ",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0x95B551C94A2457B597e4838457eFFB4731880411",
+    "title": "Boosted token on ROBINHOOD: 0x95B551...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0x95b551c94a2457b597e4838457effb4731880411",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 30,
+    "summary": "Tesoro is powered by $TORO. \n\nWe’re building a launchpad on Robinhood Chain where creators can pair their tokens with tokenized gold, stocks and other real-world assets. Every crew needs a treasure chest.\n\nPirates of Robin Hood ready to take over Wall Street1",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0x4280c844BA6686DEE94A3Dd0485D567d5Bd7C3F9",
+    "title": "Boosted token on ROBINHOOD: 0x4280c8...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0x4280c844ba6686dee94a3dd0485d567d5bd7c3f9",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "A tokenized index of asset-backed digital assets on Robinhood Chain. Three per cent of every trade is taken in ETH: half capitalises a redeemable reserve of four constituent tokens, half is paid to holders in the assets themselves. Fixed supply, no mint.",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_CdAjXmV2E4PRtwKaV8aCMmDdJVeY3iGARWvG6Zc8pump",
+    "title": "Boosted token on SOLANA: CdAjXmV2...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/cdajxmv2e4prtwkav8acmmddjvey3igarwvg6zc8pump",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 100,
+    "summary": "CASH OUT is the obvious next step. X is bringing money closer to the people who create, post, and build on the internet.",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_628Vj7gQ55yDMUCpWihL5EyAXP2Mdhyj8JuFkz4gpump",
+    "title": "Boosted token on SOLANA: 628Vj7gQ...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/628vj7gq55ydmucpwihl5eyaxp2mdhyj8jufkz4gpump",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 30,
+    "summary": "The next @boringcompany merch will put Uranium in Uranus",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0xD17C81cB01d44cC6e822936e8F098960001b47D2",
+    "title": "Boosted token on ROBINHOOD: 0xD17C81...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0xd17c81cb01d44cc6e822936e8f098960001b47d2",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 100,
+    "summary": "Three cats in hoodies. \n\nSomebody dragged an old leather sofa out onto the corner, and by morning three cats had it. Red sits on the left, Socks takes the middle, Smoke takes the right, and nobody has ever seen them swap. The rats moved off the block that same week. Ask what they",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0x5Ec27C931Fb49911128dddf7d914C1754dA9f49F",
+    "title": "Boosted token on ROBINHOOD: 0x5Ec27C...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0x5ec27c931fb49911128dddf7d914c1754da9f49f",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 100,
+    "summary": "SproutFi is building family-owned portfolios for tokenized stocks on Robinhood Chain.\n\nA parent creates a dedicated on-chain vault for a child, selects from the supported asset mix, and funds it directly. Family members can contribute through gift links, while parents can create ",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_CJmk2CGKuzT2sJtnkhs7BVYwTb6dDXveFPSfYriVpump",
+    "title": "Boosted token on SOLANA: CJmk2CGK...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/cjmk2cgkuzt2sjtnkhs7bvywtb6ddxvefpsfyrivpump",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 110,
+    "summary": "Trending/boosted token pair on DexScreener.",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_27MR5EYbig1ihc4BoYURSRqEbWdfP9oyA3V7F5LmdUwu",
+    "title": "Boosted token on SOLANA: 27MR5EYb...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/27mr5eybig1ihc4boyursrqebwdfp9oya3v7f5lmduwu",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 500,
+    "summary": "The Official Wynn Meme token.\n \nWYNN WYNN WYNN\n \n$WYNN",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_arc_0xc61BCdf9e655cb1656924BD2A4979257FEa514a2",
+    "title": "Boosted token on ARC: 0xc61BCd...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/arc/0xc61bcdf9e655cb1656924bd2a4979257fea514a2",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 30,
+    "summary": "Longest cat on long. Longcat.",
+    "tags": [
+      "dex",
+      "arc"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_EWgq2xUb6eVCApeQombkPxd6uFjM8j9zRUXFS9MjKTiv",
+    "title": "Boosted token on SOLANA: EWgq2xUb...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/ewgq2xub6evcapeqombkpxd6ufjm8j9zruxfs9mjktiv",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "$CTO - Community Take Over\n\nThe golden $CTO desk pays holders $OTC dividends  🔑\n\nStonk has  $KNOTS - OTC has $CTO  \n\nCompound the winning  \n\nOwn the casino",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0xCc50404bd4219245eaE40415D6BAb679180f7F7E",
+    "title": "Boosted token on ROBINHOOD: 0xCc5040...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0xcc50404bd4219245eae40415d6bab679180f7f7e",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 30,
+    "summary": "The launchpad to launch your launchpads launch. Choose from 40 chains, we host, design, and write the contracts. Just bring your URL, and pay the gas.",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_bsc_0xB077ADa375B5e416F15E8B8f6827DadFa53a7777",
+    "title": "Boosted token on BSC: 0xB077AD...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/bsc/0xb077ada375b5e416f15e8b8f6827dadfa53a7777",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 100,
+    "summary": "买牛马，不再熬夜加班。这一次，让自己的梦想成真。超越 BABA。",
+    "tags": [
+      "dex",
+      "bsc"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_9R8rrjXxcfQPmLTCLhmVpjr2uesjjkcgkinE6Lwdpump",
+    "title": "Boosted token on SOLANA: 9R8rrjXx...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/9r8rrjxxcfqpmltclhmvpjr2uesjjkcgkine6lwdpump",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "Dulus wins on all benchmarks! \n\nThere's no other AI Harness better than Dulus, we are competing with Claude, Cursor, GPT\n\nopenai endpoint \n\nGet the Dulus installer for free in our website!\n\nAdd the apikey to Github Copilot and you will see if we are playing games.",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_robinhood_0xC322305e79337300b59fF48389f8C9A1D9E0de76",
+    "title": "Boosted token on ROBINHOOD: 0xC32230...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/robinhood/0xc322305e79337300b59ff48389f8c9a1d9e0de76",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "RATTERY is a digital experiment: a living 3D colony whose environment responds to purchases and sales of its token on Robinhood Chain. \nRats explore, form bonds, reproduce, and compete for space. The population grows and resources come under pressure. Coexistence can give way to ",
+    "tags": [
+      "dex",
+      "robinhood"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_3oAPDbGyLytmBaEfH9ouw3wXcHeSgDuYJgv9AQtQpump",
+    "title": "Boosted token on SOLANA: 3oAPDbGy...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/3oapdbgylytmbaefh9ouw3wxchesgduyjgv9aqtqpump",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 30,
+    "summary": "GOOD HAIR. BUGGY BEHAVIOR. No bark. All business. The meme coin with a mullet\nand a seat at the head of the table.",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
+    "id": "dexscreener_solana_TVvnJTedD3WgAPede2xUmRjweJqNdhCEgyjtKv3rCq4",
+    "title": "Boosted token on SOLANA: TVvnJTed...",
+    "platform": "dexscreener",
+    "content_type": "trending",
+    "url": "https://dexscreener.com/solana/tvvnjtedd3wgapede2xumrjwejqndhcegyjtkv3rcq4",
+    "published_at": "2026-09-19T08:32:44Z",
+    "engagement": 10,
+    "summary": "We Flock'n",
+    "tags": [
+      "dex",
+      "solana"
+    ]
+  },
+  {
     "id": "dexscreener_solana_98c5HDGwrfFjWxNf1Nz8XfgWoDHAyUWJeG1YKwh2pump",
     "title": "Boosted token on SOLANA: 98c5HDGw...",
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/98c5hdgwrffjwxnf1nz8xfgwodhayuwjeg1ykwh2pump",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 50,
     "summary": "Trending/boosted token pair on DexScreener.",
     "tags": [
@@ -19,7 +299,7 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/gyrdgn9yrzdeawxfagqe3qrufad3duyq5jadhrpvpump",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 100,
     "summary": "Internet culture belongs to everyone.\n\nEvery meme, trend, inside joke, viral moment, and online community started with ordinary people creating something together. It has shaped how an entire generation communicates, laughs, connects, and expresses itself.\n\n$internet culture is a",
     "tags": [
@@ -33,7 +313,7 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/g2dpfqw1gdjrygxmr4q1ezjjuaau1byv99ttuum4pump",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 100,
     "summary": "Give imagination\na form.\nThen let it fly.\nFrom the first point to the final frame.\nAn AI video platform for the beautifully\nunconventional.",
     "tags": [
@@ -47,7 +327,7 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/robinhood/0x0618eb2871503069366114df9dbfa60819eab6ad",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 100,
     "summary": "Cluster Agent building the finance layer for agentic AI where agents earn, the index grows, and every holder collects from the basket. No staking, no lockup, no fake yield.\n\nA protocol where memory, skills, and on-chain execution flow together, with less friction and more meaning",
     "tags": [
@@ -56,26 +336,12 @@
     ]
   },
   {
-    "id": "dexscreener_solana_CJmk2CGKuzT2sJtnkhs7BVYwTb6dDXveFPSfYriVpump",
-    "title": "Boosted token on SOLANA: CJmk2CGK...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/cjmk2cgkuzt2sjtnkhs7bvywtb6ddxvefpsfyrivpump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "Trending/boosted token pair on DexScreener.",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
     "id": "dexscreener_solana_C5rESMoTgMwPyzyWMaaMyvX41h9FADR7w3fhTn76pump",
     "title": "Boosted token on SOLANA: C5rESMoT...",
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/c5resmotgmwpyzywmaamyvx41h9fadr7w3fhtn76pump",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 10,
     "summary": "Trending/boosted token pair on DexScreener.",
     "tags": [
@@ -89,7 +355,7 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/dvrqc8rbxafpez2vdaz5qmp4vvbi6tffrusgvhe9pump",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 10,
     "summary": "$SOIL isn’t just another meme coin—it’s a community built on trust, friendship, and purpose.\n\nCreated by people who believe crypto can be better, we’re proving that the strongest projects are built on genuine relationships, not empty promises. Every milestone is an opportunity to",
     "tags": [
@@ -103,7 +369,7 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/5thtnegtf1y67erwvcgz3momdzepcvx1xdskhhecpump",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 50,
     "summary": "Trending/boosted token pair on DexScreener.",
     "tags": [
@@ -117,7 +383,7 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/4o5mxityk8tet4gbih2evpyzmxgxdvub5efm4njkte85",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 30,
     "summary": "Get paid in Niggabutt token rewards",
     "tags": [
@@ -131,292 +397,12 @@
     "platform": "dexscreener",
     "content_type": "trending",
     "url": "https://dexscreener.com/solana/8pcyntguzeles5pqkb9poffrketsgxysyffcxdwqy8hf",
-    "published_at": "2026-09-19T03:17:13Z",
+    "published_at": "2026-09-19T08:32:44Z",
     "engagement": 10,
     "summary": "I was a Myth -\nI was a Legend -\nI ' M APU !",
     "tags": [
       "dex",
       "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_9WZriUAVGezWRY5VJYqN7co2CfSyQm5hQgucTkN8pump",
-    "title": "Boosted token on SOLANA: 9WZriUAV...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/9wzriuavgezwry5vjyqn7co2cfsyqm5hqguctkn8pump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "bull world",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_E8XYVYrR99TyjN9kwQdiCNfJFwbtiDCZ4Hv2CXTtpump",
-    "title": "Boosted token on SOLANA: E8XYVYrR...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/e8xyvyrr99tyjn9kwqdicnfjfwbtidcz4hv2cxttpump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 50,
-    "summary": "Crypto’s filthiest operating system 🍑\n\nNo protection. Full penetration. Expect hard pumps and messy dumps.\n\n$ANALOS",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x730ee7a12397C8De8CF86Ad70B918626654882c8",
-    "title": "Boosted token on ROBINHOOD: 0x730ee7...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x730ee7a12397c8de8cf86ad70b918626654882c8",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 30,
-    "summary": "Yield on tokenized stocks, paid by real trading fees. One vault per stock on Robinhood Chain.",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_7ghKoBZBAjGSgbxix5K5kFhQzu9mxVmbdPxRT8j27eEo",
-    "title": "Boosted token on SOLANA: 7ghKoBZB...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/7ghkobzbajgsgbxix5k5kfhqzu9mxvmbdpxrt8j27eeo",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "ETAC paired with CATE on StonkFun",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_C4proDKqPKSdvTjhi8AGEWtLuea1kKT4k8RCvM9riYPw",
-    "title": "Boosted token on SOLANA: C4proDKq...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/c4prodkqpksdvtjhi8agewtluea1kkt4k8rcvm9riypw",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "ZEC INU",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x94D8aA25842544D13eaF9C74Db9b06eC320792FC",
-    "title": "Boosted token on ROBINHOOD: 0x94D8aA...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x94d8aa25842544d13eaf9c74db9b06ec320792fc",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "$TICKET powers Hood Lottery, a fully on-chain lottery protocol on Robinhood Chain. Enter Quick, $TICKET, and Daily Mega draws with transparent odds, verifiable randomness, and publicly recorded winners. Creator fees are automatically claimed and routed into prize vaults: 5% to Qu",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x616aCB71B9fF11D99fFc9ABc4fB7cE8FF7c47075",
-    "title": "Boosted token on ROBINHOOD: 0x616aCB...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x616acb71b9ff11d99ffc9abc4fb7ce8ff7c47075",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 50,
-    "summary": "Continuity weighting — hold across cycles and a capped portion of your balance counts for more. No contract, no lock, no custody; the inputs are balances already published in past snapshots. Built and tested, switched off in config, and it can't do anything until a cycle settles.",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_bsc_0x36F01746A86639D0C3b6A850d328be1b634A4444",
-    "title": "Boosted token on BSC: 0x36F017...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/bsc/0x36f01746a86639d0c3b6a850d328be1b634a4444",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "a cat that vapes. paired with $BNC, a former vape company turned #BNB treasury. the most VC-backed cat on the blockchain",
-    "tags": [
-      "dex",
-      "bsc"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_GNjaZp3tJp8gwZgkNDkFfitybSzEVSsKo97DVDUDpump",
-    "title": "Boosted token on SOLANA: GNjaZp3t...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/gnjazp3tjp8gwzgkndkffitybszevssko97dvdudpump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 30,
-    "summary": "Mixing beats, exploring space, and baking treats—this cat has mastered every universe. 🎧🚀🐟",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_6NcBgKpafAk8Eoi8PU3PhkJ2zRfiSSWWxdQffbMipump",
-    "title": "Boosted token on SOLANA: 6NcBgKpa...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/6ncbgkpafak8eoi8pu3phkj2zrfisswwxdqffbmipump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "StreamPaid the first launchpad for twitch streamers to get tokenized.",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x757C6FCd09c4cBd8676e7B243038BD01EE5469D2",
-    "title": "Boosted token on ROBINHOOD: 0x757C6F...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x757c6fcd09c4cbd8676e7b243038bd01ee5469d2",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 100,
-    "summary": "Trending/boosted token pair on DexScreener.",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_HgcxVs6kJhPAaGqnPNGaa7zYgNT49hJrLufiqcNMuYZT",
-    "title": "Boosted token on SOLANA: HgcxVs6k...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/hgcxvs6kjhpaagqnpngaa7zygnt49hjrlufiqcnmuyzt",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "Feels Good Man",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_4775QEyTS7ECpvhbeEg1a5XUjpK6CtEJwRpw6vvwpump",
-    "title": "Boosted token on SOLANA: 4775QEyT...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/4775qeyts7ecpvhbeeg1a5xujpk6ctejwrpw6vvwpump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "Hi, I am the original DEV of this coin. Someone took it over and is doing a terrible job. He sold everything and is inactive and AFK in the X community. I want to take over my coin and push it well. I'll have an active community with moderators to help out all fud aswell.",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x6c866e8396a7e9931f5338F89E689F4699B66b03",
-    "title": "Boosted token on ROBINHOOD: 0x6c866e...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x6c866e8396a7e9931f5338f89e689f4699b66b03",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "XRP Robinhood ($XRPR) is a community-driven token built on Robinhood Chain, inspired by XRP culture and the spirit of decentralization. Built around community, memes and the XRP Army specifically to melt faces.",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x0333aa41e5464491D941d84B96c4353C4bb1076c",
-    "title": "Boosted token on ROBINHOOD: 0x0333aa...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x0333aa41e5464491d941d84b96c4353c4bb1076c",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 100,
-    "summary": "Trending/boosted token pair on DexScreener.",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_3T1h8HUain7m5TywjQUZapcd4iJBMsEA2Tx2zrNypump",
-    "title": "Boosted token on SOLANA: 3T1h8HUa...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/3t1h8huain7m5tywjquzapcd4ijbmsea2tx2zrnypump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 100,
-    "summary": "pogg",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_6CsmCtDAhRcbp3G4KiinKC2JjLJ9BpR7isqcgZefqLym",
-    "title": "Boosted token on SOLANA: 6CsmCtDA...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/6csmctdahrcbp3g4kiinkc2jjlj9bpr7isqcgzefqlym",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "Tokenizing the onchain drug market.",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0xAc2Ba65e2c2E7E7C0002942dbE9c89856ef21ECa",
-    "title": "Boosted token on ROBINHOOD: 0xAc2Ba6...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0xac2ba65e2c2e7e7c0002942dbe9c89856ef21eca",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "SBR - Strategic Bitcoin Reserve\n\nThe first SBR on chain to reward holders with Bitcoin",
-    "tags": [
-      "dex",
-      "robinhood"
-    ]
-  },
-  {
-    "id": "dexscreener_solana_HbNytSx2gXYd7hfeTx9ufEKkgyZtE2yLxJmZieYKpump",
-    "title": "Boosted token on SOLANA: HbNytSx2...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/solana/hbnytsx2gxyd7hfetx9ufekkgyzte2ylxjmzieykpump",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 30,
-    "summary": "Meet $KMS—the bold new meme making its mark, one community-powered moment at a time. 🚀",
-    "tags": [
-      "dex",
-      "solana"
-    ]
-  },
-  {
-    "id": "dexscreener_robinhood_0x67b953Ac1d98f9dfe17ab1854BD54b180F95Ae07",
-    "title": "Boosted token on ROBINHOOD: 0x67b953...",
-    "platform": "dexscreener",
-    "content_type": "trending",
-    "url": "https://dexscreener.com/robinhood/0x67b953ac1d98f9dfe17ab1854bd54b180f95ae07",
-    "published_at": "2026-09-19T03:17:13Z",
-    "engagement": 10,
-    "summary": "Original name of TheRoaringKitty profile picture.\n\n$GME REWARDS TO THE HOLDERS.\n\nPaired with $GME stock.\n\nFebruary 4, 2015.\n\nThe bandana was tied.\nThe kitten became Rambo.\n\n11 years later, the story continues onchain.\n\n$RAMBO × $GME\n\nPower to the kitten.",
-    "tags": [
-      "dex",
-      "robinhood"
     ]
   }
 ]
