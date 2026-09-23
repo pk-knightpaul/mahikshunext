@@ -1,5 +1,131 @@
 [
   {
+    "id": "news_d37514bce859ec87",
+    "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+    "published_at": "2026-09-23T22:31:45Z",
+    "engagement": 0,
+    "summary": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0079d8f806cd0117",
+    "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+    "published_at": "2026-09-23T22:06:04Z",
+    "engagement": 0,
+    "summary": "OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9b2776d01b4a9a61",
+    "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-23T21:47:52Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M380MX1W92VXBB79W6WPSWR1/hi-sec-v",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_168bf17c07e5829b",
+    "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+    "published_at": "2026-09-23T21:31:03Z",
+    "engagement": 0,
+    "summary": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_5203a6c8ab2f8fdd",
+    "title": "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
+    "published_at": "2026-09-23T20:44:20Z",
+    "engagement": 0,
+    "summary": "A tech columnist declined to give Meta's new AI agent access to his messages. It read them anyway, then invented an explanation for how it knew.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a9ad61db8077f975",
+    "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-23T20:43:56Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Former Hack VC partner Hsin-Ju Chuang found dead at 37\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png\" /> </p> <",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_2e3cdfaa8a677ccc",
+    "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-23T20:28:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US lawmakers from gaming states urge SCOTUS to take up Kalshi case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S1XC5MZ8AHXAWMABJV243/hi-a-supreme-court-case",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-23T19:39:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_5c241821531fedc2",
+    "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
+    "published_at": "2026-09-23T19:36:15Z",
+    "engagement": 0,
+    "summary": "21Shares listed Europe's first Zcash exchange-traded product on Euronext Paris and Amsterdam this week as ZEC continues its banner year.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_1094e5ab6fe3f823",
     "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
     "platform": "news",
@@ -280,20 +406,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-23T13:39:08Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_b69117dd28334f01",
     "title": "Winners and losers of the SEC’s new tokenized stocks rules",
     "platform": "news",
@@ -434,20 +546,6 @@
     ]
   },
   {
-    "id": "news_83606eee9164e51e",
-    "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
-    "published_at": "2026-09-23T10:43:46Z",
-    "engagement": 0,
-    "summary": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_56e56209e2d85dd3",
     "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
     "platform": "news",
@@ -476,34 +574,6 @@
     ]
   },
   {
-    "id": "news_2bca03360f3f01c5",
-    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-23T10:06:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CFTC chair pushes tokenization as SEC opens door to onchain stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_04451d66fe81111d",
-    "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-23T10:05:10Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36VKH38PWTADPGEVC4SV8G0/hi-fiat-ins",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_ccaa042419eb98ed",
     "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
     "platform": "news",
@@ -518,20 +588,6 @@
     ]
   },
   {
-    "id": "news_8416d53f49dd457c",
-    "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
-    "published_at": "2026-09-23T09:53:07Z",
-    "engagement": 0,
-    "summary": "Investigators are combing the site where the exchange's founder was last seen in 2022, using experts and forensic equipment.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_6dd7812a75a4b8a5",
     "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
     "platform": "news",
@@ -543,20 +599,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_2f33cb5923f081a6",
-    "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-23T08:18:38Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BitMEX ends crypto trading, keeps withdrawals open after closure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resou",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_462771530544a1a5",
-    "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-    "published_at": "2026-09-22T22:16:03Z",
-    "engagement": 0,
-    "summary": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b8c46dd9273f2fb9",
-    "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
-    "published_at": "2026-09-22T21:16:03Z",
-    "engagement": 0,
-    "summary": "Four ancient wallets moved 1,971 BTC between Sept. 6 and Sept. 22, including a 600 BTC transfer worth $51.9 million just hours ago, with three of the four carrying \"Noah Doe\" lawsuit tags.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_cac11f1ed4fe3ac9",
-    "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
-    "published_at": "2026-09-22T20:46:03Z",
-    "engagement": 0,
-    "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
