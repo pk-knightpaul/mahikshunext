@@ -1,5 +1,159 @@
 [
   {
+    "id": "news_cdfa43c95c656d99",
+    "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "published_at": "2026-09-25T20:01:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_3781588bee454d14",
+    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+    "published_at": "2026-09-25T19:45:39Z",
+    "engagement": 0,
+    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8c41d24bf8ddba08",
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "published_at": "2026-09-25T19:16:04Z",
+    "engagement": 0,
+    "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_fed5710fc9ebdaa6",
+    "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T18:56:53Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tether says it had ‘limited’ exposure to bank linked to $84M US seizure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CMJJSCGPAGYWMC5WQF9J64/hi-what-happens-to",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T18:42:59Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_1146c0e34b5b90c4",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "published_at": "2026-09-25T18:42:51Z",
+    "engagement": 0,
+    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a9ad61db8077f975",
+    "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T18:33:49Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png\" />",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_32d7d3aad023d6a5",
+    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+    "published_at": "2026-09-25T17:46:05Z",
+    "engagement": 0,
+    "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f3ba1c1ab9f7632d",
+    "title": "Bitget clarifies $388M in assets affected by security breach",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T17:17:45Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitget clarifies $388M in assets affected by security breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CQDGGFK82WPW7Q372S69XX/hi-why-spot-the-typo-is-no-lo",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_e3916ae8c25c7e4e",
+    "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+    "published_at": "2026-09-25T17:08:57Z",
+    "engagement": 0,
+    "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_efc5f1de1279ac8c",
+    "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T16:34:16Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy seeks shareholder approval for daily preferred stock dividends\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CNP9TAS87YZRJ48GX2N99M/hi-strategyb.png\" ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_a6f71f6e3a80bbc5",
     "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
     "platform": "news",
@@ -95,20 +249,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-25T13:32:49Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -406,20 +546,6 @@
     ]
   },
   {
-    "id": "news_947da5b36fe4e45c",
-    "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-25T04:41:06Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Researchers propose Zcash-style private Bitcoin transfers without a soft fork \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bi",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_96dcd46455a59cd4",
     "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
     "platform": "news",
@@ -431,48 +557,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_c41cef96a2cefcd1",
-    "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-25T02:00:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Block brings Bitcoin Lightning payments to x402 for AI agents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agen",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_75c73f13dfb4bdbe",
-    "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-25T00:32:46Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitget CEO suspects North Korea behind $352M hack, citing IP clues\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AZF88B8P5GKQ5R22PR2YMN/hack-1.jpg\" /> </p> <p>",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_8f536f07932cd15f",
-    "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-24T23:27:17Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expre",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -540,90 +624,6 @@
     "published_at": "2026-09-24T21:15:38Z",
     "engagement": 0,
     "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_49a2d7906f4e9563",
-    "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-    "published_at": "2026-09-24T20:13:25Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_2ead5af800b41115",
-    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-    "published_at": "2026-09-24T20:01:03Z",
-    "engagement": 0,
-    "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_02c63a8b3dba64b6",
-    "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
-    "published_at": "2026-09-24T19:16:03Z",
-    "engagement": 0,
-    "summary": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_0038019677fea62e",
-    "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-    "published_at": "2026-09-24T18:31:03Z",
-    "engagement": 0,
-    "summary": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_6756d79430b0de15",
-    "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-    "published_at": "2026-09-24T17:51:31Z",
-    "engagement": 0,
-    "summary": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_e8973c68922f2a9d",
-    "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-    "published_at": "2026-09-24T17:31:03Z",
-    "engagement": 0,
-    "summary": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
     "tags": [
       "news",
       "decrypt"
