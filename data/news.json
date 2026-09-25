@@ -1,5 +1,145 @@
 [
   {
+    "id": "news_69a420ef302b8fea",
+    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+    "published_at": "2026-09-25T11:09:52Z",
+    "engagement": 0,
+    "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_efc867a76084cb7e",
+    "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+    "published_at": "2026-09-25T09:59:45Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1f0b336d9ef90ab4",
+    "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+    "published_at": "2026-09-25T09:50:01Z",
+    "engagement": 0,
+    "summary": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_2a0dbf5d9a6f8e1e",
+    "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T09:48:53Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Magic Eden scare puts 3,832 NFTs in whitehat protective custody\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-n",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_ecbf5054ba661b46",
+    "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+    "published_at": "2026-09-25T09:13:01Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_35a8656e7ed2f7a1",
+    "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+    "published_at": "2026-09-25T08:58:03Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_78ac9e26e009214c",
+    "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T08:51:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BTYE66WC2EVFA55YV4CN26/canadia.png\" /> </p> <p>KelpDA",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_e434d82865317367",
+    "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T07:41:36Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BNHNN1HMXCX6AA83T10V84/bitcoin-etf-5.jpg\" /> </",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_7b63f43a6dee0f44",
+    "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-25T07:28:18Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Samourai Wallet co-founder faces transfer after 30-day jail ordeal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BM3DN348KFGP7858XFMCWJ/prison.png\" /> </p> <p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b15badc8efe881f2",
+    "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+    "published_at": "2026-09-25T07:09:11Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -43,7 +183,7 @@
   },
   {
     "id": "news_96dcd46455a59cd4",
-    "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+    "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
@@ -378,34 +518,6 @@
     ]
   },
   {
-    "id": "news_35379fb467b5b592",
-    "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-24T17:14:35Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto treasury model loses its edge as stock premiums fade: DWF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A24Y0DVXQSBK1VSJST05MZ/bear-bang-reg-falling-cry",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_9233388cab0ed34c",
-    "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-24T17:13:38Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A44DGGE4E3FZMH613C6EH3/hi-limit-order-pro",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_61b46f8a0826c5b5",
     "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
     "platform": "news",
@@ -434,20 +546,6 @@
     ]
   },
   {
-    "id": "news_722e4bb25cb885e7",
-    "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-24T15:57:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3518SYSJ7A5FP4GPX8VM1S8/hi-what-i",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_dc7cccb5108b42bd",
     "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
     "platform": "news",
@@ -459,20 +557,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_8f870e85245fc205",
-    "title": "New York sues Polymarket over alleged illegal gambling business",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-24T15:27:29Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"New York sues Polymarket over alleged illegal gambling business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png\" /",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -501,48 +585,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_c12c78d8e3ba35c2",
-    "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-    "published_at": "2026-09-24T15:07:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_452a6134026b016a",
-    "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-    "published_at": "2026-09-24T14:49:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_f239d49fcf0828aa",
-    "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-    "published_at": "2026-09-24T14:41:05Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -582,48 +624,6 @@
     "published_at": "2026-09-24T13:01:03Z",
     "engagement": 0,
     "summary": "Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_88d04bac6a0ede04",
-    "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-    "published_at": "2026-09-24T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_d24513227c6c0642",
-    "title": "Morning Minute: Selig Says ‘It’s Go Time’ for CFTC Crypto Rules",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules",
-    "published_at": "2026-09-24T11:56:11Z",
-    "engagement": 0,
-    "summary": "The CFTC has been extremely busy ever since the Clarity Act failed its vote, and it appears they’re ready to accelerate.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9274e777f8962912",
-    "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
-    "published_at": "2026-09-24T11:05:19Z",
-    "engagement": 0,
-    "summary": "The threat could arrive before quantum computers are commercially useful, and member states have until the end of 2026 to plan for it.",
     "tags": [
       "news",
       "decrypt"
