@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_077f491c94b42685",
+    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+    "published_at": "2026-09-26T17:01:03Z",
+    "engagement": 0,
+    "summary": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a790984bc66d4e5f",
+    "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+    "published_at": "2026-09-26T16:06:03Z",
+    "engagement": 0,
+    "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bbe4ff1d6a2d0789",
+    "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+    "published_at": "2026-09-26T15:01:05Z",
+    "engagement": 0,
+    "summary": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_a208af5f5a4d8694",
     "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
     "platform": "news",
@@ -546,20 +588,6 @@
     ]
   },
   {
-    "id": "news_984508098d510fce",
-    "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-    "published_at": "2026-09-25T12:01:15Z",
-    "engagement": 0,
-    "summary": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_71a5c942a7c60c8e",
     "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_69a420ef302b8fea",
-    "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-    "published_at": "2026-09-25T11:09:52Z",
-    "engagement": 0,
-    "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_1f0b336d9ef90ab4",
-    "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
-    "published_at": "2026-09-25T09:50:01Z",
-    "engagement": 0,
-    "summary": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
