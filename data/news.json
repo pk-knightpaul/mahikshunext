@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_3053dfe317b0138a",
+    "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+    "published_at": "2026-09-27T16:01:03Z",
+    "engagement": 0,
+    "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_53329dae7cf896cb",
+    "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+    "published_at": "2026-09-27T15:01:03Z",
+    "engagement": 0,
+    "summary": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f5174c62440c6705",
+    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "published_at": "2026-09-27T14:29:13Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b76cad729a88691a",
+    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+    "published_at": "2026-09-27T13:01:03Z",
+    "engagement": 0,
+    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_5c8c8a346727acce",
+    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-27T12:46:28Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3HDTS8Y7GZWZ1TSH2F6ES35/hi-how-to",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_a5f89df496479450",
     "title": "How months of work on the Clarity Act all fell apart",
     "platform": "news",
@@ -557,76 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_06afda6f34ef3540",
-    "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-    "published_at": "2026-09-25T13:22:00Z",
-    "engagement": 0,
-    "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_d47938107413e88c",
-    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-    "published_at": "2026-09-25T13:16:03Z",
-    "engagement": 0,
-    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_638a1d580670710b",
-    "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-    "published_at": "2026-09-25T13:04:06Z",
-    "engagement": 0,
-    "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bd903ecb66c721c5",
-    "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-25T12:44:30Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CoinMarketCap buys CoinGlass to expand crypto derivatives data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3C95VNCWEKXAFT14D52K8ZQ/crypto-market-trading2.jpg\"",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_71a5c942a7c60c8e",
-    "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-    "published_at": "2026-09-25T11:54:28Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
