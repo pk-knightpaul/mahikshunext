@@ -1,5 +1,145 @@
 [
   {
+    "id": "news_e4bf0c9733e483f1",
+    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+    "published_at": "2026-09-28T21:46:03Z",
+    "engagement": 0,
+    "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_26c9a112aa50c5f4",
+    "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+    "published_at": "2026-09-28T21:16:03Z",
+    "engagement": 0,
+    "summary": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d3ec30622fd21bbf",
+    "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-28T20:41:44Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Canadian ‘crypto king’ set to represent himself at fraud trial\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canad",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_17339a1d6848e76f",
+    "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+    "published_at": "2026-09-28T20:36:03Z",
+    "engagement": 0,
+    "summary": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bbc809dc623ee095",
+    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-28T20:28:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MTCJ1E1J8KDT907A531CF3/hi-ipo-stocks-bitpgo.",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_48078d8f48e7f5b5",
+    "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+    "published_at": "2026-09-28T20:06:03Z",
+    "engagement": 0,
+    "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_21d48810861d059f",
+    "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+    "published_at": "2026-09-28T19:36:21Z",
+    "engagement": 0,
+    "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-28T19:02:45Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_39788dde432a57d3",
+    "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+    "published_at": "2026-09-28T18:46:03Z",
+    "engagement": 0,
+    "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_6a3b8763d7bc0245",
+    "title": "US SEC follows CFTC in staff guidance for crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-28T18:39:09Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US SEC follows CFTC in staff guidance for crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MEF526Z3GMGWVA23CRVP2J/hi-sec-cftc-event-overview-1.jpg\" /> </p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_6f309daa19044cec",
     "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
     "platform": "news",
@@ -148,20 +288,6 @@
     "published_at": "2026-09-28T14:02:45Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MiCA focus shifts from rulemaking to supervision, ESMA chair says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-28T13:32:34Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
       "cointelegraph"
@@ -365,7 +491,7 @@
   },
   {
     "id": "news_ae551a7069c5f7eb",
-    "title": "Live updates: Bitcoin pulls off worst levels as oil dips on Iran deal hopes",
+    "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
@@ -448,20 +574,6 @@
     ]
   },
   {
-    "id": "news_a4741cf42cd552ba",
-    "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-28T08:24:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KCZXGV1C50ET53JWS4RJ0V/hi-can-bitcoins-hard-cap",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_b0a24874920842e4",
     "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
     "platform": "news",
@@ -504,34 +616,6 @@
     ]
   },
   {
-    "id": "news_ff73b0878d16f32f",
-    "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-28T05:42:45Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korea weighs crypto market makers after JPYC trades at 4 times peg \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3K8G09TJR75WD4RB7BDGCQW/south-korea-mark",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_d82b08a89bd5c2f7",
-    "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-28T04:44:15Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3K4SEN7H2DNWHCZQ26DGD49/vitalik-ethereum.png\" /",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_3053dfe317b0138a",
     "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
     "platform": "news",
@@ -540,90 +624,6 @@
     "published_at": "2026-09-27T16:01:03Z",
     "engagement": 0,
     "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_53329dae7cf896cb",
-    "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
-    "published_at": "2026-09-27T15:01:03Z",
-    "engagement": 0,
-    "summary": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b76cad729a88691a",
-    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
-    "published_at": "2026-09-27T13:01:03Z",
-    "engagement": 0,
-    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_077f491c94b42685",
-    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
-    "published_at": "2026-09-26T17:01:03Z",
-    "engagement": 0,
-    "summary": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_a790984bc66d4e5f",
-    "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-    "published_at": "2026-09-26T16:06:03Z",
-    "engagement": 0,
-    "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bbe4ff1d6a2d0789",
-    "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
-    "published_at": "2026-09-26T15:01:05Z",
-    "engagement": 0,
-    "summary": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f72d3f5399cd600f",
-    "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
-    "published_at": "2026-09-26T13:01:03Z",
-    "engagement": 0,
-    "summary": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
     "tags": [
       "news",
       "decrypt"
