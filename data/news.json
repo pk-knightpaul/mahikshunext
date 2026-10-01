@@ -1,5 +1,215 @@
 [
   {
+    "id": "news_d0a06f5e9fd7b9fc",
+    "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+    "published_at": "2026-10-01T19:46:03Z",
+    "engagement": 0,
+    "summary": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0f81f4089fe2dc6a",
+    "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+    "published_at": "2026-10-01T19:16:03Z",
+    "engagement": 0,
+    "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_33e87c29c738b5de",
+    "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+    "published_at": "2026-10-01T18:46:03Z",
+    "engagement": 0,
+    "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_42d76a0a8e1f4d54",
+    "title": "Another Trump memecoin dinner advertised for token's top investors",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+    "published_at": "2026-10-01T18:45:29Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_974e9b6bac770b09",
+    "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-01T18:45:09Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W9759ASDBQAC0YM9309Y4A/hi-why-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_1b10e51929091a64",
+    "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+    "published_at": "2026-10-01T18:12:04Z",
+    "engagement": 0,
+    "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_35bd823231bc67bc",
+    "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-01T18:01:49Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Illinois will postpone implementation of crypto tax following lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W4DEMZ53S3Q9NK2GTJAT5R/hi-crypto-glossary-t",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_05bebfe8bf509aae",
+    "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+    "published_at": "2026-10-01T17:11:44Z",
+    "engagement": 0,
+    "summary": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_674030135bb30708",
+    "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+    "published_at": "2026-10-01T16:16:03Z",
+    "engagement": 0,
+    "summary": "Illinois officials and crypto groups jointly asked a state court to delay the 0.2% Digital Asset Tax from Jan. 1 to July 1, 2027, while a legal challenge continues.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b34c3a46e6e1dab9",
+    "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-01T16:12:23Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"New York, Wyoming regulators sign pact to coordinate crypto oversight \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W216CF6VJCFGDPQR2ZF9XR/hi-top-5-crypto-sta",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_08b730472dba0c75",
+    "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-01T15:55:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3W2DJGKT5VP6Z8THMSJRK57/crypto-bitc",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3848bccc70257a5a",
+    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-01T15:43:34Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"NEAR Intents suffers $3.8M exploit after assistance with Bitget breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3VRGAM4CAXBR2PFX0KGFSCH/hi-how-scammers-exp",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a1ad188d6fc83158",
+    "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+    "published_at": "2026-10-01T15:43:27Z",
+    "engagement": 0,
+    "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_f79e7348454e3a5c",
+    "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+    "published_at": "2026-10-01T15:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_0bae6d111823c051",
+    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "published_at": "2026-10-01T14:18:14Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_a576390c319127f4",
     "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
     "platform": "news",
@@ -99,7 +309,7 @@
   },
   {
     "id": "news_82b5aee7adf72d32",
-    "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+    "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
@@ -322,20 +532,6 @@
     ]
   },
   {
-    "id": "news_39df3d332a904bc7",
-    "title": "Crypto hacks top $768M in September, worst month of 2026",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-01T04:44:33Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto hacks top $768M in September, worst month of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TW968PTRQR89Y2C0JV54QA/hacks.jpg\" /> </p> <p>The $388 mi",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_a2cf21711b546fc7",
     "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
     "platform": "news",
@@ -347,34 +543,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_83feee7e89549b06",
-    "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-01T01:07:46Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CFTC seeks to define event contracts as swaps amid prediction market fight\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-mark",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_99f21ac1dc1d4eb5",
-    "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-01T00:15:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MetaMask exits Ethereum validators amid undisclosed security incident \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TCYHE02RXXGBF3G4Q42FE7/metamask.jpg\" /> </",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -420,104 +588,6 @@
     ]
   },
   {
-    "id": "news_65062a2c1f259ee6",
-    "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-30T20:57:32Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SXTX0355JX9EYXHCG8DQG5/hi-usdc-onto-banking-b",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_aa9459813cab7f1a",
-    "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
-    "published_at": "2026-09-30T20:31:04Z",
-    "engagement": 0,
-    "summary": "The Coinbase-backed group's first Senate endorsements—Republicans Jon Husted and Ashley Hinson and Democrat Chris Pappas—come two weeks after the Clarity Act's collapse, as the industry's fight shifts to the campaign trail.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3aa7df654b9dd037",
-    "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
-    "published_at": "2026-09-30T19:46:04Z",
-    "engagement": 0,
-    "summary": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_324901d11bde829e",
-    "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-    "published_at": "2026-09-30T19:16:02Z",
-    "engagement": 0,
-    "summary": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_12558bd18c790549",
-    "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-30T19:11:23Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto advocacy group announces picks for US Congress as midterms loom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SP0XZZ2FXWPN060VSWSTWV/voteblokchain.jpg\" ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_066be3b786dfad94",
-    "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-    "published_at": "2026-09-30T18:39:21Z",
-    "engagement": 0,
-    "summary": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claims.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_dd5004751247f8e3",
-    "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-    "published_at": "2026-09-30T17:27:43Z",
-    "engagement": 0,
-    "summary": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_d04db338efd6e4d4",
     "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
     "platform": "news",
@@ -529,34 +599,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_4ff95f69b808cdcb",
-    "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-    "published_at": "2026-09-30T16:36:10Z",
-    "engagement": 0,
-    "summary": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_de2cecee9ef28f7c",
-    "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-    "published_at": "2026-09-30T16:06:03Z",
-    "engagement": 0,
-    "summary": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin detail.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
@@ -580,48 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
     "published_at": "2026-09-30T15:19:36Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_c87914784817b146",
-    "title": "Crypto Long & Short: What will the AI agents run on?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-    "published_at": "2026-09-30T14:56:07Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_387245fcc95f55d8",
-    "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-    "published_at": "2026-09-30T14:04:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_796ca59228d45bae",
-    "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-    "published_at": "2026-09-30T13:00:00Z",
     "engagement": 0,
     "summary": "",
     "tags": [
