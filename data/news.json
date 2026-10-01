@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_ea9ee8f1fc024373",
+    "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+    "published_at": "2026-09-30T23:20:59Z",
+    "engagement": 0,
+    "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b4c9037e910e5b41",
+    "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+    "published_at": "2026-09-30T21:46:03Z",
+    "engagement": 0,
+    "summary": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_cf77ccc71350c244",
+    "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+    "published_at": "2026-09-30T21:16:04Z",
+    "engagement": 0,
+    "summary": "An internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_65062a2c1f259ee6",
+    "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-09-30T20:57:32Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SXTX0355JX9EYXHCG8DQG5/hi-usdc-onto-banking-b",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_aa9459813cab7f1a",
     "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
     "platform": "news",
@@ -281,13 +337,13 @@
   },
   {
     "id": "news_03d942d50b05ca2f",
-    "title": "Could THORChain face prosecution over stolen Bitget funds?",
+    "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-09-30T13:30:00Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Could THORChain face prosecution over stolen Bitget funds? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QSRG3BHR6KAP15GVPERVEN/thorchain-yuriy.png\" /> </p> <",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Could THORChain face prosecution over stolen Bitget funds? Legal opinion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QSRG3BHR6KAP15GVPERVEN/thorchain-yuriy.p",
     "tags": [
       "news",
       "cointelegraph"
@@ -462,20 +518,6 @@
     ]
   },
   {
-    "id": "news_5c723ee657fc70c3",
-    "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
-    "published_at": "2026-09-30T10:32:01Z",
-    "engagement": 0,
-    "summary": "The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_f5ebbb30afd4ce86",
     "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
     "platform": "news",
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_57857bb748953e2d",
-    "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-09-30T07:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"European stablecoin issuer AllUnity launches USD stablecoin USDAU\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q01DCHR1M2F18EADTH89EF/stablecoin11.png\" /> </p",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_3df7fa0ade9f6b28",
-    "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-    "published_at": "2026-09-29T21:46:03Z",
-    "engagement": 0,
-    "summary": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_5995e7a82619b6ed",
-    "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-    "published_at": "2026-09-29T21:16:04Z",
-    "engagement": 0,
-    "summary": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
