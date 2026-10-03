@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_ad41da929530bf2b",
+    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+    "published_at": "2026-10-03T17:01:03Z",
+    "engagement": 0,
+    "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b79e65815478f2ab",
+    "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+    "published_at": "2026-10-03T16:01:03Z",
+    "engagement": 0,
+    "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d9f256a9b1c59d52",
+    "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+    "published_at": "2026-10-03T16:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_fbc5efccc31374fb",
+    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+    "published_at": "2026-10-03T16:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_95307997f4b8b9b0",
+    "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+    "published_at": "2026-10-03T15:01:03Z",
+    "engagement": 0,
+    "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_ea7fdea44ee94edc",
+    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+    "published_at": "2026-10-03T15:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_10c997af64130093",
     "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
     "platform": "news",
@@ -543,90 +627,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_5ffa32649fc16c41",
-    "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-    "published_at": "2026-10-02T08:28:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_dfdb23406162ed62",
-    "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-    "published_at": "2026-10-02T08:11:54Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_8f2dd71bf0277943",
-    "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-    "published_at": "2026-10-01T21:31:03Z",
-    "engagement": 0,
-    "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_48310fcb80f5156a",
-    "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-    "published_at": "2026-10-01T20:46:03Z",
-    "engagement": 0,
-    "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_22f2cce2144c4624",
-    "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-    "published_at": "2026-10-01T20:31:03Z",
-    "engagement": 0,
-    "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ef4dc7cf64ffab87",
-    "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-    "published_at": "2026-10-01T20:20:04Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
