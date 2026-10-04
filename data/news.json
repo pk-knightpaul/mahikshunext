@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-04T18:51:50Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a31307f9803d1e05",
+    "title": "There's an election next month: State of Crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+    "published_at": "2026-10-04T18:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b75fc0815af0cdd2",
+    "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+    "published_at": "2026-10-04T17:01:03Z",
+    "engagement": 0,
+    "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_eb582c67c27972f5",
+    "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+    "published_at": "2026-10-04T16:01:03Z",
+    "engagement": 0,
+    "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_2067f3463902d894",
     "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
     "platform": "news",
@@ -235,20 +291,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-03T12:20:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -560,20 +602,6 @@
     ]
   },
   {
-    "id": "news_c53c3a9df43ee23b",
-    "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
-    "published_at": "2026-10-02T12:58:25Z",
-    "engagement": 0,
-    "summary": "Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_1284ab1e9209e674",
     "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
     "platform": "news",
@@ -588,40 +616,12 @@
     ]
   },
   {
-    "id": "news_d62b0b6e9f20d4be",
-    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
-    "published_at": "2026-10-02T12:19:00Z",
-    "engagement": 0,
-    "summary": "Hacks are never good, but a rapid response, user compensation and 1-hour bug fixing seems to top the spectrum of team reactions.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_09eda265504a3831",
     "title": "Cboe wants to turn VIX into a never-ending trade",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
     "published_at": "2026-10-02T11:30:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_19021c00711e60b5",
-    "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-    "published_at": "2026-10-02T11:22:40Z",
     "engagement": 0,
     "summary": "",
     "tags": [
