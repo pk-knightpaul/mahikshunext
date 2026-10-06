@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_50a861e15ed1931e",
+    "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+    "published_at": "2026-10-06T04:55:36Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_f3eef30a9f59914b",
+    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "published_at": "2026-10-06T04:49:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c346ad9b7c459666",
+    "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "published_at": "2026-10-06T04:41:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1977d6f25ec6002a",
+    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "published_at": "2026-10-06T04:23:45Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_efa270ba5d296f9c",
+    "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T03:45:40Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Rain seeks US trust bank charter days after OCC sued over crypto charters \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47MM9N9Y60BVJ238FEJ8R23/bank.jpg\" /> </",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_e2469ef63d15fc63",
+    "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T03:40:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"OKX eyes emerging markets with yield-offering stablecoin savings and payments app\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MMRBBBCCYARXBC1TB2KW8/coins-an",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a888bbfc45192f5a",
+    "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+    "published_at": "2026-10-06T02:01:03Z",
+    "engagement": 0,
+    "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_6c2e83b52adbcad0",
+    "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T01:47:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Chinese crime network laundered over $1B for Lazarus: ZachXBT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47E98M7WF0617YMCEA467EH/laundering.jpg\" /> </p> <p>Z",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_82f5d6eb08af0068",
     "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
     "platform": "news",
@@ -392,20 +504,6 @@
     ]
   },
   {
-    "id": "news_6c78843644f04147",
-    "title": "Too big to pause: Could an AI slowdown crash the economy?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-05T12:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Too big to pause: Could an AI slowdown crash the economy?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44MJKSS0BPAD0KZPMD4T1GR/magazine-ai-eye-atlantis.jpg\" />",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_1f0fee0d2d520764",
     "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
     "platform": "news",
@@ -442,20 +540,6 @@
     "published_at": "2026-10-05T11:39:08Z",
     "engagement": 0,
     "summary": "Crypto majors and alts are rallying to start October. What’s driving the early action and will it continue?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_e346796fa7a42e36",
-    "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-    "published_at": "2026-10-05T11:18:01Z",
-    "engagement": 0,
-    "summary": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
     "tags": [
       "news",
       "decrypt"
@@ -538,90 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
     "published_at": "2026-10-05T10:37:30Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_8b29de263690fcab",
-    "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-05T10:11:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AA4ZNADXTBYDCDTTV3CT3X/hi-v",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_c8a0582df1deb22b",
-    "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-    "published_at": "2026-10-05T09:37:13Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_589e7faa539e6f13",
-    "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-    "published_at": "2026-10-05T09:26:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_7e3f049190bec088",
-    "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-05T09:08:09Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MNAH6T9X0V6SRTWP10EC6/bitcoin-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_79494f0900bb533a",
-    "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-    "published_at": "2026-10-05T06:57:40Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_63b147d876e10929",
-    "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-    "published_at": "2026-10-05T06:40:29Z",
     "engagement": 0,
     "summary": "",
     "tags": [
