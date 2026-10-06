@@ -1,5 +1,145 @@
 [
   {
+    "id": "news_0aa3ebb1136cac1a",
+    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+    "published_at": "2026-10-06T22:46:03Z",
+    "engagement": 0,
+    "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9dac9d5751c28104",
+    "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+    "published_at": "2026-10-06T22:16:03Z",
+    "engagement": 0,
+    "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9f1933099600c082",
+    "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+    "published_at": "2026-10-06T22:00:19Z",
+    "engagement": 0,
+    "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4436cb5d1c392977",
+    "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T21:00:44Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Conduit sues Tether over allegedly freezing $2.8M without explanation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4978DXD1V002XFV3JZD97G6/hi-amid-crypto-winte",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_bd258f00ef003b89",
+    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T20:53:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS9RG9R18484EC5/hi-token-etf-victory-2.png\" ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T20:48:12Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_d9ad133ee7ef5738",
+    "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+    "published_at": "2026-10-06T20:28:53Z",
+    "engagement": 0,
+    "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_43e1403663da38d4",
+    "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+    "published_at": "2026-10-06T19:46:04Z",
+    "engagement": 0,
+    "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profited from the reserves while refusing to release the funds for more than a year.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_589600d5752ecd8e",
+    "title": "UK names 6 banks to lead first digitally native government bond",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-06T19:19:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"UK names 6 banks to lead first digitally native government bond\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4997XE3Q73505XVEHSA997G/hi-what-are-bonds-and-how-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_186195f22f69598c",
+    "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
+    "published_at": "2026-10-06T19:15:04Z",
+    "engagement": 0,
+    "summary": "The face of the \"Don't Die\" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_bf207beb5e32d458",
     "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
     "platform": "news",
@@ -210,20 +350,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-06T13:41:33Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_11578ee0ed4139ea",
     "title": "OKX exchange raises fresh capital at $25B valuation",
     "platform": "news",
@@ -238,11 +364,11 @@
     ]
   },
   {
-    "id": "news_fcfc715e0e827131",
+    "id": "news_b779dc5d5bae417e",
     "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
     "platform": "news",
     "content_type": "article",
-    "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-10-06T13:30:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Capital starting to rotate back to crypto from AI: Raoul Pal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4614HYVZJCWQV0ASPKJY445/trade-secrets-raoul-pal.png\" ",
@@ -274,34 +400,6 @@
     "published_at": "2026-10-06T13:00:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US crypto rules need to survive the next election\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489PAR81ADC43W66ZRS8PBE/hi-what-is-a-clarity-act-coinbase-1.png\"",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_8703eaecf8482e98",
-    "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-06T13:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Paxos’ $3B USDG stablecoin launches on Arbitrum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46WBG22HWMG48BG05ZYED9S/hi-others-are-making-a-push-to-build-crypt",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_9a4efdde25624b1c",
-    "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-06T12:54:15Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Polymarket overhauls smart contracts with new Protocol V2 rollout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48GRG4NZENV80G0JSB2JRWX/news-city-town-billboard",
     "tags": [
       "news",
       "cointelegraph"
@@ -420,20 +518,6 @@
     ]
   },
   {
-    "id": "news_522abfa0d1b4a1c3",
-    "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-06T10:16:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Hong Kong officials double down on end-2026 deadline for crypto licensing bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_1b9a9c860b28342d",
     "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
     "platform": "news",
@@ -540,90 +624,6 @@
     "published_at": "2026-10-06T02:01:03Z",
     "engagement": 0,
     "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_82f5d6eb08af0068",
-    "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-    "published_at": "2026-10-05T22:30:20Z",
-    "engagement": 0,
-    "summary": "The Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BTC.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_552d2a44d42ec609",
-    "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-    "published_at": "2026-10-05T21:48:03Z",
-    "engagement": 0,
-    "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the prior week's gain and well below mid-September's pace.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_4377817da86eca28",
-    "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-    "published_at": "2026-10-05T21:16:03Z",
-    "engagement": 0,
-    "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_94f26603dc345f73",
-    "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
-    "published_at": "2026-10-05T20:46:03Z",
-    "engagement": 0,
-    "summary": "An anonymous 4chan user called Bitcoin's October 2025 peak to the day way back in 2023. Could they be right again?",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_a9d0dc3c0c1364a5",
-    "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
-    "published_at": "2026-10-05T20:19:38Z",
-    "engagement": 0,
-    "summary": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money laundering concern.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bf5c52f0c32a0c82",
-    "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
-    "published_at": "2026-10-05T18:46:02Z",
-    "engagement": 0,
-    "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
     "tags": [
       "news",
       "decrypt"
