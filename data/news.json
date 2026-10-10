@@ -1,5 +1,33 @@
 [
   {
+    "id": "news_1bc95438f14ff131",
+    "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+    "published_at": "2026-10-10T17:01:03Z",
+    "engagement": 0,
+    "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_7aa28add94f13aa6",
+    "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+    "published_at": "2026-10-10T16:01:04Z",
+    "engagement": 0,
+    "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_4ae4190d274def16",
     "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_d620613dd8dd91af",
-    "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-    "published_at": "2026-10-09T10:11:51Z",
-    "engagement": 0,
-    "summary": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_eef1159f64d733d0",
-    "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-    "published_at": "2026-10-09T08:59:31Z",
-    "engagement": 0,
-    "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
