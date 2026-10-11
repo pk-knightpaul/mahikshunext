@@ -1,1 +1,366 @@
-[]
+[
+  {
+    "id": "binance_HPEBUSDT",
+    "title": "Binance lists HPEB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/HPEB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "HPEB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "hpeb"
+    ]
+  },
+  {
+    "id": "binance_HYPEUSDT",
+    "title": "Binance lists HYPE/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/HYPE_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "HYPE became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "hype"
+    ]
+  },
+  {
+    "id": "binance_CYPHBUSDT",
+    "title": "Binance lists CYPHB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/CYPHB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "CYPHB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "cyphb"
+    ]
+  },
+  {
+    "id": "binance_GPROBUSDT",
+    "title": "Binance lists GPROB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/GPROB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "GPROB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "gprob"
+    ]
+  },
+  {
+    "id": "binance_SECZBUSDT",
+    "title": "Binance lists SECZB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/SECZB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "SECZB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "seczb"
+    ]
+  },
+  {
+    "id": "binance_ZMBUSDT",
+    "title": "Binance lists ZMB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/ZMB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "ZMB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "zmb"
+    ]
+  },
+  {
+    "id": "binance_PDDBUSDT",
+    "title": "Binance lists PDDB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/PDDB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "PDDB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "pddb"
+    ]
+  },
+  {
+    "id": "binance_BNCBUSDT",
+    "title": "Binance lists BNCB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/BNCB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "BNCB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "bncb"
+    ]
+  },
+  {
+    "id": "binance_ENAUSD1",
+    "title": "Binance lists ENA/USD1 for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/ENA_USD1",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "ENA became newly tradable against USD1 on Binance spot markets.",
+    "tags": [
+      "listing",
+      "ena"
+    ]
+  },
+  {
+    "id": "binance_ARBU",
+    "title": "Binance lists ARB/U for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/ARB_U",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "ARB became newly tradable against U on Binance spot markets.",
+    "tags": [
+      "listing",
+      "arb"
+    ]
+  },
+  {
+    "id": "binance_FWDIBUSDT",
+    "title": "Binance lists FWDIB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/FWDIB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "FWDIB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "fwdib"
+    ]
+  },
+  {
+    "id": "binance_RDDTBUSDT",
+    "title": "Binance lists RDDTB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/RDDTB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "RDDTB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "rddtb"
+    ]
+  },
+  {
+    "id": "binance_XRPTHB",
+    "title": "Binance lists XRP/THB for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/XRP_THB",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "XRP became newly tradable against THB on Binance spot markets.",
+    "tags": [
+      "listing",
+      "xrp"
+    ]
+  },
+  {
+    "id": "binance_SOLTHB",
+    "title": "Binance lists SOL/THB for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/SOL_THB",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "SOL became newly tradable against THB on Binance spot markets.",
+    "tags": [
+      "listing",
+      "sol"
+    ]
+  },
+  {
+    "id": "binance_ADBEBUSDT",
+    "title": "Binance lists ADBEB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/ADBEB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "ADBEB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "adbeb"
+    ]
+  },
+  {
+    "id": "binance_AGPUBUSDT",
+    "title": "Binance lists AGPUB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/AGPUB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "AGPUB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "agpub"
+    ]
+  },
+  {
+    "id": "binance_SHAZBUSDT",
+    "title": "Binance lists SHAZB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/SHAZB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "SHAZB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "shazb"
+    ]
+  },
+  {
+    "id": "binance_AMCBUSDT",
+    "title": "Binance lists AMCB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/AMCB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "AMCB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "amcb"
+    ]
+  },
+  {
+    "id": "binance_WENBUSDT",
+    "title": "Binance lists WENB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/WENB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "WENB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "wenb"
+    ]
+  },
+  {
+    "id": "binance_USDEBUSDT",
+    "title": "Binance lists USDEB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/USDEB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "USDEB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "usdeb"
+    ]
+  },
+  {
+    "id": "binance_HYPETRY",
+    "title": "Binance lists HYPE/TRY for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/HYPE_TRY",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "HYPE became newly tradable against TRY on Binance spot markets.",
+    "tags": [
+      "listing",
+      "hype"
+    ]
+  },
+  {
+    "id": "binance_LLYBUSDT",
+    "title": "Binance lists LLYB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/LLYB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "LLYB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "llyb"
+    ]
+  },
+  {
+    "id": "binance_BNBTHB",
+    "title": "Binance lists BNB/THB for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/BNB_THB",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "BNB became newly tradable against THB on Binance spot markets.",
+    "tags": [
+      "listing",
+      "bnb"
+    ]
+  },
+  {
+    "id": "binance_ETHTHB",
+    "title": "Binance lists ETH/THB for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/ETH_THB",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "ETH became newly tradable against THB on Binance spot markets.",
+    "tags": [
+      "listing",
+      "eth"
+    ]
+  },
+  {
+    "id": "binance_HYPEUSDC",
+    "title": "Binance lists HYPE/USDC for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/HYPE_USDC",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "HYPE became newly tradable against USDC on Binance spot markets.",
+    "tags": [
+      "listing",
+      "hype"
+    ]
+  },
+  {
+    "id": "binance_JPMBUSDT",
+    "title": "Binance lists JPMB/USDT for spot trading",
+    "platform": "binance",
+    "content_type": "listing",
+    "url": "https://www.binance.com/en/trade/JPMB_USDT",
+    "published_at": "2026-10-11T21:31:29Z",
+    "engagement": 0,
+    "summary": "JPMB became newly tradable against USDT on Binance spot markets.",
+    "tags": [
+      "listing",
+      "jpmb"
+    ]
+  }
+]
