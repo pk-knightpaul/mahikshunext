@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_4b576f672e7b9fba",
+    "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+    "published_at": "2026-10-14T20:16:05Z",
+    "engagement": 0,
+    "summary": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_9cf3418901cc3d65",
+    "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+    "published_at": "2026-10-14T19:46:03Z",
+    "engagement": 0,
+    "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3a9eec6125be3c35",
+    "title": "Solana Sets a Date for Its Next Major Upgrade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+    "published_at": "2026-10-14T19:16:04Z",
+    "engagement": 0,
+    "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T19:13:24Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_e4f781bb5131fcb3",
+    "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T19:03:52Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"EU authority classifies Circle’s USDC as ‘significant’ under MiCA \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XTT3VWKHJ84ZJBP443TGSN/hi-globe-usdc.png\" /> <",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_94f7e6b67dd41a08",
+    "title": "US authorities dismantle crypto scam network that stole tens of millions",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T17:56:45Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US authorities dismantle crypto scam network that stole tens of millions \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XQTDG6G6JAX82533KHJ79T/granny-laptop-th",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3c018a9416d01bf6",
+    "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+    "published_at": "2026-10-14T17:46:05Z",
+    "engagement": 0,
+    "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b159b697f6bb4dc9",
+    "title": "OCC report finds debanking efforts tied to crypto activities",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T17:03:20Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"OCC report finds debanking efforts tied to crypto activities \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XH42GKYW5YXWF51G1CR9RV/hi-banks-and-crypto.jpg\" /> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_dd1501e965f34c93",
     "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
     "platform": "news",
@@ -193,20 +305,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-14T13:36:56Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -448,20 +546,6 @@
     ]
   },
   {
-    "id": "news_770b7922e1dfef64",
-    "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-14T10:07:03Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WQPH22MB1PQE91PWD5QS21/hi-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_3dbb7141958b960d",
     "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
     "platform": "news",
@@ -477,7 +561,7 @@
   },
   {
     "id": "news_d500000d9de0cd7d",
-    "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+    "title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
@@ -501,34 +585,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_8e557d3a5c88903d",
-    "title": "Starknet introduces wallet privacy feature for DeFi activity",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-14T05:32:14Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Starknet introduces wallet privacy feature for DeFi activity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png\" /> <",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_7bd02f7a9d24a229",
-    "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-14T05:30:10Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Fed’s Williams sees AI supply squeeze lasting beyond 2 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDVRKK44RE061434J5PYP7/hi-bitcoin-miners-as-energy-b",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -568,62 +624,6 @@
     "published_at": "2026-10-13T20:16:03Z",
     "engagement": 0,
     "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b7a81299b716b5c7",
-    "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-    "published_at": "2026-10-13T19:38:12Z",
-    "engagement": 0,
-    "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_fbd947543d8525c8",
-    "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-    "published_at": "2026-10-13T18:15:05Z",
-    "engagement": 0,
-    "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_0eb9d58473c0f2da",
-    "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
-    "published_at": "2026-10-13T17:37:46Z",
-    "engagement": 0,
-    "summary": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_46f361834264c631",
-    "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
-    "published_at": "2026-10-13T16:46:05Z",
-    "engagement": 0,
-    "summary": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
     "tags": [
       "news",
       "decrypt"
