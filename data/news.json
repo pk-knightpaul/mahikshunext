@@ -1,5 +1,61 @@
 [
   {
+    "id": "news_cebc4e95b6bdee87",
+    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-13T23:28:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ledger asks resellers to halt sales in Southeast Asia and Hong Kong\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg\" /> </p> <p",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_5839a6e29be01efd",
+    "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "published_at": "2026-10-13T23:23:05Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_19409389d8d9e991",
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "published_at": "2026-10-13T21:52:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_eeaaa643b25f8ad7",
+    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+    "published_at": "2026-10-13T21:46:04Z",
+    "engagement": 0,
+    "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_b70292def3203d09",
     "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
     "platform": "news",
@@ -532,20 +588,6 @@
     ]
   },
   {
-    "id": "news_cf0bff3d565afe1f",
-    "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-13T09:03:06Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Chinese fraud victims lose key court battle over 61,000 Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T4SNJSD60QPY0XS6G5VAS3/court-law-judge-flags-uk.j",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_597749421a7535a4",
     "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
     "platform": "news",
@@ -574,34 +616,6 @@
     ]
   },
   {
-    "id": "news_30ea0ebefa1ebcfa",
-    "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-    "published_at": "2026-10-13T04:43:18Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e281186212b243b5",
-    "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-    "published_at": "2026-10-13T04:18:20Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_f1a06b912ceeed62",
     "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-10-12T21:46:03Z",
     "engagement": 0,
     "summary": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving tsunami' for young workers.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c792df29bdf1d609",
-    "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-    "published_at": "2026-10-12T21:16:03Z",
-    "engagement": 0,
-    "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
     "tags": [
       "news",
       "decrypt"
