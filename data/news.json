@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_bf6483a07ef13ebc",
+    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+    "published_at": "2026-10-14T21:46:04Z",
+    "engagement": 0,
+    "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_0de720379603ec1c",
+    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+    "published_at": "2026-10-14T21:16:03Z",
+    "engagement": 0,
+    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_8b4c40dc2fdc9bd4",
+    "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-14T20:56:22Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Organizations join forces to fight Illinois crypto tax, after 6-month pause \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y1A2P32XBWMQ5M26VG2T55/hi-a-beginner",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_4b576f672e7b9fba",
     "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
     "platform": "news",
@@ -518,20 +560,6 @@
     ]
   },
   {
-    "id": "news_e58d2d8c67b600d4",
-    "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-14T10:25:53Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/h",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_a42ffdf039c2c4ad",
     "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
     "platform": "news",
@@ -596,34 +624,6 @@
     "published_at": "2026-10-13T21:46:04Z",
     "engagement": 0,
     "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b70292def3203d09",
-    "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
-    "published_at": "2026-10-13T21:16:04Z",
-    "engagement": 0,
-    "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_77dfc160bd3365cf",
-    "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-    "published_at": "2026-10-13T20:16:03Z",
-    "engagement": 0,
-    "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
     "tags": [
       "news",
       "decrypt"
