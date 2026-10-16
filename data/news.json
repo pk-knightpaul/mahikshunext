@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_707d2e9c593ebe99",
+    "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+    "published_at": "2026-10-16T20:16:04Z",
+    "engagement": 0,
+    "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4a38b03d1a0d3280",
+    "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+    "published_at": "2026-10-16T19:36:04Z",
+    "engagement": 0,
+    "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-16T19:17:04Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_a133e2c3343dc20b",
     "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
     "platform": "news",
@@ -162,20 +204,6 @@
     "published_at": "2026-10-16T14:11:03Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy conditionally declares daily dividends as STRC hovers below $100\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylo",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-16T13:56:15Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
       "cointelegraph"
@@ -379,7 +407,7 @@
   },
   {
     "id": "news_b9a8f3e79f5f4bb5",
-    "title": "Live updates: Crypto gives up more ground as AI selloff picks up steam",
+    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
@@ -568,34 +596,6 @@
     "published_at": "2026-10-15T21:46:04Z",
     "engagement": 0,
     "summary": "Google's Willow chip cut errors 40x on the scarce “magic states” quantum computers burn through, a step toward smaller, useful machines—and toward ones that could threaten today's encryption.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f7fdab16f6409f27",
-    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-    "published_at": "2026-10-15T20:31:04Z",
-    "engagement": 0,
-    "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_9339c9f42dd9f20d",
-    "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
-    "published_at": "2026-10-15T19:16:04Z",
-    "engagement": 0,
-    "summary": "In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
     "tags": [
       "news",
       "decrypt"
