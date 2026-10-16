@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_6bfa0fee18e95809",
+    "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-15T23:34:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Australia releases draft bill to adopt OECD crypto tax reporting framework \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50YHACZSJPAG8A0K041MKBV/hi-how-to-file",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_112f77ffed6b730f",
+    "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-15T22:42:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Scammer loses $4.8M stored on tampered Ledgers: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50Q9CPRKY0N68C9BSYHP5PM/asia-express-12.jpg\" /> </p> ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_d86f7ebb8ecf9c81",
+    "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+    "published_at": "2026-10-15T22:16:03Z",
+    "engagement": 0,
+    "summary": "Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_e3f42d106eeb5016",
     "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
     "platform": "news",
@@ -476,20 +518,6 @@
     ]
   },
   {
-    "id": "news_b7229f4c22a8e1f6",
-    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-15T10:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monito",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_2a5bcd958a8ea287",
     "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
     "platform": "news",
@@ -501,20 +529,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_6c4b6d5ffcf6aef7",
-    "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-15T09:48:07Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin dips to $80.1K as KOSPI closes at its lowest since April\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZCG70WQ1C80X0TYGEPZ7KC/ai-falling-stock-prices-9",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -596,20 +610,6 @@
     "published_at": "2026-10-14T21:46:04Z",
     "engagement": 0,
     "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_0de720379603ec1c",
-    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-    "published_at": "2026-10-14T21:16:03Z",
-    "engagement": 0,
-    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
     "tags": [
       "news",
       "decrypt"
