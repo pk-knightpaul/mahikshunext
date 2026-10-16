@@ -1,30 +1,16 @@
 [
   {
-    "id": "coingecko_streamoors",
-    "title": "streamoors (STREAM) is trending on CoinGecko",
+    "id": "coingecko_dacity-coin",
+    "title": "Dacity Coin (DACITY) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/streamoors",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/dacity-coin",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": 10,
-    "summary": "streamoors is currently trending on CoinGecko, ranked #628 by market cap. Trending position #1.",
+    "summary": "Dacity Coin is currently trending on CoinGecko, ranked #802 by market cap. Trending position #1.",
     "tags": [
       "trending",
-      "stream"
-    ]
-  },
-  {
-    "id": "coingecko_celestia",
-    "title": "Celestia (TIA) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/celestia",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 9,
-    "summary": "Celestia is currently trending on CoinGecko, ranked #101 by market cap. Trending position #2.",
-    "tags": [
-      "trending",
-      "tia"
+      "dacity"
     ]
   },
   {
@@ -33,40 +19,40 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/injective-protocol",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 8,
-    "summary": "Injective is currently trending on CoinGecko, ranked #83 by market cap. Trending position #3.",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 9,
+    "summary": "Injective is currently trending on CoinGecko, ranked #85 by market cap. Trending position #2.",
     "tags": [
       "trending",
       "inj"
     ]
   },
   {
-    "id": "coingecko_pudgy-penguins",
-    "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
+    "id": "coingecko_celestia",
+    "title": "Celestia (TIA) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 7,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #118 by market cap. Trending position #4.",
+    "url": "https://www.coingecko.com/en/coins/celestia",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 8,
+    "summary": "Celestia is currently trending on CoinGecko, ranked #97 by market cap. Trending position #3.",
     "tags": [
       "trending",
-      "pengu"
+      "tia"
     ]
   },
   {
-    "id": "coingecko_near",
-    "title": "NEAR Protocol (NEAR) is trending on CoinGecko",
+    "id": "coingecko_quantus",
+    "title": "Quantus (QTC) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/near",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 6,
-    "summary": "NEAR Protocol is currently trending on CoinGecko, ranked #19 by market cap. Trending position #5.",
+    "url": "https://www.coingecko.com/en/coins/quantus",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 7,
+    "summary": "Quantus is currently trending on CoinGecko, ranked #610 by market cap. Trending position #4.",
     "tags": [
       "trending",
-      "near"
+      "qtc"
     ]
   },
   {
@@ -75,82 +61,68 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pearl-2",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 5,
-    "summary": "Pearl is currently trending on CoinGecko, ranked #102 by market cap. Trending position #6.",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 6,
+    "summary": "Pearl is currently trending on CoinGecko, ranked #104 by market cap. Trending position #5.",
     "tags": [
       "trending",
       "prl"
     ]
   },
   {
-    "id": "coingecko_starknet",
-    "title": "Starknet (STRK) is trending on CoinGecko",
+    "id": "coingecko_pudgy-penguins",
+    "title": "Pudgy Penguins (PENGU) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/starknet",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 5,
+    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #118 by market cap. Trending position #6.",
+    "tags": [
+      "trending",
+      "pengu"
+    ]
+  },
+  {
+    "id": "coingecko_bittensor",
+    "title": "Bittensor (TAO) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bittensor",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": 4,
-    "summary": "Starknet is currently trending on CoinGecko, ranked #107 by market cap. Trending position #7.",
+    "summary": "Bittensor is currently trending on CoinGecko, ranked #34 by market cap. Trending position #7.",
     "tags": [
       "trending",
-      "strk"
+      "tao"
     ]
   },
   {
-    "id": "coingecko_derive",
-    "title": "Derive (DRV) is trending on CoinGecko",
+    "id": "coingecko_solana",
+    "title": "Solana (SOL) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/derive",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": 3,
-    "summary": "Derive is currently trending on CoinGecko, ranked #125 by market cap. Trending position #8.",
+    "summary": "Solana is currently trending on CoinGecko, ranked #7 by market cap. Trending position #8.",
     "tags": [
       "trending",
-      "drv"
+      "sol"
     ]
   },
   {
-    "id": "coingecko_venice-token",
-    "title": "Venice Token (VVV) is trending on CoinGecko",
+    "id": "coingecko_lighter",
+    "title": "Lighter (LIT) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/venice-token",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": 2,
-    "summary": "Venice Token is currently trending on CoinGecko, ranked #71 by market cap. Trending position #9.",
+    "summary": "Lighter is currently trending on CoinGecko, ranked #90 by market cap. Trending position #9.",
     "tags": [
       "trending",
-      "vvv"
-    ]
-  },
-  {
-    "id": "coingecko_pump-fun",
-    "title": "Pump.fun (PUMP) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 1,
-    "summary": "Pump.fun is currently trending on CoinGecko, ranked #49 by market cap. Trending position #10.",
-    "tags": [
-      "trending",
-      "pump"
-    ]
-  },
-  {
-    "id": "coingecko_sui",
-    "title": "Sui (SUI) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/sui",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": 0,
-    "summary": "Sui is currently trending on CoinGecko, ranked #28 by market cap. Trending position #11.",
-    "tags": [
-      "trending",
-      "sui"
+      "lit"
     ]
   },
   {
@@ -159,54 +131,82 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/layerzero",
-    "published_at": "2026-10-16T10:45:58Z",
-    "engagement": -1,
-    "summary": "LayerZero is currently trending on CoinGecko, ranked #86 by market cap. Trending position #12.",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 1,
+    "summary": "LayerZero is currently trending on CoinGecko, ranked #86 by market cap. Trending position #10.",
     "tags": [
       "trending",
       "zro"
     ]
   },
   {
-    "id": "coingecko_zcash",
-    "title": "Zcash (ZEC) is trending on CoinGecko",
+    "id": "coingecko_neosoul",
+    "title": "NeoSoul (DNA) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zcash",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/neosoul",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": 0,
+    "summary": "NeoSoul is currently trending on CoinGecko, ranked #580 by market cap. Trending position #11.",
+    "tags": [
+      "trending",
+      "dna"
+    ]
+  },
+  {
+    "id": "coingecko_sui",
+    "title": "Sui (SUI) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/sui",
+    "published_at": "2026-10-16T15:13:15Z",
+    "engagement": -1,
+    "summary": "Sui is currently trending on CoinGecko, ranked #28 by market cap. Trending position #12.",
+    "tags": [
+      "trending",
+      "sui"
+    ]
+  },
+  {
+    "id": "coingecko_hyperliquid",
+    "title": "Hyperliquid (HYPE) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": -2,
-    "summary": "Zcash is currently trending on CoinGecko, ranked #10 by market cap. Trending position #13.",
+    "summary": "Hyperliquid is currently trending on CoinGecko, ranked #11 by market cap. Trending position #13.",
     "tags": [
       "trending",
-      "zec"
+      "hype"
     ]
   },
   {
-    "id": "coingecko_aptos",
-    "title": "Aptos (APT) is trending on CoinGecko",
+    "id": "coingecko_aerodrome-finance",
+    "title": "Aerodrome Finance (AERO) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/aptos",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": -3,
-    "summary": "Aptos is currently trending on CoinGecko, ranked #91 by market cap. Trending position #14.",
+    "summary": "Aerodrome Finance is currently trending on CoinGecko, ranked #84 by market cap. Trending position #14.",
     "tags": [
       "trending",
-      "apt"
+      "aero"
     ]
   },
   {
-    "id": "coingecko_backpack",
-    "title": "Backpack (BP) is trending on CoinGecko",
+    "id": "coingecko_derive",
+    "title": "Derive (DRV) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/backpack",
-    "published_at": "2026-10-16T10:45:58Z",
+    "url": "https://www.coingecko.com/en/coins/derive",
+    "published_at": "2026-10-16T15:13:15Z",
     "engagement": -4,
-    "summary": "Backpack is currently trending on CoinGecko, ranked #159 by market cap. Trending position #15.",
+    "summary": "Derive is currently trending on CoinGecko, ranked #125 by market cap. Trending position #15.",
     "tags": [
       "trending",
-      "bp"
+      "drv"
     ]
   }
 ]
