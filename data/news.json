@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_7c6297583bac741b",
+    "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+    "published_at": "2026-10-18T16:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_0311d14b2304d94a",
+    "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+    "published_at": "2026-10-18T15:01:04Z",
+    "engagement": 0,
+    "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_015676352cce50a8",
+    "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "published_at": "2026-10-18T14:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-18T13:54:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_92277c681493386a",
+    "title": "Most Americans polled oppose betting on elections: Reuters",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-18T13:48:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Most Americans polled oppose betting on elections: Reuters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M57M1156GPPFQ4JMAMQP3RQS/hi-japan-having-a-hard-time-gam",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_2af6b0e078431a13",
+    "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+    "published_at": "2026-10-18T13:01:04Z",
+    "engagement": 0,
+    "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a17dac2b33d08d95",
+    "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+    "published_at": "2026-10-18T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_986b3b412c765f06",
+    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+    "published_at": "2026-10-18T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_1be23956146fd4d4",
     "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
     "platform": "news",
@@ -19,7 +131,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-18T10:43:12Z",
+    "published_at": "2026-10-18T10:46:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Cysic crypto bridge halted after unauthorized mint of 10M CYS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-afte",
     "tags": [
@@ -61,7 +173,7 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-18T06:26:53Z",
+    "published_at": "2026-10-18T06:29:00Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tether backs AIsa as strategic investor, completing seed extension round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-inves",
     "tags": [
@@ -165,20 +277,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-17T13:29:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -504,20 +602,6 @@
     ]
   },
   {
-    "id": "news_2dd7ee014ddd53c3",
-    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-16T13:33:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Deutsche Bank prepares German crypto custody launch, eyes Asia: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-init",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_fdb3e5bc9b75a594",
     "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
     "platform": "news",
@@ -526,20 +610,6 @@
     "published_at": "2026-10-16T12:22:18Z",
     "engagement": 0,
     "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_17418383e4e80307",
-    "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-    "published_at": "2026-10-16T11:46:54Z",
-    "engagement": 0,
-    "summary": "Plus, crypto majors rebound despite hot PPI and Saylor’s Strategy is at risk of removal from a major index.",
     "tags": [
       "news",
       "decrypt"
@@ -557,76 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_35d99220f9208af7",
-    "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-    "published_at": "2026-10-16T10:54:35Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_99ab16d933b77932",
-    "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-    "published_at": "2026-10-16T10:52:26Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_1c6c6bd539608257",
-    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-    "published_at": "2026-10-16T10:48:49Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_9e381c55cf235454",
-    "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-    "published_at": "2026-10-16T10:41:03Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_3332205284f2f215",
-    "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-    "published_at": "2026-10-16T10:39:08Z",
-    "engagement": 0,
-    "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
