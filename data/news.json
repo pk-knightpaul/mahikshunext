@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_865031f862423fea",
+    "title": "The White House's crypto chief departs: State of Crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "published_at": "2026-10-18T18:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_db9e4281791a2c2d",
+    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+    "published_at": "2026-10-18T16:33:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4df233e3c1e776f4",
+    "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+    "published_at": "2026-10-18T16:31:03Z",
+    "engagement": 0,
+    "summary": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_7c6297583bac741b",
     "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
     "platform": "news",
@@ -560,20 +602,6 @@
     ]
   },
   {
-    "id": "news_e3449494eb5af40b",
-    "title": "Big Tech's AI auditors will only see what they're shown",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-    "published_at": "2026-10-16T14:58:22Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_31ea21679ff77b6c",
     "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_fdb3e5bc9b75a594",
-    "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-    "published_at": "2026-10-16T12:22:18Z",
-    "engagement": 0,
-    "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_36cfcf17b11f87c1",
-    "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-    "published_at": "2026-10-16T11:15:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
