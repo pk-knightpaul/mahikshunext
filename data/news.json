@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_3b80d5c0d4ff20f8",
+    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+    "published_at": "2026-10-19T05:23:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_be14b805243026e9",
+    "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-19T05:14:06Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korea to meet crypto exchanges amid calls for tax delay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg\" /> </p> <",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_57c37e4bb3dec1a1",
+    "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+    "published_at": "2026-10-19T04:54:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e7f998f9bd741350",
+    "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "published_at": "2026-10-19T03:36:58Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9eb1bdd88832a1e6",
+    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "published_at": "2026-10-19T02:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_8a7ed6b7e281f21d",
+    "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-19T01:03:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg\" /> </p>",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_026f2d8016cdf23b",
     "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
     "platform": "news",
@@ -322,34 +406,6 @@
     ]
   },
   {
-    "id": "news_07341b89e9435d38",
-    "title": "Citrini sees a tokenization boom. The harder question is who profits",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
-    "published_at": "2026-10-17T15:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_262e2d8582e4b184",
-    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-    "published_at": "2026-10-17T14:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_765e6c4edece6b09",
     "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
     "platform": "news",
@@ -375,20 +431,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_85d39d7f8f78ecce",
-    "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-    "published_at": "2026-10-17T12:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -431,20 +473,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_13937726ecce9a54",
-    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-    "published_at": "2026-10-17T06:39:48Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -588,20 +616,6 @@
     ]
   },
   {
-    "id": "news_cc36b5cf6d401802",
-    "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-16T15:45:43Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52N6H9GGJM3JZN42WG1X5JC/kevin-warsh-2-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_9f043e76c1bb9c77",
     "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_31ea21679ff77b6c",
-    "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-16T14:11:03Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy conditionally declares daily dividends as STRC hovers below $100\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20FPT8H132TZGKAJWQX1YBC/hi-michael-saylo",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   }
 ]
