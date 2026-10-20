@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_d1f2d30ccb8d2ef4",
+    "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-20T08:54:27Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"JPMorgan projects Bitcoin to outperform US stocks and gold over next decade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C5PPZ7JDZ592BE7GX5YMTD/btc-jpmorgan.j",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_7bef91eb9f71fc2f",
+    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+    "published_at": "2026-10-20T08:24:01Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_04d44927ae3269d0",
+    "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-20T08:12:57Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BlackRock files for third Bitcoin ETF, still no Solana or XRP\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5C39B3JZZVK92X4QK4F6ZY6/bitcoin-etf-blackrock.jpg\" /",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_bf5898f1ef821023",
+    "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-20T05:39:20Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US Bitcoin ETFs draw $527M in biggest showing since September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png\" /> </p> <p>B",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b1a8243af2a01064",
+    "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-20T05:14:11Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BTX2A4AWVPY2BYEAS2GXFK/hi-is-the-imf-shutting-t",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_a68dc285b80d8adc",
+    "title": "US bans DeepSeek from civilian agency IT systems",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-20T04:07:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US bans DeepSeek from civilian agency IT systems\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BPZ4H9R43QB2KJ6EFY4RNJ/hi-can-a-blockchain-take-over-your-job-ne",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_90b7c335deec26aa",
     "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
     "platform": "news",
@@ -294,20 +378,6 @@
     ]
   },
   {
-    "id": "news_2e045f715c30c3e4",
-    "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-19T16:05:57Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin is rejected at $83K as US bond yields reverse higher with equities \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MNAH6T9X0V6SRTWP10EC6/bitcoin-lazer-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_85ff9bf105a30a35",
     "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
     "platform": "news",
@@ -350,34 +420,6 @@
     ]
   },
   {
-    "id": "news_324d2e11fd74a6b2",
-    "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-19T13:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Made an ‘honest’ mistake with crypto taxes? New bill offers way out\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6ADK23SXVZZ2X6X5VB391/grounded-figure-for-ta",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_35173b28d17129f4",
-    "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-19T13:13:53Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Public companies object to OKX-ICE’s tokenized stock plan \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5A2J092W3F0S5WH6W7VXXAN/hi-evergreen-guide-about-wall-s",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_deabb49b03d52c2f",
     "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
     "platform": "news",
@@ -389,20 +431,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_c3a9b43dd298dd15",
-    "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-19T12:30:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Strategy buys $22M in Bitcoin, repurchases $193M in STRC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31XS0NMWAFA2WAAJKR59VQ7/hi-strategyb-buys-bitcoin-1.jpg\" ",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -445,20 +473,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_da3267622c9f641e",
-    "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-19T11:57:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59YSQ28A26ADD8VD1ZH7KKN/usd1.png\" /> </p> <",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -608,20 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
     "published_at": "2026-10-19T04:54:31Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e7f998f9bd741350",
-    "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-    "published_at": "2026-10-19T03:36:58Z",
     "engagement": 0,
     "summary": "",
     "tags": [
