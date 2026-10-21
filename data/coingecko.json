@@ -5,26 +5,26 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/universal-high-income-2",
-    "published_at": "2026-10-21T13:27:27Z",
+    "published_at": "2026-10-21T18:23:50Z",
     "engagement": 10,
-    "summary": "Universal High Income is currently trending on CoinGecko, ranked #827 by market cap. Trending position #1.",
+    "summary": "Universal High Income is currently trending on CoinGecko, ranked #776 by market cap. Trending position #1.",
     "tags": [
       "trending",
       "uhi"
     ]
   },
   {
-    "id": "coingecko_axis-robotics",
-    "title": "Axis Robotics (AXIS) is trending on CoinGecko",
+    "id": "coingecko_aerodrome-finance",
+    "title": "Aerodrome Finance (AERO) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/axis-robotics",
-    "published_at": "2026-10-21T13:27:27Z",
+    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+    "published_at": "2026-10-21T18:23:50Z",
     "engagement": 9,
-    "summary": "Axis Robotics is currently trending on CoinGecko, ranked #424 by market cap. Trending position #2.",
+    "summary": "Aerodrome Finance is currently trending on CoinGecko, ranked #85 by market cap. Trending position #2.",
     "tags": [
       "trending",
-      "axis"
+      "aero"
     ]
   },
   {
@@ -33,9 +33,9 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-10-21T13:27:27Z",
+    "published_at": "2026-10-21T18:23:50Z",
     "engagement": 8,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #113 by market cap. Trending position #3.",
+    "summary": "Pudgy Penguins is currently trending on CoinGecko, ranked #112 by market cap. Trending position #3.",
     "tags": [
       "trending",
       "pengu"
@@ -47,124 +47,26 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pearl-2",
-    "published_at": "2026-10-21T13:27:27Z",
+    "published_at": "2026-10-21T18:23:50Z",
     "engagement": 7,
-    "summary": "Pearl is currently trending on CoinGecko, ranked #84 by market cap. Trending position #4.",
+    "summary": "Pearl is currently trending on CoinGecko, ranked #89 by market cap. Trending position #4.",
     "tags": [
       "trending",
       "pearl"
     ]
   },
   {
-    "id": "coingecko_quantus",
-    "title": "Quantus (QTC) is trending on CoinGecko",
+    "id": "coingecko_axis-robotics",
+    "title": "Axis Robotics (AXIS) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/quantus",
-    "published_at": "2026-10-21T13:27:27Z",
+    "url": "https://www.coingecko.com/en/coins/axis-robotics",
+    "published_at": "2026-10-21T18:23:50Z",
     "engagement": 6,
-    "summary": "Quantus is currently trending on CoinGecko, ranked #716 by market cap. Trending position #5.",
+    "summary": "Axis Robotics is currently trending on CoinGecko, ranked #513 by market cap. Trending position #5.",
     "tags": [
       "trending",
-      "qtc"
-    ]
-  },
-  {
-    "id": "coingecko_bitcoin",
-    "title": "Bitcoin (BTC) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": 5,
-    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #6.",
-    "tags": [
-      "trending",
-      "btc"
-    ]
-  },
-  {
-    "id": "coingecko_lighter",
-    "title": "Lighter (LIT) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/lighter",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": 4,
-    "summary": "Lighter is currently trending on CoinGecko, ranked #85 by market cap. Trending position #7.",
-    "tags": [
-      "trending",
-      "lit"
-    ]
-  },
-  {
-    "id": "coingecko_venice-token",
-    "title": "Venice Token (VVV) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/venice-token",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": 3,
-    "summary": "Venice Token is currently trending on CoinGecko, ranked #71 by market cap. Trending position #8.",
-    "tags": [
-      "trending",
-      "vvv"
-    ]
-  },
-  {
-    "id": "coingecko_orbio-so",
-    "title": "Orbio.so (ORBIO) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/orbio-so",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": 2,
-    "summary": "Orbio.so is currently trending on CoinGecko, ranked #510 by market cap. Trending position #9.",
-    "tags": [
-      "trending",
-      "orbio"
-    ]
-  },
-  {
-    "id": "coingecko_aerodrome-finance",
-    "title": "Aerodrome Finance (AERO) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": 1,
-    "summary": "Aerodrome Finance is currently trending on CoinGecko, ranked #86 by market cap. Trending position #10.",
-    "tags": [
-      "trending",
-      "aero"
-    ]
-  },
-  {
-    "id": "coingecko_ethereum",
-    "title": "Ethereum (ETH) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": 0,
-    "summary": "Ethereum is currently trending on CoinGecko, ranked #2 by market cap. Trending position #11.",
-    "tags": [
-      "trending",
-      "eth"
-    ]
-  },
-  {
-    "id": "coingecko_backpack",
-    "title": "Backpack (BP) is trending on CoinGecko",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/backpack",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": -1,
-    "summary": "Backpack is currently trending on CoinGecko, ranked #150 by market cap. Trending position #12.",
-    "tags": [
-      "trending",
-      "bp"
+      "axis"
     ]
   },
   {
@@ -173,26 +75,40 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/zcash",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": -2,
-    "summary": "Zcash is currently trending on CoinGecko, ranked #10 by market cap. Trending position #13.",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": 5,
+    "summary": "Zcash is currently trending on CoinGecko, ranked #10 by market cap. Trending position #6.",
     "tags": [
       "trending",
       "zec"
     ]
   },
   {
-    "id": "coingecko_pons",
-    "title": "Pons (PONS) is trending on CoinGecko",
+    "id": "coingecko_bitcoin",
+    "title": "Bitcoin (BTC) is trending on CoinGecko",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pons",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": -3,
-    "summary": "Pons is currently trending on CoinGecko, ranked #191 by market cap. Trending position #14.",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": 4,
+    "summary": "Bitcoin is currently trending on CoinGecko, ranked #1 by market cap. Trending position #7.",
     "tags": [
       "trending",
-      "pons"
+      "btc"
+    ]
+  },
+  {
+    "id": "coingecko_zama",
+    "title": "Zama (ZAMA) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/zama",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": 3,
+    "summary": "Zama is currently trending on CoinGecko, ranked #180 by market cap. Trending position #8.",
+    "tags": [
+      "trending",
+      "zama"
     ]
   },
   {
@@ -201,12 +117,96 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/quant-network",
-    "published_at": "2026-10-21T13:27:27Z",
-    "engagement": -4,
-    "summary": "Quant is currently trending on CoinGecko, ranked #39 by market cap. Trending position #15.",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": 2,
+    "summary": "Quant is currently trending on CoinGecko, ranked #38 by market cap. Trending position #9.",
     "tags": [
       "trending",
       "qnt"
+    ]
+  },
+  {
+    "id": "coingecko_pons",
+    "title": "Pons (PONS) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pons",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": 1,
+    "summary": "Pons is currently trending on CoinGecko, ranked #190 by market cap. Trending position #10.",
+    "tags": [
+      "trending",
+      "pons"
+    ]
+  },
+  {
+    "id": "coingecko_lighter",
+    "title": "Lighter (LIT) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": 0,
+    "summary": "Lighter is currently trending on CoinGecko, ranked #81 by market cap. Trending position #11.",
+    "tags": [
+      "trending",
+      "lit"
+    ]
+  },
+  {
+    "id": "coingecko_ripple",
+    "title": "XRP (XRP) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ripple",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": -1,
+    "summary": "XRP is currently trending on CoinGecko, ranked #5 by market cap. Trending position #12.",
+    "tags": [
+      "trending",
+      "xrp"
+    ]
+  },
+  {
+    "id": "coingecko_starknet",
+    "title": "Starknet (STRK) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/starknet",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": -2,
+    "summary": "Starknet is currently trending on CoinGecko, ranked #118 by market cap. Trending position #13.",
+    "tags": [
+      "trending",
+      "strk"
+    ]
+  },
+  {
+    "id": "coingecko_iostoken",
+    "title": "IOST (IOST) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/iostoken",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": -3,
+    "summary": "IOST is currently trending on CoinGecko, ranked #391 by market cap. Trending position #14.",
+    "tags": [
+      "trending",
+      "iost"
+    ]
+  },
+  {
+    "id": "coingecko_ethereum",
+    "title": "Ethereum (ETH) is trending on CoinGecko",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "published_at": "2026-10-21T18:23:50Z",
+    "engagement": -4,
+    "summary": "Ethereum is currently trending on CoinGecko, ranked #2 by market cap. Trending position #15.",
+    "tags": [
+      "trending",
+      "eth"
     ]
   }
 ]
