@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_2405188bb0071c5b",
+    "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-21T21:53:48Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5G2G8DNS83ZJANR3X4SZBVD/policymaker-bill",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3254879a8c16facb",
+    "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+    "published_at": "2026-10-21T21:31:02Z",
+    "engagement": 0,
+    "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_142a360a5893d297",
+    "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-21T20:26:07Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tether backs Bolivian fintech bringing USDT payments to food delivery and banking\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FY16RXJTWFR0B5DJ896X4P/hi-from-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_21452969edd33a98",
+    "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-21T20:19:39Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FRT1YGJA9DDV40WJKXE0EP/trump-white-house-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_49522c9d6a1b9a4b",
+    "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+    "published_at": "2026-10-21T20:16:02Z",
+    "engagement": 0,
+    "summary": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-21T20:10:47Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_453dd880b357f879",
+    "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+    "published_at": "2026-10-21T18:46:08Z",
+    "engagement": 0,
+    "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_005cdbd154f217cd",
     "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
     "platform": "news",
@@ -238,20 +336,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-21T13:34:54Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_7101f264f5c7dcda",
     "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
     "platform": "news",
@@ -448,34 +532,6 @@
     ]
   },
   {
-    "id": "news_6c0661508e9c145f",
-    "title": "France proposes liability for crypto exchanges offering DeFi access",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-21T10:46:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"France proposes liability for crypto exchanges offering DeFi access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-fre",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_95799f9fc9d5a6ea",
-    "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-21T10:39:13Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0PB0PYRW4ADV979RY5M5W/hi-on-chain-vol",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_612cdd5f7aa21b1d",
     "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
     "platform": "news",
@@ -491,7 +547,7 @@
   },
   {
     "id": "news_8cfa159143220e9a",
-    "title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
+    "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
@@ -515,20 +571,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_5f6bf2a7b8693691",
-    "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-21T10:22:44Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ES4410V5T0TB2Z1ESB86ZY/hi-south-ko",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_16b75fbdcf704350",
-    "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-    "published_at": "2026-10-20T22:16:04Z",
-    "engagement": 0,
-    "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_45c765d731f6a76f",
-    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-    "published_at": "2026-10-20T21:46:04Z",
-    "engagement": 0,
-    "summary": "The ChatGPT maker is folding Orchestra’s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_660b5bc9203e7c14",
-    "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-    "published_at": "2026-10-20T21:16:04Z",
-    "engagement": 0,
-    "summary": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn’t adding it to its main portfolio models.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
