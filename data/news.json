@@ -1,5 +1,159 @@
 [
   {
+    "id": "news_346edf2e7d317b48",
+    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+    "published_at": "2026-10-23T17:16:03Z",
+    "engagement": 0,
+    "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_295ac468ed196539",
+    "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+    "published_at": "2026-10-23T16:31:03Z",
+    "engagement": 0,
+    "summary": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4f10a01515e76f34",
+    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T16:08:40Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"SEC flags tokenization as high-risk area in 2027 market examinations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MP9HHR5PTKGP6MBRZ5FNFH/hi-irs-joins-the-j5-i",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_209d11b402a10063",
+    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+    "published_at": "2026-10-23T15:50:41Z",
+    "engagement": 0,
+    "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_258d60201e47876e",
+    "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T15:39:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin seeks support above $81K as Brent crude oil hits highest level since March \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MPBY5231GNMGE2Q9V1FYVN/hi-cry",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_9f667d2fe6cc0ed7",
+    "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+    "published_at": "2026-10-23T13:58:56Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T13:38:53Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_de8b3b4b11b3da01",
+    "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+    "published_at": "2026-10-23T13:29:21Z",
+    "engagement": 0,
+    "summary": "The name change is symbolic of the fund’s future investing focus, though the firm will continue investing in crypto.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4066e1b2a4e974a2",
+    "title": "China targets 2030 for its national blockchain network buildout",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T13:21:07Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"China targets 2030 for its national blockchain network buildout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MEGNPQ3M8HRRFF6ZWNHZKK/chinese-blockchain-patents",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_ca4fb3b1a8180cf8",
+    "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
+    "published_at": "2026-10-23T13:18:18Z",
+    "engagement": 0,
+    "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_cfffcf78405d3bf6",
+    "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-23T12:33:37Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"New York AG seeks $1.37B from NovaTech founders over Ponzi scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5M9W5Y4WRYGA8MNYB0WFHZF/hi-status-of-prediction-",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_aa58f9f0ffa3676f",
     "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
     "platform": "news",
@@ -11,6 +165,20 @@
     "tags": [
       "news",
       "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3ca18cb27b3d024e",
+    "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+    "published_at": "2026-10-23T12:03:53Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
     ]
   },
   {
@@ -57,7 +225,7 @@
   },
   {
     "id": "news_d71a18256f5fe77c",
-    "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
+    "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
@@ -238,20 +406,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-23T05:15:14Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_9ffd2d4418ea1797",
     "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
     "platform": "news",
@@ -350,34 +504,6 @@
     ]
   },
   {
-    "id": "news_971c2896368cc48a",
-    "title": "Pentagon bans US forces from using military info to bet in prediction markets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-22T23:50:42Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Pentagon bans US forces from using military info to bet in prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K096NQSA2F50PNPGJYG3Z7/soldier.jpg\"",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_2ae9f843b682032a",
-    "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-22T22:50:22Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg\" />",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_7e90e2a6c53a7220",
     "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
     "platform": "news",
@@ -406,20 +532,6 @@
     ]
   },
   {
-    "id": "news_f7d8b1380a833c0f",
-    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-22T21:39:18Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JK4F3B2YXBP85MJ4RJSMWE/judge-law",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_0e220e60fc74e65e",
     "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
     "platform": "news",
@@ -431,20 +543,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_e6daf4724abd1b11",
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-22T20:36:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Dune launches real-time data feeds covering 200 onchain trading venues \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JGN1ZK06QVTDRZ4G9H7NNP/hi-crypto-trading-",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -526,104 +624,6 @@
     "published_at": "2026-10-22T17:33:38Z",
     "engagement": 0,
     "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_a13b39c5258ccb9a",
-    "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-    "published_at": "2026-10-22T16:31:07Z",
-    "engagement": 0,
-    "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_bc73a3bcedc86ca5",
-    "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
-    "published_at": "2026-10-22T15:45:07Z",
-    "engagement": 0,
-    "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_82809c8e301f4a28",
-    "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-    "published_at": "2026-10-22T15:40:25Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_61cd24ac041eaf17",
-    "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-    "published_at": "2026-10-22T15:24:18Z",
-    "engagement": 0,
-    "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_09e3de0be52632b1",
-    "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-    "published_at": "2026-10-22T14:58:31Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_afc0718c7e28a47b",
-    "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
-    "published_at": "2026-10-22T14:04:48Z",
-    "engagement": 0,
-    "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_094cd75e163d01ac",
-    "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-    "published_at": "2026-10-22T12:01:03Z",
-    "engagement": 0,
-    "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
     "tags": [
       "news",
       "decrypt"
