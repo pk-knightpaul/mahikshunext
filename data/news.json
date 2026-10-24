@@ -1,5 +1,117 @@
 [
   {
+    "id": "news_1406f5c70f6458db",
+    "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+    "published_at": "2026-10-24T17:01:02Z",
+    "engagement": 0,
+    "summary": "A policy change effective Oct. 16 carves out an exception to Google’s long-standing pledge—letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_01765e01090b8e3c",
+    "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+    "published_at": "2026-10-24T16:01:03Z",
+    "engagement": 0,
+    "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_df6d79ad7991b718",
+    "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+    "published_at": "2026-10-24T16:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_14cdf5b43829db24",
+    "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+    "published_at": "2026-10-24T15:21:06Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_5d8aed6b88bfe626",
+    "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+    "published_at": "2026-10-24T15:11:24Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_aa731226c3b8e867",
+    "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
+    "published_at": "2026-10-24T15:01:02Z",
+    "engagement": 0,
+    "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_96e263edf8737c32",
+    "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+    "published_at": "2026-10-24T15:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_652beee0d14a471c",
+    "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+    "published_at": "2026-10-24T14:38:47Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_ee7b92ab4c10da3e",
     "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
     "platform": "news",
@@ -14,11 +126,11 @@
     ]
   },
   {
-    "id": "news_940e55205b44222d",
+    "id": "news_d9bb4b4d2153a521",
     "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
     "platform": "news",
     "content_type": "article",
-    "url": "https://www.coindesk.com/",
+    "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
     "published_at": "2026-10-24T14:00:00Z",
     "engagement": 0,
     "summary": "",
@@ -448,40 +560,12 @@
     ]
   },
   {
-    "id": "news_1327bc427e4072f4",
-    "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
-    "published_at": "2026-10-23T10:54:35Z",
-    "engagement": 0,
-    "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_1c5ac2d5d38cb82a",
     "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
     "published_at": "2026-10-23T10:53:09Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_85fc56c51052f1a4",
-    "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-    "published_at": "2026-10-23T10:22:56Z",
     "engagement": 0,
     "summary": "",
     "tags": [
@@ -518,34 +602,6 @@
     ]
   },
   {
-    "id": "news_568c5cce48f1977a",
-    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-    "published_at": "2026-10-23T08:57:34Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_76b334aa6eed608e",
-    "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-    "published_at": "2026-10-23T08:55:35Z",
-    "engagement": 0,
-    "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_c39c29e5ca1e0535",
     "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
     "platform": "news",
@@ -560,20 +616,6 @@
     ]
   },
   {
-    "id": "news_941c1ff4da4ab28b",
-    "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-    "published_at": "2026-10-23T08:02:35Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_70db50e2729f1e3d",
     "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
     "platform": "news",
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_140982d24e496e58",
-    "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-    "published_at": "2026-10-23T05:01:19Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_5bb5df3f2308694a",
-    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "published_at": "2026-10-23T04:59:34Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_d6f8e7695b8bb7d9",
-    "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
-    "published_at": "2026-10-22T22:21:46Z",
-    "engagement": 0,
-    "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
