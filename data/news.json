@@ -1,5 +1,229 @@
 [
   {
+    "id": "news_a1b3ef285e343ecb",
+    "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+    "published_at": "2026-10-27T19:16:03Z",
+    "engagement": 0,
+    "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1bc8f2450a54a80a",
+    "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+    "published_at": "2026-10-27T19:07:59Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_e54f56c5ef4debea",
+    "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
+    "published_at": "2026-10-27T18:46:02Z",
+    "engagement": 0,
+    "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_40cfc564e1c73dab",
+    "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+    "published_at": "2026-10-27T18:16:02Z",
+    "engagement": 0,
+    "summary": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bf24e34bbed59140",
+    "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+    "published_at": "2026-10-27T18:13:02Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_8c3d732be9ea5575",
+    "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T18:08:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Majority of Americans want candidates who support US-based financial technology: Poll\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YWQC6FH57C96HKBNEK40R3/hi-v",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3d17bc5de69b2d8c",
+    "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+    "published_at": "2026-10-27T17:45:18Z",
+    "engagement": 0,
+    "summary": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia’s instant-payments network.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c9ac2f19c712045a",
+    "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+    "published_at": "2026-10-27T16:59:07Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c4191bedcdd2b1e1",
+    "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+    "published_at": "2026-10-27T16:53:44Z",
+    "engagement": 0,
+    "summary": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_96da450a21a53109",
+    "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+    "published_at": "2026-10-27T16:53:13Z",
+    "engagement": 0,
+    "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_83e63efc125bc0f8",
+    "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T16:37:15Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-fo",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_71b1d394fd44bacd",
+    "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+    "published_at": "2026-10-27T16:35:29Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c2f8f8107bb3a482",
+    "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T15:59:58Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YYH4W8ZJZR3K8EWNZDKXQ3/coin-cru",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_eb593e840d3dae20",
+    "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+    "published_at": "2026-10-27T14:31:02Z",
+    "engagement": 0,
+    "summary": "Crypto traders think the McRib’s return to McDonald's means a Bitcoin pump is coming. Experts say there is \"no correlation at all.\"",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a9f5d030670fb69a",
+    "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+    "published_at": "2026-10-27T14:21:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_13f51a69f95827a8",
+    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+    "published_at": "2026-10-27T14:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_603e55c79c73153c",
     "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
     "platform": "news",
@@ -21,7 +245,7 @@
     "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-10-27T13:30:00Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto could outperform AI stocks: Wall Street veteran Jordi Visser \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W5ECKJ4SW0V5ZA2BKG1Q5H/trade-secrets-jordi-v",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Crypto could outperform AI stocks: Wall Street veteran Jordi Visser\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W5ECKJ4SW0V5ZA2BKG1Q5H/trade-secrets-jordi-vi",
     "tags": [
       "news",
       "cointelegraph"
@@ -91,7 +315,7 @@
     "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-10-27T13:01:00Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YDNW5100FXXDD1HKRTGV6P/hi-institutional-tra",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YDNW5100FXXDD1HKRTGV6P/hi-institutional-trad",
     "tags": [
       "news",
       "cointelegraph"
@@ -119,7 +343,7 @@
     "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-10-27T12:18:24Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price analysis sees ‘strong rally’ as old coins become dormant \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-sto",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin price analysis sees ‘strong rally’ as old coins become dormant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-stor",
     "tags": [
       "news",
       "cointelegraph"
@@ -155,7 +379,7 @@
   },
   {
     "id": "news_3aae13badaee7660",
-    "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+    "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
@@ -308,20 +532,6 @@
     ]
   },
   {
-    "id": "news_b56d47ca791fcb85",
-    "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-    "published_at": "2026-10-27T07:44:04Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_c77e0a9aec4ab4f0",
     "title": "Bitcoin ETFs claw back $110M after $774M exit",
     "platform": "news",
@@ -333,48 +543,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_f53e2dc2d784a00a",
-    "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-    "published_at": "2026-10-27T07:09:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_b4341a401c7132a6",
-    "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-    "published_at": "2026-10-27T06:14:41Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_58b1d41456044f7f",
-    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-    "published_at": "2026-10-27T04:28:49Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -448,34 +616,6 @@
     ]
   },
   {
-    "id": "news_89177d5b45005840",
-    "title": "US OCC calls on community banks to become payment stablecoin issuers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T21:38:30Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US OCC calls on community banks to become payment stablecoin issuers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_96f0b108bf065b61",
-    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T21:23:32Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Injective launches onchain futures market tracking Nvidia GPU rental costs \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-trai",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_893cde68fa6060a4",
     "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
     "platform": "news",
@@ -487,146 +627,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_4cdeec5404e841f3",
-    "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
-    "published_at": "2026-10-26T20:36:03Z",
-    "engagement": 0,
-    "summary": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_4b6a9dee387e3a06",
-    "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
-    "published_at": "2026-10-26T20:06:02Z",
-    "engagement": 0,
-    "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_73ae7e4637445e21",
-    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T19:47:40Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Canada opens consultation on stablecoins, citing US GENIUS Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WMT5NDYKE425567R7TVKYC/hi-how-to-buy-cryptocurrenc",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_f73f74d471743472",
-    "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
-    "published_at": "2026-10-26T19:31:02Z",
-    "engagement": 0,
-    "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_379521bfcfe0d9d7",
-    "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-    "published_at": "2026-10-26T18:46:03Z",
-    "engagement": 0,
-    "summary": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_75b0134f2bafaa87",
-    "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
-    "published_at": "2026-10-26T18:16:02Z",
-    "engagement": 0,
-    "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_90fd822f543402a4",
-    "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-    "published_at": "2026-10-26T17:41:21Z",
-    "engagement": 0,
-    "summary": "A confirmed exploit let rogue servers replace Electrum’s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_68cae43637cbd13e",
-    "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-    "published_at": "2026-10-26T16:36:03Z",
-    "engagement": 0,
-    "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_07a1360d15f0bb17",
-    "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-    "published_at": "2026-10-26T16:05:12Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_3052ae9d360ffbef",
-    "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-    "published_at": "2026-10-26T15:59:55Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   }
 ]
