@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_f53e2dc2d784a00a",
+    "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+    "published_at": "2026-10-27T07:09:56Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b4341a401c7132a6",
+    "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+    "published_at": "2026-10-27T06:14:41Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_043a2bf5f6f78168",
+    "title": "Here’s what happened in crypto today",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T06:08:28Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_58b1d41456044f7f",
+    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+    "published_at": "2026-10-27T04:28:49Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_ed1ec635bd13c5a9",
+    "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T04:26:51Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"RedotPay weighs confidential US IPO filing by year-end: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XSNRW4CBJ96JZZYQ53J31D/ipo.jpg\" /> </p> <p>The ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_7c02360a8ab51790",
+    "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T01:55:03Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Keystone breach deepens: Hackers stole key used to verify wallets as genuine\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-v",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_4594570b69253822",
     "title": "Ripple wins final US approval for national trust bank",
     "platform": "news",
@@ -406,20 +490,6 @@
     ]
   },
   {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T13:26:47Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_fb66dbbd3c03f7a5",
     "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
     "platform": "news",
@@ -518,20 +588,6 @@
     ]
   },
   {
-    "id": "news_e4fa6b8e1e7274e9",
-    "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T10:49:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VWYCQ5ATPVXMVHFJSGW9JY/",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_6adc7071f1d0f452",
     "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
     "platform": "news",
@@ -543,20 +599,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_f55b8be6f277dd26",
-    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T10:25:01Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Securitize’s tokenized stock value halves as Circle widens lead\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HFDYJCKJWQTKRMYKMVPJFP/hi-how-ondo-finance-plans-",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -580,48 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
     "published_at": "2026-10-26T07:18:24Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_c3859884fb76269f",
-    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-    "published_at": "2026-10-26T05:39:17Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_128bbb42a21b9700",
-    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-    "published_at": "2026-10-26T05:15:20Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_225db51341cd59b3",
-    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-    "published_at": "2026-10-26T04:37:02Z",
     "engagement": 0,
     "summary": "",
     "tags": [
