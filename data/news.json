@@ -1,5 +1,75 @@
 [
   {
+    "id": "news_4594570b69253822",
+    "title": "Ripple wins final US approval for national trust bank",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-27T00:06:41Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ripple wins final US approval for national trust bank\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg\" /> </p> <",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3584e4c1179e07a6",
+    "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+    "published_at": "2026-10-26T22:16:03Z",
+    "engagement": 0,
+    "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_34f48eaf83917f41",
+    "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+    "published_at": "2026-10-26T21:46:02Z",
+    "engagement": 0,
+    "summary": "OpenAI's mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_89177d5b45005840",
+    "title": "US OCC calls on community banks to become payment stablecoin issuers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-26T21:38:30Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US OCC calls on community banks to become payment stablecoin issuers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WZ9ZYBPWXY53Q33BECCJE8/hi-coin-entering-bank",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_96f0b108bf065b61",
+    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-26T21:23:32Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Injective launches onchain futures market tracking Nvidia GPU rental costs \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-trai",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_893cde68fa6060a4",
     "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
     "platform": "news",
@@ -392,34 +462,6 @@
     ]
   },
   {
-    "id": "news_e20fb1c566cab5c5",
-    "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
-    "published_at": "2026-10-26T13:02:43Z",
-    "engagement": 0,
-    "summary": "Analysts point to a sell-off in AI stocks and ETF outflows, with HashKey's Tim Sun flagging $75,000 as the next key support level.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_3cb19959ab95a82f",
-    "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
-    "published_at": "2026-10-26T13:01:02Z",
-    "engagement": 0,
-    "summary": "Galaxy Research says Bitcoin’s bear market ended in June, pointing to a reclaimed 50-week moving average, fading selling pressure, and a strengthening debasement case.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_a684c187eadaeb26",
     "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
     "platform": "news",
@@ -532,20 +574,6 @@
     ]
   },
   {
-    "id": "news_bbdc28aa6b708678",
-    "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T08:20:49Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin ETFs break 2-week outflow streak with $301M comeback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VG5FEK5DYH3VAXH3PE69X7/bitcoin-etf-7.jpg\" /> </p> <p",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_655213fe8d75b1cd",
     "title": "Over 11 million bitcoin has no known owner. Here's what it means",
     "platform": "news",
@@ -588,20 +616,6 @@
     ]
   },
   {
-    "id": "news_07bb4c90d71ba3a2",
-    "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T05:13:33Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Musk warns over 200 AI neoclouds face ‘guppy-level death’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V9QJTD4JBK5A7JDR7EG1T1/musk.jpg\" /> </p> <p>The warning",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_225db51341cd59b3",
     "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
     "platform": "news",
@@ -613,20 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_fca4c031bc6d9993",
-    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-26T03:21:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Hong Kong names Nasdaq-listed Solana Company a strategic enterprise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   }
 ]
