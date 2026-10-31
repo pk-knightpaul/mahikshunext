@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_b6317eb46e457af7",
+    "title": "Why AI Models Cheat: Reward Hacking, Explained",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+    "published_at": "2026-10-31T13:01:03Z",
+    "engagement": 0,
+    "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_45b4798e0b02fa69",
+    "title": "18 years in, what has Bitcoin truly done?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+    "published_at": "2026-10-31T13:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_89844ad0eea96074",
+    "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+    "published_at": "2026-10-31T12:49:47Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1ed24d4b4d6f63e6",
+    "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+    "published_at": "2026-10-31T12:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_85b05f4073bf8bf0",
+    "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-31T11:22:49Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Blockchain investigator Chainalysis hit by cybersecurity incident \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-ag",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_56a4020c8827930b",
+    "title": "Binance $6.3B record hack sparks pre-election political clashes",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-31T09:58:50Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance $6.3B record hack sparks pre-election political clashes \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg\" /> </p> <",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_11187a59fc5d3845",
     "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
     "platform": "news",
@@ -490,34 +574,6 @@
     ]
   },
   {
-    "id": "news_1c63cde9175152e2",
-    "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-30T11:00:10Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"EIP-7702 didn’t cause Binance hack, but may have amplified losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg\" /> ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a02cc17a77a81c2c",
-    "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-30T10:54:30Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-tr",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_8f74fac4084507a1",
     "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
     "platform": "news",
@@ -546,20 +602,6 @@
     ]
   },
   {
-    "id": "news_cfb5d09af7d39c1d",
-    "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-    "published_at": "2026-10-30T09:31:59Z",
-    "engagement": 0,
-    "summary": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_dcd76d02d6232935",
     "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
     "platform": "news",
@@ -580,48 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
     "published_at": "2026-10-30T07:54:07Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_c5292045f46b9840",
-    "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-    "published_at": "2026-10-30T06:22:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_8a7f40bfabbf137b",
-    "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-    "published_at": "2026-10-30T05:45:27Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_005fcf424dee3333",
-    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-    "published_at": "2026-10-30T05:43:07Z",
     "engagement": 0,
     "summary": "",
     "tags": [
