@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_d1ae876d4cf47023",
+    "title": "Binance hackers raced to move billions before it could be frozen",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-10-30T22:00:00Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance hackers raced to move billions before it could be frozen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crim",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_bc9d1f5a0e972ea9",
+    "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+    "published_at": "2026-10-30T21:16:04Z",
+    "engagement": 0,
+    "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_3cfc2caf1469b0f9",
+    "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
+    "published_at": "2026-10-30T20:53:23Z",
+    "engagement": 0,
+    "summary": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_980197f6015ba936",
     "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
     "platform": "news",
@@ -267,13 +309,13 @@
   },
   {
     "id": "news_841e67478e8795e1",
-    "title": "Binance working with FBI to recover assets following $6.3B hack",
+    "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-10-30T13:11:10Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance working with FBI to recover assets following $6.3B hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66DY7634YFAY00EZKKKTQV0/hi-crypto-crime-investigat",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FBI and Secret Service join response to Binance’s $6.3B hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66DY7634YFAY00EZKKKTQV0/hi-crypto-crime-investigation",
     "tags": [
       "news",
       "cointelegraph"
@@ -462,20 +504,6 @@
     ]
   },
   {
-    "id": "news_1514c4e6e0318026",
-    "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-30T09:52:29Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_bc6dc704c91dd8c8",
     "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_4dfed0431a035dab",
-    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-    "published_at": "2026-10-29T22:57:48Z",
-    "engagement": 0,
-    "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_d2cf02715ca0287d",
-    "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-    "published_at": "2026-10-29T21:36:24Z",
-    "engagement": 0,
-    "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
