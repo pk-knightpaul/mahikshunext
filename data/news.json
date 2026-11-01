@@ -1,5 +1,47 @@
 [
   {
+    "id": "news_1320a15a6ccbf37d",
+    "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+    "published_at": "2026-11-01T19:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_5f142f5c91db9f38",
+    "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+    "published_at": "2026-11-01T17:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1078f846b2095338",
+    "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+    "published_at": "2026-11-01T16:01:02Z",
+    "engagement": 0,
+    "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
     "id": "news_81e934503d8e4a78",
     "title": "The key races to watch for the 2026 election",
     "platform": "news",
@@ -336,34 +378,6 @@
     ]
   },
   {
-    "id": "news_45b4798e0b02fa69",
-    "title": "18 years in, what has Bitcoin truly done?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-    "published_at": "2026-10-31T13:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_89844ad0eea96074",
-    "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-    "published_at": "2026-10-31T12:49:47Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_85b05f4073bf8bf0",
     "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
     "platform": "news",
@@ -610,20 +624,6 @@
     "published_at": "2026-10-30T13:00:09Z",
     "engagement": 0,
     "summary": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_64f7e70132a4ddad",
-    "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
-    "published_at": "2026-10-30T12:31:30Z",
-    "engagement": 0,
-    "summary": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
     "tags": [
       "news",
       "decrypt"
