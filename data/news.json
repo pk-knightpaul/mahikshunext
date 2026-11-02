@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_1547210f482664cd",
+    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+    "published_at": "2026-11-02T06:46:41Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_685c8eab2412851b",
+    "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-02T05:34:02Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"BTCPay Server warns of hot wallet thefts running on outdated software\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg\" ",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_351b681a82af4825",
+    "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+    "published_at": "2026-11-02T05:18:12Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_b9f9806ef54e2855",
+    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "published_at": "2026-11-02T04:42:22Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_a52597637b4f2169",
+    "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+    "published_at": "2026-11-02T04:41:16Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_bf80be3450f25395",
+    "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-02T03:55:50Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bank of Korea probes financial firms’ exposure to crypto risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-bala",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_152c7e753cc4b617",
+    "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-02T01:51:48Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"THORChain halts swaps after block reorg bug, slowing Binance hackers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-block",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_58e4a71c4c2337c9",
     "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
     "platform": "news",
@@ -15,13 +113,13 @@
   },
   {
     "id": "news_3580297ac242afd4",
-    "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+    "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-11-01T23:09:13Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collag",
     "tags": [
       "news",
       "cointelegraph"
@@ -294,20 +392,6 @@
     ]
   },
   {
-    "id": "news_9a4add69c777e9bd",
-    "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-    "published_at": "2026-10-31T15:24:10Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_d081c8674a69f198",
     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
     "platform": "news",
@@ -322,34 +406,6 @@
     ]
   },
   {
-    "id": "news_64d132805cf23c81",
-    "title": "Institutions embrace crypto staking despite shrinking yields",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-    "published_at": "2026-10-31T15:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_40b05d394f16f048",
-    "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-    "published_at": "2026-10-31T14:40:29Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_39823fdc0212c19a",
     "title": "Bitcoin turns 18: Has the original rebel grown up?",
     "platform": "news",
@@ -361,20 +417,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_c97bb576aeda3b58",
-    "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-    "published_at": "2026-10-31T14:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
     ]
   },
   {
@@ -428,20 +470,6 @@
     "published_at": "2026-10-31T09:58:50Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance $6.3B record hack sparks pre-election political clashes \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg\" /> </p> <",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_d1ae876d4cf47023",
-    "title": "Binance hackers raced to move billions before it could be frozen",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-30T22:00:00Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance hackers raced to move billions before it could be frozen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66R86X5ZSP95YYCM3AYG2MN/hi-north-korean-hack-crim",
     "tags": [
       "news",
       "cointelegraph"
@@ -504,20 +532,6 @@
     ]
   },
   {
-    "id": "news_83a4ad23971d3eb5",
-    "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-30T19:01:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M671D68XPHRMK1R429A6YV2Q/analytics3-tether.j",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_024feaf6953b1fcf",
     "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
     "platform": "news",
@@ -557,20 +571,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_c3a4301b50c0f75a",
-    "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-10-30T17:48:27Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Coinbase leads crypto stock selloff following $6.3B Binance hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WKPS8FDGYTHCJZHC1FP3Y/hi-why-bitcoin-treasury-s",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
