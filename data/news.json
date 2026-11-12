@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_34dba119c82b79bf",
+    "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+    "published_at": "2026-11-12T05:49:44Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_25eb087409675081",
+    "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+    "published_at": "2026-11-12T05:22:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_8402cf57f05f4ce2",
+    "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+    "published_at": "2026-11-12T05:18:43Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6f57150166baa51a",
+    "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-12T05:07:11Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-cryp",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_8eeefc2de83d3754",
+    "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+    "published_at": "2026-11-12T04:03:47Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_fef13667bdefb1a2",
+    "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-12T00:09:13Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"MSCI confirms Strategy’s removal from indexes at end of November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-m",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_bd340f866c8aeec1",
+    "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-11T23:18:44Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Suiet wallet to shut down in latest exit from Sui ecosystem\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M764ZRJVHMZ7S56SH3QEE7QS/bank-building-hall-entrance-do",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_7dd639f1b6fd3c5d",
     "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
     "platform": "news",
@@ -7,7 +105,7 @@
     "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-11-11T22:44:47Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg\" /> </p> <p>Nvidia",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg\" /> </p> <p>The re",
     "tags": [
       "news",
       "cointelegraph"
@@ -25,20 +123,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-11T22:15:26Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -379,13 +463,13 @@
   },
   {
     "id": "news_51ae7fdd43126f3d",
-    "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+    "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published_at": "2026-11-11T12:44:10Z",
     "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FSB urgest Turkey to tighten crypto oversight, set stablecoin rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-docu",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FSB urges Turkey to tighten crypto oversight, set stablecoin rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-docum",
     "tags": [
       "news",
       "cointelegraph"
@@ -448,20 +532,6 @@
     ]
   },
   {
-    "id": "news_3ad28e3f81e0c19f",
-    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-11T11:56:23Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png\" />",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_5c8f54774c80343a",
     "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
     "platform": "news",
@@ -473,20 +543,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_299ddb42b5179a35",
-    "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-11T11:30:36Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Kraken parent adds over 200 tokenized UK and EU stocks to xStocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M754161WFNVA9S5R4FHHT1TZ/hi-cryptocurrency-vs-sto",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -566,62 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
     "published_at": "2026-11-10T17:32:22Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_fe56b2414ff435e1",
-    "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-    "published_at": "2026-11-10T17:07:22Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_3695cba9ed8c6edb",
-    "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-    "published_at": "2026-11-10T15:51:56Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_3e79b60e245430e8",
-    "title": "Will stablecoins survive once the banks catch up?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-    "published_at": "2026-11-10T14:00:00Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_28b20b9d472ca6e0",
-    "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
-    "published_at": "2026-11-10T13:32:09Z",
     "engagement": 0,
     "summary": "",
     "tags": [
