@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_2bd65f4f0cce2d4a",
+    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+    "published_at": "2026-11-14T18:01:02Z",
+    "engagement": 0,
+    "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_10f1e096d4b97864",
+    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+    "published_at": "2026-11-14T17:01:02Z",
+    "engagement": 0,
+    "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_6639c3891073cda7",
+    "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+    "published_at": "2026-11-14T16:33:29Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_487c7aec411ff10d",
+    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+    "published_at": "2026-11-14T16:33:23Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_9aa29a9320bec7c3",
+    "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+    "published_at": "2026-11-14T16:01:02Z",
+    "engagement": 0,
+    "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_b918d6c7270c0261",
+    "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+    "published_at": "2026-11-14T15:38:27Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c6edf19e65a23c78",
+    "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+    "published_at": "2026-11-14T15:00:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_3baeba662fbedf47",
     "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
     "platform": "news",
@@ -476,20 +574,6 @@
     ]
   },
   {
-    "id": "news_3012a19fabb41431",
-    "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
-    "published_at": "2026-11-13T11:58:47Z",
-    "engagement": 0,
-    "summary": "An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_4b6d18197b0a430d",
     "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
     "platform": "news",
@@ -501,34 +585,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_0f46772695ef8b3a",
-    "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
-    "published_at": "2026-11-13T11:20:44Z",
-    "engagement": 0,
-    "summary": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_43938483e86251b9",
-    "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
-    "published_at": "2026-11-13T10:55:54Z",
-    "engagement": 0,
-    "summary": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
@@ -566,62 +622,6 @@
     "content_type": "article",
     "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
     "published_at": "2026-11-13T09:16:58Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_f60812551964f551",
-    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-    "published_at": "2026-11-13T07:05:29Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_2f34e556993a55e7",
-    "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-    "published_at": "2026-11-13T06:03:41Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_5b07f09552a06732",
-    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "published_at": "2026-11-13T05:45:26Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_e0384f5c33c1ef33",
-    "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-    "published_at": "2026-11-13T05:08:59Z",
     "engagement": 0,
     "summary": "",
     "tags": [
