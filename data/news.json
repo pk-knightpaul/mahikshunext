@@ -1,5 +1,89 @@
 [
   {
+    "id": "news_020a15a1edf23116",
+    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "published_at": "2026-11-18T05:30:10Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_5645e63938edc2e0",
+    "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "published_at": "2026-11-18T04:34:21Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_1740becdd44b8927",
+    "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+    "published_at": "2026-11-18T04:28:37Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_c62ab588a59bafac",
+    "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-18T02:39:52Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ledger hardware implant saga reaches Dubai’s Virgin Megastore\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg\" /> </p> <p>T",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_54f0526860704a49",
+    "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+    "published_at": "2026-11-18T00:46:25Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_849c5eaa2b357177",
+    "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-18T00:16:43Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Nvidia board rejects Huang comeback despite record $116B quarter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-imp",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
     "id": "news_ef0c9802e23f7268",
     "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
     "platform": "news",
@@ -25,20 +109,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_043a2bf5f6f78168",
-    "title": "Here’s what happened in crypto today",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-17T22:37:51Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -99,7 +169,7 @@
   },
   {
     "id": "news_f4fb60cc37868744",
-    "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+    "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
@@ -518,34 +588,6 @@
     ]
   },
   {
-    "id": "news_b98a0b66f35b6361",
-    "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-    "published_at": "2026-11-17T11:29:51Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_8c44755f843f5bd2",
-    "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-    "published_at": "2026-11-17T11:25:58Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_4136aae98ace0420",
     "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
     "platform": "news",
@@ -585,48 +627,6 @@
     "tags": [
       "news",
       "decrypt"
-    ]
-  },
-  {
-    "id": "news_54c0b1894825b2c3",
-    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-    "published_at": "2026-11-17T10:48:12Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_922eeb9cebe7de63",
-    "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-    "published_at": "2026-11-17T10:33:26Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_2b827bd4ca57820e",
-    "title": "Google says hackers use AI agents to find and exploit software flaws",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-17T10:05:59Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Google says hackers use AI agents to find and exploit software flaws\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   }
 ]
