@@ -1,5 +1,103 @@
 [
   {
+    "id": "news_7d8f4ef8bdc07605",
+    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+    "published_at": "2026-11-21T18:01:02Z",
+    "engagement": 0,
+    "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_50a435182dc39976",
+    "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "published_at": "2026-11-21T17:50:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_79f4104b0e57176f",
+    "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+    "published_at": "2026-11-21T17:01:02Z",
+    "engagement": 0,
+    "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_c1d289258c9e8b15",
+    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+    "published_at": "2026-11-21T16:41:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_6138b9b26525c2d1",
+    "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+    "published_at": "2026-11-21T16:01:02Z",
+    "engagement": 0,
+    "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_99e1ccbb875e4e6a",
+    "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+    "published_at": "2026-11-21T14:01:06Z",
+    "engagement": 0,
+    "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_6082857bd2918a2c",
+    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "published_at": "2026-11-21T12:30:00Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
     "id": "news_043a2bf5f6f78168",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
@@ -448,20 +546,6 @@
     ]
   },
   {
-    "id": "news_549f755ff4c971d1",
-    "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-    "published_at": "2026-11-20T12:15:08Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_48b193d4cf06c24c",
     "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
     "platform": "news",
@@ -490,20 +574,6 @@
     ]
   },
   {
-    "id": "news_bef66a471b57336b",
-    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-    "published_at": "2026-11-20T11:42:02Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_bcc0246444e75546",
     "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
     "platform": "news",
@@ -515,20 +585,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_4047b8272f690cd3",
-    "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
-    "published_at": "2026-11-20T11:23:00Z",
-    "engagement": 0,
-    "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   },
   {
@@ -546,20 +602,6 @@
     ]
   },
   {
-    "id": "news_658b48c60c24e161",
-    "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-    "published_at": "2026-11-20T10:48:04Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
     "id": "news_033721cda9bd5077",
     "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
     "platform": "news",
@@ -574,20 +616,6 @@
     ]
   },
   {
-    "id": "news_d900deca3e1cc0ee",
-    "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-    "published_at": "2026-11-20T10:07:46Z",
-    "engagement": 0,
-    "summary": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
     "id": "news_11a94c57b5b25563",
     "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
     "platform": "news",
@@ -599,34 +627,6 @@
     "tags": [
       "news",
       "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_26866164fb290535",
-    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-    "published_at": "2026-11-19T22:36:02Z",
-    "engagement": 0,
-    "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_8499656a2671af76",
-    "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-    "published_at": "2026-11-19T21:12:06Z",
-    "engagement": 0,
-    "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-    "tags": [
-      "news",
-      "decrypt"
     ]
   }
 ]
