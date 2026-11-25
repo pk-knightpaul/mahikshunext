@@ -1,13 +1,13 @@
 [
   {
-    "id": "news_62f5e52fa9f6336d",
-    "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+    "id": "news_58793a856ad1357a",
+    "title": "China's Google Just Released Its Fast New AI Model for Free",
     "platform": "news",
     "content_type": "article",
-    "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-    "published_at": "2026-11-25T13:41:38Z",
+    "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+    "published_at": "2026-11-25T22:38:09Z",
     "engagement": 0,
-    "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.",
+    "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
     "tags": [
       "news",
       "decrypt"
@@ -19,12 +19,376 @@
     "platform": "news",
     "content_type": "article",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T13:26:05Z",
+    "published_at": "2026-11-25T22:33:13Z",
     "engagement": 0,
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /> </p> <p>Need to know what ha",
     "tags": [
       "news",
       "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_f7f2f5b635bc1733",
+    "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T21:53:38Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Switzerland clears 57 jurisdictions for crypto tax data sharing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxe",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_02b8088468663805",
+    "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+    "published_at": "2026-11-25T21:46:02Z",
+    "engagement": 0,
+    "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a1f72cd3f0d052cd",
+    "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T21:22:19Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Braiins warns of Bitcoin mining attacks affecting over 1,000 sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-near",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_b074d196ba01df06",
+    "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+    "published_at": "2026-11-25T21:16:02Z",
+    "engagement": 0,
+    "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_59c059c4823e84ef",
+    "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T21:11:39Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Why ECB collateral eligibility could boost demand for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-dig",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_73ecb62e87ae2a54",
+    "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+    "published_at": "2026-11-25T20:36:03Z",
+    "engagement": 0,
+    "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4355b7984f8eb0f9",
+    "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+    "published_at": "2026-11-25T20:06:03Z",
+    "engagement": 0,
+    "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_76699ec43e3258b2",
+    "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+    "published_at": "2026-11-25T19:28:54Z",
+    "engagement": 0,
+    "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_bdc43d85741ba79e",
+    "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T18:54:51Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ethereum Foundation backs Keccak-256 to counter quantum, AI threats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SXA51G4YCM0WZSF0YF9C3/ethereum-characters-in",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_d56d784a77393253",
+    "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+    "published_at": "2026-11-25T18:24:47Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_4e177e293dc76e02",
+    "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+    "published_at": "2026-11-25T18:18:10Z",
+    "engagement": 0,
+    "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_1eca9970cb0959a9",
+    "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T17:53:10Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89S8XMNYBMPKRXCHB0PC12Q/make-bit",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_3f2c948653b39264",
+    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+    "published_at": "2026-11-25T17:46:02Z",
+    "engagement": 0,
+    "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_a789f667ba83f7d1",
+    "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+    "published_at": "2026-11-25T17:38:33Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_809d32fd8f008ad2",
+    "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T17:33:22Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RQDCSS11KJ2G00H0WCG5F/article-co",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_473e0ab23902f705",
+    "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T17:19:33Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Nvidia agrees to $290M settlement over crypto mining revenue disclosures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RFTEF8CMJP9QP016YWPAR/hi-the-action-aga",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_d28306d8ed872470",
+    "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+    "published_at": "2026-11-25T17:16:02Z",
+    "engagement": 0,
+    "summary": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_2fa0a8fbd3940548",
+    "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T17:10:53Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89THTPYBFG3C2HD4QRYNZJM/spaceblack-holem",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_56aecf8aa735cd7c",
+    "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+    "published_at": "2026-11-25T16:52:50Z",
+    "engagement": 0,
+    "summary": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_4be3484ede26b1b7",
+    "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+    "published_at": "2026-11-25T16:07:35Z",
+    "engagement": 0,
+    "summary": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
+    "tags": [
+      "news",
+      "decrypt"
+    ]
+  },
+  {
+    "id": "news_d1314fa3e08e3b78",
+    "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+    "published_at": "2026-11-25T16:02:31Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_61c247b514ac1f16",
+    "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+    "published_at": "2026-11-25T16:02:07Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_dff5612e55f1fce7",
+    "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+    "published_at": "2026-11-25T15:59:44Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_dfef5a706a044a25",
+    "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+    "published_at": "2026-11-25T14:47:17Z",
+    "engagement": 0,
+    "summary": "",
+    "tags": [
+      "news",
+      "coindesk"
+    ]
+  },
+  {
+    "id": "news_079b34db2aaf75f1",
+    "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-11-25T14:21:36Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg\" /> <",
+    "tags": [
+      "news",
+      "cointelegraph"
+    ]
+  },
+  {
+    "id": "news_62f5e52fa9f6336d",
+    "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+    "platform": "news",
+    "content_type": "article",
+    "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+    "published_at": "2026-11-25T13:41:38Z",
+    "engagement": 0,
+    "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.",
+    "tags": [
+      "news",
+      "decrypt"
     ]
   },
   {
@@ -210,78 +574,8 @@
     ]
   },
   {
-    "id": "news_5fcc8b2a2c7de15c",
-    "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T10:57:52Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"HYPE drops 8% as Trump bump gives way to 40% slide from peak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg\" /> ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_11a82ff1de5feb59",
-    "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-    "published_at": "2026-11-25T10:35:57Z",
-    "engagement": 0,
-    "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b99ae0987ec4acb8",
-    "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T09:58:12Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"French Senate rejects 100K euro crypto wallet disclosure requirement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88YZH1Y4T5PBK7RDG4Q0MK6/hi-france-aml-law-kic",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_b4584aa160ed870f",
-    "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T09:52:22Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88S65ZHJZ9ADXV7410RFRPP/vortex11111.png\" /> <",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_a4c5b8f57bedf53c",
-    "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T08:40:28Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"EU seeks up to $55B for AI and quantum computing fund: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88WT0WPRVQ4457VHKSH5XGT/ai-quantum-tech-eu.png\" /> <",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_76c91e67d3ae3743",
-    "title": "Live updates: Bitcoin slips back under $59,000, with tech rout continuing",
+    "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
@@ -291,20 +585,6 @@
     "tags": [
       "news",
       "coindesk"
-    ]
-  },
-  {
-    "id": "news_484bc6718182f39a",
-    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T06:54:59Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"South Korea’s crypto bill could move stablecoin race beyond token issuance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-so",
-    "tags": [
-      "news",
-      "cointelegraph"
     ]
   },
   {
@@ -336,292 +616,12 @@
     ]
   },
   {
-    "id": "news_cac981a48f7fe300",
-    "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T05:32:55Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Solana DEX Velocity halts trading over bug just months after relaunch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-lapto",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
     "id": "news_26f291b5be852682",
     "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
     "platform": "news",
     "content_type": "article",
     "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
     "published_at": "2026-11-25T04:57:22Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_aee304b6b0729883",
-    "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
-    "published_at": "2026-11-25T04:50:08Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_8a61905ad8155630",
-    "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T04:14:42Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Trump willing to pardon Jensen Huang, says it won’t be necessary\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88E9VB55FV73DKVAAMJZFV1/hi-trump-speak-loud.jpg\" ",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_adc7421c0f740dd7",
-    "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
-    "published_at": "2026-11-25T03:35:20Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_d82c6430bea7d673",
-    "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-25T01:40:59Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"CleanSpark weighs selling more Bitcoin than it mines to de-risk books\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_1f3ce6acc6f5850e",
-    "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-11-24T23:48:16Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"> <img alt=\"Hackers breach CIA intelligence network in latest US cyberattack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jp",
-    "tags": [
-      "news",
-      "cointelegraph"
-    ]
-  },
-  {
-    "id": "news_eeeb020a15d1468d",
-    "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-    "published_at": "2026-11-24T22:36:02Z",
-    "engagement": 0,
-    "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_42621e8bedd80e8a",
-    "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-    "published_at": "2026-11-24T21:46:02Z",
-    "engagement": 0,
-    "summary": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c190ab57b96713b8",
-    "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-    "published_at": "2026-11-24T21:16:02Z",
-    "engagement": 0,
-    "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ac564b69812efd28",
-    "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-    "published_at": "2026-11-24T20:36:02Z",
-    "engagement": 0,
-    "summary": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ac125d3105b422d2",
-    "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-    "published_at": "2026-11-24T19:35:32Z",
-    "engagement": 0,
-    "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_c3a5e833a6d2ccda",
-    "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-    "published_at": "2026-11-24T18:55:27Z",
-    "engagement": 0,
-    "summary": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_b1d5282cedc6e40f",
-    "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-    "published_at": "2026-11-24T18:36:03Z",
-    "engagement": 0,
-    "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_53997e5117987a69",
-    "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-    "published_at": "2026-11-24T18:16:02Z",
-    "engagement": 0,
-    "summary": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_ad6086f5b4cc8313",
-    "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
-    "published_at": "2026-11-24T17:50:08Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_f954174988e9f882",
-    "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-    "published_at": "2026-11-24T17:45:22Z",
-    "engagement": 0,
-    "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_380cd6eed7f6c73c",
-    "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-    "published_at": "2026-11-24T17:43:03Z",
-    "engagement": 0,
-    "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-    "tags": [
-      "news",
-      "decrypt"
-    ]
-  },
-  {
-    "id": "news_f26bd324c8c6b5e3",
-    "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-    "published_at": "2026-11-24T16:00:25Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_fdc6ff04b636ada8",
-    "title": "Anchorage Digital to unveil new asset-management subsidiary",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
-    "published_at": "2026-11-24T15:06:32Z",
-    "engagement": 0,
-    "summary": "",
-    "tags": [
-      "news",
-      "coindesk"
-    ]
-  },
-  {
-    "id": "news_50444a7d0f0624da",
-    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-    "platform": "news",
-    "content_type": "article",
-    "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-    "published_at": "2026-11-24T14:40:53Z",
     "engagement": 0,
     "summary": "",
     "tags": [
